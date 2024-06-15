@@ -65,7 +65,7 @@ build CMakeFiles/algorithm.dir/main.cpp.obj: CXX_COMPILER__algorithm_unscanned_D
 
 build algorithm.exe: CXX_EXECUTABLE_LINKER__algorithm_Debug CMakeFiles/algorithm.dir/main.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\algorithm.dir
   POST_BUILD = cd .
@@ -99,7 +99,7 @@ build CMakeFiles/test.dir/leetcode/test.cpp.obj: CXX_COMPILER__test_unscanned_De
 
 build test.exe: CXX_EXECUTABLE_LINKER__test_Debug CMakeFiles/test.dir/leetcode/test.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\test.dir
   POST_BUILD = cd .
@@ -133,7 +133,7 @@ build CMakeFiles/3-longest-substring-without-repeating-characters.dir/leetcode/3
 
 build 3-longest-substring-without-repeating-characters.exe: CXX_EXECUTABLE_LINKER__3-longest-substring-without-repeating-characters_Debug CMakeFiles/3-longest-substring-without-repeating-characters.dir/leetcode/3-longest-substring-without-repeating-characters.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\3-longest-substring-without-repeating-characters.dir
   POST_BUILD = cd .
@@ -167,7 +167,7 @@ build CMakeFiles/206-reverse-linked-list.dir/leetcode/206-reverse-linked-list.cp
 
 build 206-reverse-linked-list.exe: CXX_EXECUTABLE_LINKER__206-reverse-linked-list_Debug CMakeFiles/206-reverse-linked-list.dir/leetcode/206-reverse-linked-list.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\206-reverse-linked-list.dir
   POST_BUILD = cd .
@@ -201,7 +201,7 @@ build CMakeFiles/146-lru-cache.dir/leetcode/146-lru-cache.cpp.obj: CXX_COMPILER_
 
 build 146-lru-cache.exe: CXX_EXECUTABLE_LINKER__146-lru-cache_Debug CMakeFiles/146-lru-cache.dir/leetcode/146-lru-cache.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\146-lru-cache.dir
   POST_BUILD = cd .
@@ -235,7 +235,7 @@ build CMakeFiles/215-kth-largest-element-in-an-array.dir/leetcode/215-kth-larges
 
 build 215-kth-largest-element-in-an-array.exe: CXX_EXECUTABLE_LINKER__215-kth-largest-element-in-an-array_Debug CMakeFiles/215-kth-largest-element-in-an-array.dir/leetcode/215-kth-largest-element-in-an-array.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\215-kth-largest-element-in-an-array.dir
   POST_BUILD = cd .
@@ -269,7 +269,7 @@ build CMakeFiles/25-reverse-nodes-in-k-group.dir/leetcode/25-reverse-nodes-in-k-
 
 build 25-reverse-nodes-in-k-group.exe: CXX_EXECUTABLE_LINKER__25-reverse-nodes-in-k-group_Debug CMakeFiles/25-reverse-nodes-in-k-group.dir/leetcode/25-reverse-nodes-in-k-group.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\25-reverse-nodes-in-k-group.dir
   POST_BUILD = cd .
@@ -303,7 +303,7 @@ build CMakeFiles/QuickSort.dir/leetcode/QuickSort.cpp.obj: CXX_COMPILER__QuickSo
 
 build QuickSort.exe: CXX_EXECUTABLE_LINKER__QuickSort_Debug CMakeFiles/QuickSort.dir/leetcode/QuickSort.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\QuickSort.dir
   POST_BUILD = cd .
@@ -337,7 +337,7 @@ build CMakeFiles/15-3sum.dir/leetcode/15-3sum.cpp.obj: CXX_COMPILER__15-3sum_uns
 
 build 15-3sum.exe: CXX_EXECUTABLE_LINKER__15-3sum_Debug CMakeFiles/15-3sum.dir/leetcode/15-3sum.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\15-3sum.dir
   POST_BUILD = cd .
@@ -371,7 +371,7 @@ build CMakeFiles/53-maximum-subarray.dir/leetcode/53-maximum-subarray.cpp.obj: C
 
 build 53-maximum-subarray.exe: CXX_EXECUTABLE_LINKER__53-maximum-subarray_Debug CMakeFiles/53-maximum-subarray.dir/leetcode/53-maximum-subarray.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\53-maximum-subarray.dir
   POST_BUILD = cd .
@@ -405,7 +405,7 @@ build CMakeFiles/01_Backpack_issue.dir/acwing/dp_study/01_Backpack_issue.cpp.obj
 
 build 01_Backpack_issue.exe: CXX_EXECUTABLE_LINKER__01_Backpack_issue_Debug CMakeFiles/01_Backpack_issue.dir/acwing/dp_study/01_Backpack_issue.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\01_Backpack_issue.dir
   POST_BUILD = cd .
@@ -439,7 +439,7 @@ build CMakeFiles/01_Backpack_issue_dp.dir/acwing/dp_study/01_Backpack_issue_dp.c
 
 build 01_Backpack_issue_dp.exe: CXX_EXECUTABLE_LINKER__01_Backpack_issue_dp_Debug CMakeFiles/01_Backpack_issue_dp.dir/acwing/dp_study/01_Backpack_issue_dp.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\01_Backpack_issue_dp.dir
   POST_BUILD = cd .
@@ -473,7 +473,7 @@ build CMakeFiles/70-climbing-stairs.dir/leetcode/dynamic_programming/70-climbing
 
 build 70-climbing-stairs.exe: CXX_EXECUTABLE_LINKER__70-climbing-stairs_Debug CMakeFiles/70-climbing-stairs.dir/leetcode/dynamic_programming/70-climbing-stairs.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\70-climbing-stairs.dir
   POST_BUILD = cd .
@@ -507,7 +507,7 @@ build CMakeFiles/5-longest-palindromic-substring.dir/leetcode/dynamic_programmin
 
 build 5-longest-palindromic-substring.exe: CXX_EXECUTABLE_LINKER__5-longest-palindromic-substring_Debug CMakeFiles/5-longest-palindromic-substring.dir/leetcode/dynamic_programming/5-longest-palindromic-substring.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\5-longest-palindromic-substring.dir
   POST_BUILD = cd .
@@ -541,7 +541,7 @@ build CMakeFiles/62-unique-paths.dir/leetcode/dynamic_programming/62-unique-path
 
 build 62-unique-paths.exe: CXX_EXECUTABLE_LINKER__62-unique-paths_Debug CMakeFiles/62-unique-paths.dir/leetcode/dynamic_programming/62-unique-paths.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\62-unique-paths.dir
   POST_BUILD = cd .
@@ -575,7 +575,7 @@ build CMakeFiles/63-unique-paths-ii.dir/leetcode/dynamic_programming/63-unique-p
 
 build 63-unique-paths-ii.exe: CXX_EXECUTABLE_LINKER__63-unique-paths-ii_Debug CMakeFiles/63-unique-paths-ii.dir/leetcode/dynamic_programming/63-unique-paths-ii.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\63-unique-paths-ii.dir
   POST_BUILD = cd .
@@ -609,7 +609,7 @@ build CMakeFiles/64-minimum-path-sum.dir/leetcode/dynamic_programming/64-minimum
 
 build 64-minimum-path-sum.exe: CXX_EXECUTABLE_LINKER__64-minimum-path-sum_Debug CMakeFiles/64-minimum-path-sum.dir/leetcode/dynamic_programming/64-minimum-path-sum.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\64-minimum-path-sum.dir
   POST_BUILD = cd .
@@ -643,7 +643,7 @@ build CMakeFiles/72-edit-distance.dir/leetcode/dynamic_programming/72-edit-dista
 
 build 72-edit-distance.exe: CXX_EXECUTABLE_LINKER__72-edit-distance_Debug CMakeFiles/72-edit-distance.dir/leetcode/dynamic_programming/72-edit-distance.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\72-edit-distance.dir
   POST_BUILD = cd .
@@ -677,7 +677,7 @@ build CMakeFiles/912-sort-an-array.dir/leetcode/912-sort-an-array.cpp.obj: CXX_C
 
 build 912-sort-an-array.exe: CXX_EXECUTABLE_LINKER__912-sort-an-array_Debug CMakeFiles/912-sort-an-array.dir/leetcode/912-sort-an-array.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\912-sort-an-array.dir
   POST_BUILD = cd .
@@ -711,7 +711,7 @@ build CMakeFiles/21-merge-two-sorted-lists.dir/leetcode/21-merge-two-sorted-list
 
 build 21-merge-two-sorted-lists.exe: CXX_EXECUTABLE_LINKER__21-merge-two-sorted-lists_Debug CMakeFiles/21-merge-two-sorted-lists.dir/leetcode/21-merge-two-sorted-lists.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\21-merge-two-sorted-lists.dir
   POST_BUILD = cd .
@@ -745,7 +745,7 @@ build CMakeFiles/102-binary-tree-level-order-traversal.dir/leetcode/102-binary-t
 
 build 102-binary-tree-level-order-traversal.exe: CXX_EXECUTABLE_LINKER__102-binary-tree-level-order-traversal_Debug CMakeFiles/102-binary-tree-level-order-traversal.dir/leetcode/102-binary-tree-level-order-traversal.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\102-binary-tree-level-order-traversal.dir
   POST_BUILD = cd .
@@ -779,7 +779,7 @@ build CMakeFiles/33-search-in-rotated-sorted-array.dir/leetcode/33-search-in-rot
 
 build 33-search-in-rotated-sorted-array.exe: CXX_EXECUTABLE_LINKER__33-search-in-rotated-sorted-array_Debug CMakeFiles/33-search-in-rotated-sorted-array.dir/leetcode/33-search-in-rotated-sorted-array.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\33-search-in-rotated-sorted-array.dir
   POST_BUILD = cd .
@@ -813,7 +813,7 @@ build CMakeFiles/200-number-of-islands.dir/leetcode/200-number-of-islands.cpp.ob
 
 build 200-number-of-islands.exe: CXX_EXECUTABLE_LINKER__200-number-of-islands_Debug CMakeFiles/200-number-of-islands.dir/leetcode/200-number-of-islands.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\200-number-of-islands.dir
   POST_BUILD = cd .
@@ -847,7 +847,7 @@ build CMakeFiles/80-remove-duplicates-from-sorted-array-ii.dir/leetcode/80-remov
 
 build 80-remove-duplicates-from-sorted-array-ii.exe: CXX_EXECUTABLE_LINKER__80-remove-duplicates-from-sorted-array-ii_Debug CMakeFiles/80-remove-duplicates-from-sorted-array-ii.dir/leetcode/80-remove-duplicates-from-sorted-array-ii.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\80-remove-duplicates-from-sorted-array-ii.dir
   POST_BUILD = cd .
@@ -881,7 +881,7 @@ build CMakeFiles/169-majority-element.dir/leetcode/169-majority-element.cpp.obj:
 
 build 169-majority-element.exe: CXX_EXECUTABLE_LINKER__169-majority-element_Debug CMakeFiles/169-majority-element.dir/leetcode/169-majority-element.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\169-majority-element.dir
   POST_BUILD = cd .
@@ -915,7 +915,7 @@ build CMakeFiles/189-rotate-array.dir/leetcode/189-rotate-array.cpp.obj: CXX_COM
 
 build 189-rotate-array.exe: CXX_EXECUTABLE_LINKER__189-rotate-array_Debug CMakeFiles/189-rotate-array.dir/leetcode/189-rotate-array.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\189-rotate-array.dir
   POST_BUILD = cd .
@@ -949,7 +949,7 @@ build CMakeFiles/55-jump-game.dir/leetcode/55-jump-game.cpp.obj: CXX_COMPILER__5
 
 build 55-jump-game.exe: CXX_EXECUTABLE_LINKER__55-jump-game_Debug CMakeFiles/55-jump-game.dir/leetcode/55-jump-game.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\55-jump-game.dir
   POST_BUILD = cd .
@@ -983,7 +983,7 @@ build CMakeFiles/45-jump-game-ii.dir/leetcode/45-jump-game-ii.cpp.obj: CXX_COMPI
 
 build 45-jump-game-ii.exe: CXX_EXECUTABLE_LINKER__45-jump-game-ii_Debug CMakeFiles/45-jump-game-ii.dir/leetcode/45-jump-game-ii.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\45-jump-game-ii.dir
   POST_BUILD = cd .
@@ -1017,7 +1017,7 @@ build CMakeFiles/380-insert-delete-getrandom-o1.dir/leetcode/380-insert-delete-g
 
 build 380-insert-delete-getrandom-o1.exe: CXX_EXECUTABLE_LINKER__380-insert-delete-getrandom-o1_Debug CMakeFiles/380-insert-delete-getrandom-o1.dir/leetcode/380-insert-delete-getrandom-o1.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\380-insert-delete-getrandom-o1.dir
   POST_BUILD = cd .
@@ -1051,7 +1051,7 @@ build CMakeFiles/01.dir/pdd/01.cpp.obj: CXX_COMPILER__01_unscanned_Debug D$:/Jet
 
 build 01.exe: CXX_EXECUTABLE_LINKER__01_Debug CMakeFiles/01.dir/pdd/01.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\01.dir
   POST_BUILD = cd .
@@ -1085,7 +1085,7 @@ build CMakeFiles/02.dir/pdd/02.cpp.obj: CXX_COMPILER__02_unscanned_Debug D$:/Jet
 
 build 02.exe: CXX_EXECUTABLE_LINKER__02_Debug CMakeFiles/02.dir/pdd/02.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\02.dir
   POST_BUILD = cd .
@@ -1119,7 +1119,7 @@ build CMakeFiles/236-lowest-common-ancestor-of-a-binary-tree.dir/leetcode/236-lo
 
 build 236-lowest-common-ancestor-of-a-binary-tree.exe: CXX_EXECUTABLE_LINKER__236-lowest-common-ancestor-of-a-binary-tree_Debug CMakeFiles/236-lowest-common-ancestor-of-a-binary-tree.dir/leetcode/236-lowest-common-ancestor-of-a-binary-tree.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\236-lowest-common-ancestor-of-a-binary-tree.dir
   POST_BUILD = cd .
@@ -1153,7 +1153,7 @@ build CMakeFiles/695-max-area-of-island.dir/leetcode/695-max-area-of-island.cpp.
 
 build 695-max-area-of-island.exe: CXX_EXECUTABLE_LINKER__695-max-area-of-island_Debug CMakeFiles/695-max-area-of-island.dir/leetcode/695-max-area-of-island.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\695-max-area-of-island.dir
   POST_BUILD = cd .
@@ -1187,7 +1187,7 @@ build CMakeFiles/827-making-a-large-island.dir/leetcode/827-making-a-large-islan
 
 build 827-making-a-large-island.exe: CXX_EXECUTABLE_LINKER__827-making-a-large-island_Debug CMakeFiles/827-making-a-large-island.dir/leetcode/827-making-a-large-island.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\827-making-a-large-island.dir
   POST_BUILD = cd .
@@ -1221,7 +1221,7 @@ build CMakeFiles/739-daily-temperatures.dir/leetcode/739-daily-temperatures.cpp.
 
 build 739-daily-temperatures.exe: CXX_EXECUTABLE_LINKER__739-daily-temperatures_Debug CMakeFiles/739-daily-temperatures.dir/leetcode/739-daily-temperatures.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\739-daily-temperatures.dir
   POST_BUILD = cd .
@@ -1255,7 +1255,7 @@ build CMakeFiles/463-island-perimeter.dir/leetcode/463-island-perimeter.cpp.obj:
 
 build 463-island-perimeter.exe: CXX_EXECUTABLE_LINKER__463-island-perimeter_Debug CMakeFiles/463-island-perimeter.dir/leetcode/463-island-perimeter.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\463-island-perimeter.dir
   POST_BUILD = cd .
@@ -1289,7 +1289,7 @@ build CMakeFiles/1997-first-day-where-you-have-been-in-all-the-rooms.dir/leetcod
 
 build 1997-first-day-where-you-have-been-in-all-the-rooms.exe: CXX_EXECUTABLE_LINKER__1997-first-day-where-you-have-been-in-all-the-rooms_Debug CMakeFiles/1997-first-day-where-you-have-been-in-all-the-rooms.dir/leetcode/1997-first-day-where-you-have-been-in-all-the-rooms.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\1997-first-day-where-you-have-been-in-all-the-rooms.dir
   POST_BUILD = cd .
@@ -1323,7 +1323,7 @@ build CMakeFiles/54-spiral-matrix.dir/leetcode/54-spiral-matrix.cpp.obj: CXX_COM
 
 build 54-spiral-matrix.exe: CXX_EXECUTABLE_LINKER__54-spiral-matrix_Debug CMakeFiles/54-spiral-matrix.dir/leetcode/54-spiral-matrix.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\54-spiral-matrix.dir
   POST_BUILD = cd .
@@ -1357,7 +1357,7 @@ build CMakeFiles/46-permutations.dir/leetcode/46-permutations.cpp.obj: CXX_COMPI
 
 build 46-permutations.exe: CXX_EXECUTABLE_LINKER__46-permutations_Debug CMakeFiles/46-permutations.dir/leetcode/46-permutations.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\46-permutations.dir
   POST_BUILD = cd .
@@ -1391,7 +1391,7 @@ build CMakeFiles/31-next-permutation.dir/leetcode/31-next-permutation.cpp.obj: C
 
 build 31-next-permutation.exe: CXX_EXECUTABLE_LINKER__31-next-permutation_Debug CMakeFiles/31-next-permutation.dir/leetcode/31-next-permutation.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\31-next-permutation.dir
   POST_BUILD = cd .
@@ -1425,7 +1425,7 @@ build CMakeFiles/300-longest-increasing-subsequence.dir/leetcode/300-longest-inc
 
 build 300-longest-increasing-subsequence.exe: CXX_EXECUTABLE_LINKER__300-longest-increasing-subsequence_Debug CMakeFiles/300-longest-increasing-subsequence.dir/leetcode/300-longest-increasing-subsequence.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\300-longest-increasing-subsequence.dir
   POST_BUILD = cd .
@@ -1459,7 +1459,7 @@ build CMakeFiles/92-reverse-linked-list-ii.dir/leetcode/92-reverse-linked-list-i
 
 build 92-reverse-linked-list-ii.exe: CXX_EXECUTABLE_LINKER__92-reverse-linked-list-ii_Debug CMakeFiles/92-reverse-linked-list-ii.dir/leetcode/92-reverse-linked-list-ii.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\92-reverse-linked-list-ii.dir
   POST_BUILD = cd .
@@ -1493,7 +1493,7 @@ build CMakeFiles/1.dir/wy/1.cpp.obj: CXX_COMPILER__1_unscanned_Debug D$:/JetBrai
 
 build 1.exe: CXX_EXECUTABLE_LINKER__1_Debug CMakeFiles/1.dir/wy/1.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\1.dir
   POST_BUILD = cd .
@@ -1527,7 +1527,7 @@ build CMakeFiles/2.dir/wy/2.cpp.obj: CXX_COMPILER__2_unscanned_Debug D$:/JetBrai
 
 build 2.exe: CXX_EXECUTABLE_LINKER__2_Debug CMakeFiles/2.dir/wy/2.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\2.dir
   POST_BUILD = cd .
@@ -1561,7 +1561,7 @@ build CMakeFiles/3.dir/wy/3.cpp.obj: CXX_COMPILER__3_unscanned_Debug D$:/JetBrai
 
 build 3.exe: CXX_EXECUTABLE_LINKER__3_Debug CMakeFiles/3.dir/wy/3.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\3.dir
   POST_BUILD = cd .
@@ -1595,7 +1595,7 @@ build CMakeFiles/4.dir/wy/4.cpp.obj: CXX_COMPILER__4_unscanned_Debug D$:/JetBrai
 
 build 4.exe: CXX_EXECUTABLE_LINKER__4_Debug CMakeFiles/4.dir/wy/4.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\4.dir
   POST_BUILD = cd .
@@ -1629,7 +1629,7 @@ build CMakeFiles/001.dir/tx/001.cpp.obj: CXX_COMPILER__001_unscanned_Debug D$:/J
 
 build 001.exe: CXX_EXECUTABLE_LINKER__001_Debug CMakeFiles/001.dir/tx/001.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\001.dir
   POST_BUILD = cd .
@@ -1663,7 +1663,7 @@ build CMakeFiles/002.dir/tx/002.cpp.obj: CXX_COMPILER__002_unscanned_Debug D$:/J
 
 build 002.exe: CXX_EXECUTABLE_LINKER__002_Debug CMakeFiles/002.dir/tx/002.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\002.dir
   POST_BUILD = cd .
@@ -1697,7 +1697,7 @@ build CMakeFiles/003.dir/tx/003.cpp.obj: CXX_COMPILER__003_unscanned_Debug D$:/J
 
 build 003.exe: CXX_EXECUTABLE_LINKER__003_Debug CMakeFiles/003.dir/tx/003.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\003.dir
   POST_BUILD = cd .
@@ -1731,7 +1731,7 @@ build CMakeFiles/005.dir/tx/005.cpp.obj: CXX_COMPILER__005_unscanned_Debug D$:/J
 
 build 005.exe: CXX_EXECUTABLE_LINKER__005_Debug CMakeFiles/005.dir/tx/005.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\005.dir
   POST_BUILD = cd .
@@ -1765,7 +1765,7 @@ build CMakeFiles/894-all-possible-full-binary-trees.dir/leetcode/894-all-possibl
 
 build 894-all-possible-full-binary-trees.exe: CXX_EXECUTABLE_LINKER__894-all-possible-full-binary-trees_Debug CMakeFiles/894-all-possible-full-binary-trees.dir/leetcode/894-all-possible-full-binary-trees.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\894-all-possible-full-binary-trees.dir
   POST_BUILD = cd .
@@ -1799,7 +1799,7 @@ build CMakeFiles/1702-maximum-binary-string-after-change.dir/leetcode/1702-maxim
 
 build 1702-maximum-binary-string-after-change.exe: CXX_EXECUTABLE_LINKER__1702-maximum-binary-string-after-change_Debug CMakeFiles/1702-maximum-binary-string-after-change.dir/leetcode/1702-maximum-binary-string-after-change.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\1702-maximum-binary-string-after-change.dir
   POST_BUILD = cd .
@@ -1833,7 +1833,7 @@ build CMakeFiles/42-trapping-rain-water.dir/leetcode/42-trapping-rain-water.cpp.
 
 build 42-trapping-rain-water.exe: CXX_EXECUTABLE_LINKER__42-trapping-rain-water_Debug CMakeFiles/42-trapping-rain-water.dir/leetcode/42-trapping-rain-water.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\42-trapping-rain-water.dir
   POST_BUILD = cd .
@@ -1867,7 +1867,7 @@ build CMakeFiles/209-minimum-size-subarray-sum.dir/leetcode/209-minimum-size-sub
 
 build 209-minimum-size-subarray-sum.exe: CXX_EXECUTABLE_LINKER__209-minimum-size-subarray-sum_Debug CMakeFiles/209-minimum-size-subarray-sum.dir/leetcode/209-minimum-size-subarray-sum.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\209-minimum-size-subarray-sum.dir
   POST_BUILD = cd .
@@ -1901,7 +1901,7 @@ build CMakeFiles/713-subarray-product-less-than-k.dir/leetcode/713-subarray-prod
 
 build 713-subarray-product-less-than-k.exe: CXX_EXECUTABLE_LINKER__713-subarray-product-less-than-k_Debug CMakeFiles/713-subarray-product-less-than-k.dir/leetcode/713-subarray-product-less-than-k.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\713-subarray-product-less-than-k.dir
   POST_BUILD = cd .
@@ -1935,7 +1935,7 @@ build CMakeFiles/meituan_1.dir/meituan/meituan_1.cpp.obj: CXX_COMPILER__meituan_
 
 build meituan_1.exe: CXX_EXECUTABLE_LINKER__meituan_1_Debug CMakeFiles/meituan_1.dir/meituan/meituan_1.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\meituan_1.dir
   POST_BUILD = cd .
@@ -1969,7 +1969,7 @@ build CMakeFiles/meituan2.dir/meituan/meituan_2.cpp.obj: CXX_COMPILER__meituan2_
 
 build meituan2.exe: CXX_EXECUTABLE_LINKER__meituan2_Debug CMakeFiles/meituan2.dir/meituan/meituan_2.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\meituan2.dir
   POST_BUILD = cd .
@@ -2003,7 +2003,7 @@ build CMakeFiles/meituan_3.dir/meituan/meituan_3.cpp.obj: CXX_COMPILER__meituan_
 
 build meituan_3.exe: CXX_EXECUTABLE_LINKER__meituan_3_Debug CMakeFiles/meituan_3.dir/meituan/meituan_3.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\meituan_3.dir
   POST_BUILD = cd .
@@ -2037,7 +2037,7 @@ build CMakeFiles/meituan_4.dir/meituan/meituan_4.cpp.obj: CXX_COMPILER__meituan_
 
 build meituan_4.exe: CXX_EXECUTABLE_LINKER__meituan_4_Debug CMakeFiles/meituan_4.dir/meituan/meituan_4.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\meituan_4.dir
   POST_BUILD = cd .
@@ -2071,7 +2071,7 @@ build CMakeFiles/meituan_5.dir/meituan/meituan_5.cpp.obj: CXX_COMPILER__meituan_
 
 build meituan_5.exe: CXX_EXECUTABLE_LINKER__meituan_5_Debug CMakeFiles/meituan_5.dir/meituan/meituan_5.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\meituan_5.dir
   POST_BUILD = cd .
@@ -2105,7 +2105,7 @@ build CMakeFiles/34-find-first-and-last-position-of-element-in-sorted-array.dir/
 
 build 34-find-first-and-last-position-of-element-in-sorted-array.exe: CXX_EXECUTABLE_LINKER__34-find-first-and-last-position-of-element-in-sorted-array_Debug CMakeFiles/34-find-first-and-last-position-of-element-in-sorted-array.dir/leetcode/34-find-first-and-last-position-of-element-in-sorted-array.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\34-find-first-and-last-position-of-element-in-sorted-array.dir
   POST_BUILD = cd .
@@ -2139,7 +2139,7 @@ build CMakeFiles/162-find-peak-element.dir/leetcode/162-find-peak-element.cpp.ob
 
 build 162-find-peak-element.exe: CXX_EXECUTABLE_LINKER__162-find-peak-element_Debug CMakeFiles/162-find-peak-element.dir/leetcode/162-find-peak-element.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\162-find-peak-element.dir
   POST_BUILD = cd .
@@ -2173,7 +2173,7 @@ build CMakeFiles/153-find-minimum-in-rotated-sorted-array.dir/leetcode/153-find-
 
 build 153-find-minimum-in-rotated-sorted-array.exe: CXX_EXECUTABLE_LINKER__153-find-minimum-in-rotated-sorted-array_Debug CMakeFiles/153-find-minimum-in-rotated-sorted-array.dir/leetcode/153-find-minimum-in-rotated-sorted-array.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\153-find-minimum-in-rotated-sorted-array.dir
   POST_BUILD = cd .
@@ -2207,7 +2207,7 @@ build CMakeFiles/tx.dir/tx/tx.cpp.obj: CXX_COMPILER__tx_unscanned_Debug D$:/JetB
 
 build tx.exe: CXX_EXECUTABLE_LINKER__tx_Debug CMakeFiles/tx.dir/tx/tx.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\tx.dir
   POST_BUILD = cd .
@@ -2241,7 +2241,7 @@ build CMakeFiles/huawei_1.dir/huawei/huawei_1.cpp.obj: CXX_COMPILER__huawei_1_un
 
 build huawei_1.exe: CXX_EXECUTABLE_LINKER__huawei_1_Debug CMakeFiles/huawei_1.dir/huawei/huawei_1.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\huawei_1.dir
   POST_BUILD = cd .
@@ -2275,7 +2275,7 @@ build CMakeFiles/huawei_2.dir/huawei/huawei_2.cpp.obj: CXX_COMPILER__huawei_2_un
 
 build huawei_2.exe: CXX_EXECUTABLE_LINKER__huawei_2_Debug CMakeFiles/huawei_2.dir/huawei/huawei_2.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\huawei_2.dir
   POST_BUILD = cd .
@@ -2309,7 +2309,7 @@ build CMakeFiles/huawei_3.dir/huawei/huawei_3.cpp.obj: CXX_COMPILER__huawei_3_un
 
 build huawei_3.exe: CXX_EXECUTABLE_LINKER__huawei_3_Debug CMakeFiles/huawei_3.dir/huawei/huawei_3.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\huawei_3.dir
   POST_BUILD = cd .
@@ -2343,7 +2343,7 @@ build CMakeFiles/huawei_1_2.dir/huawei/huawei_1_2.cpp.obj: CXX_COMPILER__huawei_
 
 build huawei_1_2.exe: CXX_EXECUTABLE_LINKER__huawei_1_2_Debug CMakeFiles/huawei_1_2.dir/huawei/huawei_1_2.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\huawei_1_2.dir
   POST_BUILD = cd .
@@ -2377,7 +2377,7 @@ build CMakeFiles/460-lfu-cache.dir/leetcode/460-lfu-cache.cpp.obj: CXX_COMPILER_
 
 build 460-lfu-cache.exe: CXX_EXECUTABLE_LINKER__460-lfu-cache_Debug CMakeFiles/460-lfu-cache.dir/leetcode/460-lfu-cache.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\460-lfu-cache.dir
   POST_BUILD = cd .
@@ -2411,7 +2411,7 @@ build CMakeFiles/test1.dir/test/test1.cpp.obj: CXX_COMPILER__test1_unscanned_Deb
 
 build test1.exe: CXX_EXECUTABLE_LINKER__test1_Debug CMakeFiles/test1.dir/test/test1.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\test1.dir
   POST_BUILD = cd .
@@ -2445,7 +2445,7 @@ build CMakeFiles/2126-destroying-asteroids.dir/leetcode/2126-destroying-asteroid
 
 build 2126-destroying-asteroids.exe: CXX_EXECUTABLE_LINKER__2126-destroying-asteroids_Debug CMakeFiles/2126-destroying-asteroids.dir/leetcode/2126-destroying-asteroids.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\2126-destroying-asteroids.dir
   POST_BUILD = cd .
@@ -2479,7 +2479,7 @@ build CMakeFiles/3080-mark-elements-on-array-by-performing-queries.dir/leetcode/
 
 build 3080-mark-elements-on-array-by-performing-queries.exe: CXX_EXECUTABLE_LINKER__3080-mark-elements-on-array-by-performing-queries_Debug CMakeFiles/3080-mark-elements-on-array-by-performing-queries.dir/leetcode/3080-mark-elements-on-array-by-performing-queries.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\3080-mark-elements-on-array-by-performing-queries.dir
   POST_BUILD = cd .
@@ -2487,40 +2487,6 @@ build 3080-mark-elements-on-array-by-performing-queries.exe: CXX_EXECUTABLE_LINK
   TARGET_FILE = 3080-mark-elements-on-array-by-performing-queries.exe
   TARGET_IMPLIB = lib3080-mark-elements-on-array-by-performing-queries.dll.a
   TARGET_PDB = 3080-mark-elements-on-array-by-performing-queries.exe.dbg
-
-# =============================================================================
-# Object build statements for EXECUTABLE target binary_search_red_blue
-
-
-#############################################
-# Order-only phony target for binary_search_red_blue
-
-build cmake_object_order_depends_target_binary_search_red_blue: phony || CMakeFiles/binary_search_red_blue.dir
-
-build CMakeFiles/binary_search_red_blue.dir/Study_lingchashan/binary_search_red_blue.cpp.obj: CXX_COMPILER__binary_search_red_blue_unscanned_Debug D$:/JetBrainsClints/CLion$ Nova/algorithm/Study_lingchashan/binary_search_red_blue.cpp || cmake_object_order_depends_target_binary_search_red_blue
-  DEP_FILE = CMakeFiles\binary_search_red_blue.dir\Study_lingchashan\binary_search_red_blue.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\binary_search_red_blue.dir
-  OBJECT_FILE_DIR = CMakeFiles\binary_search_red_blue.dir\Study_lingchashan
-
-
-# =============================================================================
-# Link build statements for EXECUTABLE target binary_search_red_blue
-
-
-#############################################
-# Link the executable binary_search_red_blue.exe
-
-build binary_search_red_blue.exe: CXX_EXECUTABLE_LINKER__binary_search_red_blue_Debug CMakeFiles/binary_search_red_blue.dir/Study_lingchashan/binary_search_red_blue.cpp.obj
-  FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
-  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\binary_search_red_blue.dir
-  POST_BUILD = cd .
-  PRE_LINK = cd .
-  TARGET_FILE = binary_search_red_blue.exe
-  TARGET_IMPLIB = libbinary_search_red_blue.dll.a
-  TARGET_PDB = binary_search_red_blue.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target 876-middle-of-the-linked-list
@@ -2547,7 +2513,7 @@ build CMakeFiles/876-middle-of-the-linked-list.dir/leetcode/876-middle-of-the-li
 
 build 876-middle-of-the-linked-list.exe: CXX_EXECUTABLE_LINKER__876-middle-of-the-linked-list_Debug CMakeFiles/876-middle-of-the-linked-list.dir/leetcode/876-middle-of-the-linked-list.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\876-middle-of-the-linked-list.dir
   POST_BUILD = cd .
@@ -2581,7 +2547,7 @@ build CMakeFiles/141-linked-list-cycle.dir/leetcode/141-linked-list-cycle.cpp.ob
 
 build 141-linked-list-cycle.exe: CXX_EXECUTABLE_LINKER__141-linked-list-cycle_Debug CMakeFiles/141-linked-list-cycle.dir/leetcode/141-linked-list-cycle.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\141-linked-list-cycle.dir
   POST_BUILD = cd .
@@ -2615,7 +2581,7 @@ build CMakeFiles/142-linked-list-cycle-ii.dir/leetcode/142-linked-list-cycle-ii.
 
 build 142-linked-list-cycle-ii.exe: CXX_EXECUTABLE_LINKER__142-linked-list-cycle-ii_Debug CMakeFiles/142-linked-list-cycle-ii.dir/leetcode/142-linked-list-cycle-ii.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\142-linked-list-cycle-ii.dir
   POST_BUILD = cd .
@@ -2649,7 +2615,7 @@ build CMakeFiles/143-reorder-list.dir/leetcode/143-reorder-list.cpp.obj: CXX_COM
 
 build 143-reorder-list.exe: CXX_EXECUTABLE_LINKER__143-reorder-list_Debug CMakeFiles/143-reorder-list.dir/leetcode/143-reorder-list.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\143-reorder-list.dir
   POST_BUILD = cd .
@@ -2683,7 +2649,7 @@ build CMakeFiles/237-delete-node-in-a-linked-list.dir/leetcode/237-delete-node-i
 
 build 237-delete-node-in-a-linked-list.exe: CXX_EXECUTABLE_LINKER__237-delete-node-in-a-linked-list_Debug CMakeFiles/237-delete-node-in-a-linked-list.dir/leetcode/237-delete-node-in-a-linked-list.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\237-delete-node-in-a-linked-list.dir
   POST_BUILD = cd .
@@ -2717,7 +2683,7 @@ build CMakeFiles/19-remove-nth-node-from-end-of-list.dir/leetcode/19-remove-nth-
 
 build 19-remove-nth-node-from-end-of-list.exe: CXX_EXECUTABLE_LINKER__19-remove-nth-node-from-end-of-list_Debug CMakeFiles/19-remove-nth-node-from-end-of-list.dir/leetcode/19-remove-nth-node-from-end-of-list.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\19-remove-nth-node-from-end-of-list.dir
   POST_BUILD = cd .
@@ -2751,7 +2717,7 @@ build CMakeFiles/83-remove-duplicates-from-sorted-list.dir/leetcode/83-remove-du
 
 build 83-remove-duplicates-from-sorted-list.exe: CXX_EXECUTABLE_LINKER__83-remove-duplicates-from-sorted-list_Debug CMakeFiles/83-remove-duplicates-from-sorted-list.dir/leetcode/83-remove-duplicates-from-sorted-list.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\83-remove-duplicates-from-sorted-list.dir
   POST_BUILD = cd .
@@ -2785,7 +2751,7 @@ build CMakeFiles/82-remove-duplicates-from-sorted-list-ii.dir/leetcode/82-remove
 
 build 82-remove-duplicates-from-sorted-list-ii.exe: CXX_EXECUTABLE_LINKER__82-remove-duplicates-from-sorted-list-ii_Debug CMakeFiles/82-remove-duplicates-from-sorted-list-ii.dir/leetcode/82-remove-duplicates-from-sorted-list-ii.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\82-remove-duplicates-from-sorted-list-ii.dir
   POST_BUILD = cd .
@@ -2819,7 +2785,7 @@ build CMakeFiles/104-maximum-depth-of-binary-tree.dir/leetcode/104-maximum-depth
 
 build 104-maximum-depth-of-binary-tree.exe: CXX_EXECUTABLE_LINKER__104-maximum-depth-of-binary-tree_Debug CMakeFiles/104-maximum-depth-of-binary-tree.dir/leetcode/104-maximum-depth-of-binary-tree.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\104-maximum-depth-of-binary-tree.dir
   POST_BUILD = cd .
@@ -2853,7 +2819,7 @@ build CMakeFiles/100-same-tree.dir/leetcode/100-same-tree.cpp.obj: CXX_COMPILER_
 
 build 100-same-tree.exe: CXX_EXECUTABLE_LINKER__100-same-tree_Debug CMakeFiles/100-same-tree.dir/leetcode/100-same-tree.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\100-same-tree.dir
   POST_BUILD = cd .
@@ -2887,7 +2853,7 @@ build CMakeFiles/101-symmetric-tree.dir/leetcode/101-symmetric-tree.cpp.obj: CXX
 
 build 101-symmetric-tree.exe: CXX_EXECUTABLE_LINKER__101-symmetric-tree_Debug CMakeFiles/101-symmetric-tree.dir/leetcode/101-symmetric-tree.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\101-symmetric-tree.dir
   POST_BUILD = cd .
@@ -2921,7 +2887,7 @@ build CMakeFiles/110-balanced-binary-tree.dir/leetcode/110-balanced-binary-tree.
 
 build 110-balanced-binary-tree.exe: CXX_EXECUTABLE_LINKER__110-balanced-binary-tree_Debug CMakeFiles/110-balanced-binary-tree.dir/leetcode/110-balanced-binary-tree.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\110-balanced-binary-tree.dir
   POST_BUILD = cd .
@@ -2955,7 +2921,7 @@ build CMakeFiles/199-binary-tree-right-side-view.dir/leetcode/199-binary-tree-ri
 
 build 199-binary-tree-right-side-view.exe: CXX_EXECUTABLE_LINKER__199-binary-tree-right-side-view_Debug CMakeFiles/199-binary-tree-right-side-view.dir/leetcode/199-binary-tree-right-side-view.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\199-binary-tree-right-side-view.dir
   POST_BUILD = cd .
@@ -2989,7 +2955,7 @@ build CMakeFiles/98-validate-binary-search-tree.dir/leetcode/98-validate-binary-
 
 build 98-validate-binary-search-tree.exe: CXX_EXECUTABLE_LINKER__98-validate-binary-search-tree_Debug CMakeFiles/98-validate-binary-search-tree.dir/leetcode/98-validate-binary-search-tree.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\98-validate-binary-search-tree.dir
   POST_BUILD = cd .
@@ -3023,7 +2989,7 @@ build CMakeFiles/235-lowest-common-ancestor-of-a-binary-search-tree.dir/leetcode
 
 build 235-lowest-common-ancestor-of-a-binary-search-tree.exe: CXX_EXECUTABLE_LINKER__235-lowest-common-ancestor-of-a-binary-search-tree_Debug CMakeFiles/235-lowest-common-ancestor-of-a-binary-search-tree.dir/leetcode/235-lowest-common-ancestor-of-a-binary-search-tree.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\235-lowest-common-ancestor-of-a-binary-search-tree.dir
   POST_BUILD = cd .
@@ -3057,7 +3023,7 @@ build CMakeFiles/103-binary-tree-zigzag-level-order-traversal.dir/leetcode/103-b
 
 build 103-binary-tree-zigzag-level-order-traversal.exe: CXX_EXECUTABLE_LINKER__103-binary-tree-zigzag-level-order-traversal_Debug CMakeFiles/103-binary-tree-zigzag-level-order-traversal.dir/leetcode/103-binary-tree-zigzag-level-order-traversal.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\103-binary-tree-zigzag-level-order-traversal.dir
   POST_BUILD = cd .
@@ -3091,7 +3057,7 @@ build CMakeFiles/513-find-bottom-left-tree-value.dir/leetcode/513-find-bottom-le
 
 build 513-find-bottom-left-tree-value.exe: CXX_EXECUTABLE_LINKER__513-find-bottom-left-tree-value_Debug CMakeFiles/513-find-bottom-left-tree-value.dir/leetcode/513-find-bottom-left-tree-value.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\513-find-bottom-left-tree-value.dir
   POST_BUILD = cd .
@@ -3125,7 +3091,7 @@ build CMakeFiles/17-letter-combinations-of-a-phone-number.dir/leetcode/17-letter
 
 build 17-letter-combinations-of-a-phone-number.exe: CXX_EXECUTABLE_LINKER__17-letter-combinations-of-a-phone-number_Debug CMakeFiles/17-letter-combinations-of-a-phone-number.dir/leetcode/17-letter-combinations-of-a-phone-number.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\17-letter-combinations-of-a-phone-number.dir
   POST_BUILD = cd .
@@ -3159,7 +3125,7 @@ build CMakeFiles/78-subsets.dir/leetcode/78-subsets.cpp.obj: CXX_COMPILER__78-su
 
 build 78-subsets.exe: CXX_EXECUTABLE_LINKER__78-subsets_Debug CMakeFiles/78-subsets.dir/leetcode/78-subsets.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\78-subsets.dir
   POST_BUILD = cd .
@@ -3193,7 +3159,7 @@ build CMakeFiles/131-palindrome-partitioning.dir/leetcode/131-palindrome-partiti
 
 build 131-palindrome-partitioning.exe: CXX_EXECUTABLE_LINKER__131-palindrome-partitioning_Debug CMakeFiles/131-palindrome-partitioning.dir/leetcode/131-palindrome-partitioning.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\131-palindrome-partitioning.dir
   POST_BUILD = cd .
@@ -3227,7 +3193,7 @@ build CMakeFiles/2160-minimum-sum-of-four-digit-number-after-splitting-digits.di
 
 build 2160-minimum-sum-of-four-digit-number-after-splitting-digits.exe: CXX_EXECUTABLE_LINKER__2160-minimum-sum-of-four-digit-number-after-splitting-digits_Debug CMakeFiles/2160-minimum-sum-of-four-digit-number-after-splitting-digits.dir/leetcode/2160-minimum-sum-of-four-digit-number-after-splitting-digits.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\2160-minimum-sum-of-four-digit-number-after-splitting-digits.dir
   POST_BUILD = cd .
@@ -3261,7 +3227,7 @@ build CMakeFiles/77-combinations.dir/leetcode/77-combinations.cpp.obj: CXX_COMPI
 
 build 77-combinations.exe: CXX_EXECUTABLE_LINKER__77-combinations_Debug CMakeFiles/77-combinations.dir/leetcode/77-combinations.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\77-combinations.dir
   POST_BUILD = cd .
@@ -3295,7 +3261,7 @@ build CMakeFiles/216-combination-sum-iii.dir/leetcode/216-combination-sum-iii.cp
 
 build 216-combination-sum-iii.exe: CXX_EXECUTABLE_LINKER__216-combination-sum-iii_Debug CMakeFiles/216-combination-sum-iii.dir/leetcode/216-combination-sum-iii.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\216-combination-sum-iii.dir
   POST_BUILD = cd .
@@ -3329,7 +3295,7 @@ build CMakeFiles/22-generate-parentheses.dir/leetcode/22-generate-parentheses.cp
 
 build 22-generate-parentheses.exe: CXX_EXECUTABLE_LINKER__22-generate-parentheses_Debug CMakeFiles/22-generate-parentheses.dir/leetcode/22-generate-parentheses.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\22-generate-parentheses.dir
   POST_BUILD = cd .
@@ -3363,7 +3329,7 @@ build CMakeFiles/51-n-queens.dir/leetcode/51-n-queens.cpp.obj: CXX_COMPILER__51-
 
 build 51-n-queens.exe: CXX_EXECUTABLE_LINKER__51-n-queens_Debug CMakeFiles/51-n-queens.dir/leetcode/51-n-queens.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\51-n-queens.dir
   POST_BUILD = cd .
@@ -3397,7 +3363,7 @@ build CMakeFiles/198-house-robber.dir/leetcode/dynamic_programming/198-house-rob
 
 build 198-house-robber.exe: CXX_EXECUTABLE_LINKER__198-house-robber_Debug CMakeFiles/198-house-robber.dir/leetcode/dynamic_programming/198-house-robber.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\198-house-robber.dir
   POST_BUILD = cd .
@@ -3431,7 +3397,7 @@ build CMakeFiles/494-target-sum.dir/leetcode/dynamic_programming/494-target-sum.
 
 build 494-target-sum.exe: CXX_EXECUTABLE_LINKER__494-target-sum_Debug CMakeFiles/494-target-sum.dir/leetcode/dynamic_programming/494-target-sum.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\494-target-sum.dir
   POST_BUILD = cd .
@@ -3465,7 +3431,7 @@ build CMakeFiles/322-coin-change.dir/leetcode/dynamic_programming/322-coin-chang
 
 build 322-coin-change.exe: CXX_EXECUTABLE_LINKER__322-coin-change_Debug CMakeFiles/322-coin-change.dir/leetcode/dynamic_programming/322-coin-change.cpp.obj
   FLAGS = -g
-  LINK_FLAGS = -Wl,--stack,41943040
+  LINK_FLAGS = -Wl,--stack,20971520
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\322-coin-change.dir
   POST_BUILD = cd .
@@ -3473,6 +3439,618 @@ build 322-coin-change.exe: CXX_EXECUTABLE_LINKER__322-coin-change_Debug CMakeFil
   TARGET_FILE = 322-coin-change.exe
   TARGET_IMPLIB = lib322-coin-change.dll.a
   TARGET_PDB = 322-coin-change.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target a
+
+
+#############################################
+# Order-only phony target for a
+
+build cmake_object_order_depends_target_a: phony || CMakeFiles/a.dir
+
+build CMakeFiles/a.dir/tanch25/a.cpp.obj: CXX_COMPILER__a_unscanned_Debug D$:/JetBrainsClints/CLion$ Nova/algorithm/tanch25/a.cpp || cmake_object_order_depends_target_a
+  DEP_FILE = CMakeFiles\a.dir\tanch25\a.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\a.dir
+  OBJECT_FILE_DIR = CMakeFiles\a.dir\tanch25
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target a
+
+
+#############################################
+# Link the executable a.exe
+
+build a.exe: CXX_EXECUTABLE_LINKER__a_Debug CMakeFiles/a.dir/tanch25/a.cpp.obj
+  FLAGS = -g
+  LINK_FLAGS = -Wl,--stack,20971520
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\a.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = a.exe
+  TARGET_IMPLIB = liba.dll.a
+  TARGET_PDB = a.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target b
+
+
+#############################################
+# Order-only phony target for b
+
+build cmake_object_order_depends_target_b: phony || CMakeFiles/b.dir
+
+build CMakeFiles/b.dir/tanch25/b.cpp.obj: CXX_COMPILER__b_unscanned_Debug D$:/JetBrainsClints/CLion$ Nova/algorithm/tanch25/b.cpp || cmake_object_order_depends_target_b
+  DEP_FILE = CMakeFiles\b.dir\tanch25\b.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\b.dir
+  OBJECT_FILE_DIR = CMakeFiles\b.dir\tanch25
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target b
+
+
+#############################################
+# Link the executable b.exe
+
+build b.exe: CXX_EXECUTABLE_LINKER__b_Debug CMakeFiles/b.dir/tanch25/b.cpp.obj
+  FLAGS = -g
+  LINK_FLAGS = -Wl,--stack,20971520
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\b.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = b.exe
+  TARGET_IMPLIB = libb.dll.a
+  TARGET_PDB = b.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target c
+
+
+#############################################
+# Order-only phony target for c
+
+build cmake_object_order_depends_target_c: phony || CMakeFiles/c.dir
+
+build CMakeFiles/c.dir/tanch25/c.cpp.obj: CXX_COMPILER__c_unscanned_Debug D$:/JetBrainsClints/CLion$ Nova/algorithm/tanch25/c.cpp || cmake_object_order_depends_target_c
+  DEP_FILE = CMakeFiles\c.dir\tanch25\c.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\c.dir
+  OBJECT_FILE_DIR = CMakeFiles\c.dir\tanch25
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target c
+
+
+#############################################
+# Link the executable c.exe
+
+build c.exe: CXX_EXECUTABLE_LINKER__c_Debug CMakeFiles/c.dir/tanch25/c.cpp.obj
+  FLAGS = -g
+  LINK_FLAGS = -Wl,--stack,20971520
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\c.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = c.exe
+  TARGET_IMPLIB = libc.dll.a
+  TARGET_PDB = c.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target d
+
+
+#############################################
+# Order-only phony target for d
+
+build cmake_object_order_depends_target_d: phony || CMakeFiles/d.dir
+
+build CMakeFiles/d.dir/tanch25/d.cpp.obj: CXX_COMPILER__d_unscanned_Debug D$:/JetBrainsClints/CLion$ Nova/algorithm/tanch25/d.cpp || cmake_object_order_depends_target_d
+  DEP_FILE = CMakeFiles\d.dir\tanch25\d.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\d.dir
+  OBJECT_FILE_DIR = CMakeFiles\d.dir\tanch25
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target d
+
+
+#############################################
+# Link the executable d.exe
+
+build d.exe: CXX_EXECUTABLE_LINKER__d_Debug CMakeFiles/d.dir/tanch25/d.cpp.obj
+  FLAGS = -g
+  LINK_FLAGS = -Wl,--stack,20971520
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\d.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = d.exe
+  TARGET_IMPLIB = libd.dll.a
+  TARGET_PDB = d.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target e
+
+
+#############################################
+# Order-only phony target for e
+
+build cmake_object_order_depends_target_e: phony || CMakeFiles/e.dir
+
+build CMakeFiles/e.dir/tanch25/e.cpp.obj: CXX_COMPILER__e_unscanned_Debug D$:/JetBrainsClints/CLion$ Nova/algorithm/tanch25/e.cpp || cmake_object_order_depends_target_e
+  DEP_FILE = CMakeFiles\e.dir\tanch25\e.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\e.dir
+  OBJECT_FILE_DIR = CMakeFiles\e.dir\tanch25
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target e
+
+
+#############################################
+# Link the executable e.exe
+
+build e.exe: CXX_EXECUTABLE_LINKER__e_Debug CMakeFiles/e.dir/tanch25/e.cpp.obj
+  FLAGS = -g
+  LINK_FLAGS = -Wl,--stack,20971520
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\e.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = e.exe
+  TARGET_IMPLIB = libe.dll.a
+  TARGET_PDB = e.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target f
+
+
+#############################################
+# Order-only phony target for f
+
+build cmake_object_order_depends_target_f: phony || CMakeFiles/f.dir
+
+build CMakeFiles/f.dir/tanch25/f.cpp.obj: CXX_COMPILER__f_unscanned_Debug D$:/JetBrainsClints/CLion$ Nova/algorithm/tanch25/f.cpp || cmake_object_order_depends_target_f
+  DEP_FILE = CMakeFiles\f.dir\tanch25\f.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\f.dir
+  OBJECT_FILE_DIR = CMakeFiles\f.dir\tanch25
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target f
+
+
+#############################################
+# Link the executable f.exe
+
+build f.exe: CXX_EXECUTABLE_LINKER__f_Debug CMakeFiles/f.dir/tanch25/f.cpp.obj
+  FLAGS = -g
+  LINK_FLAGS = -Wl,--stack,20971520
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\f.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = f.exe
+  TARGET_IMPLIB = libf.dll.a
+  TARGET_PDB = f.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target g
+
+
+#############################################
+# Order-only phony target for g
+
+build cmake_object_order_depends_target_g: phony || CMakeFiles/g.dir
+
+build CMakeFiles/g.dir/tanch25/g.cpp.obj: CXX_COMPILER__g_unscanned_Debug D$:/JetBrainsClints/CLion$ Nova/algorithm/tanch25/g.cpp || cmake_object_order_depends_target_g
+  DEP_FILE = CMakeFiles\g.dir\tanch25\g.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\g.dir
+  OBJECT_FILE_DIR = CMakeFiles\g.dir\tanch25
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target g
+
+
+#############################################
+# Link the executable g.exe
+
+build g.exe: CXX_EXECUTABLE_LINKER__g_Debug CMakeFiles/g.dir/tanch25/g.cpp.obj
+  FLAGS = -g
+  LINK_FLAGS = -Wl,--stack,20971520
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\g.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = g.exe
+  TARGET_IMPLIB = libg.dll.a
+  TARGET_PDB = g.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target h
+
+
+#############################################
+# Order-only phony target for h
+
+build cmake_object_order_depends_target_h: phony || CMakeFiles/h.dir
+
+build CMakeFiles/h.dir/tanch25/h.cpp.obj: CXX_COMPILER__h_unscanned_Debug D$:/JetBrainsClints/CLion$ Nova/algorithm/tanch25/h.cpp || cmake_object_order_depends_target_h
+  DEP_FILE = CMakeFiles\h.dir\tanch25\h.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\h.dir
+  OBJECT_FILE_DIR = CMakeFiles\h.dir\tanch25
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target h
+
+
+#############################################
+# Link the executable h.exe
+
+build h.exe: CXX_EXECUTABLE_LINKER__h_Debug CMakeFiles/h.dir/tanch25/h.cpp.obj
+  FLAGS = -g
+  LINK_FLAGS = -Wl,--stack,20971520
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\h.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = h.exe
+  TARGET_IMPLIB = libh.dll.a
+  TARGET_PDB = h.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target i
+
+
+#############################################
+# Order-only phony target for i
+
+build cmake_object_order_depends_target_i: phony || CMakeFiles/i.dir
+
+build CMakeFiles/i.dir/tanch25/i.cpp.obj: CXX_COMPILER__i_unscanned_Debug D$:/JetBrainsClints/CLion$ Nova/algorithm/tanch25/i.cpp || cmake_object_order_depends_target_i
+  DEP_FILE = CMakeFiles\i.dir\tanch25\i.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\i.dir
+  OBJECT_FILE_DIR = CMakeFiles\i.dir\tanch25
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target i
+
+
+#############################################
+# Link the executable i.exe
+
+build i.exe: CXX_EXECUTABLE_LINKER__i_Debug CMakeFiles/i.dir/tanch25/i.cpp.obj
+  FLAGS = -g
+  LINK_FLAGS = -Wl,--stack,20971520
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\i.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = i.exe
+  TARGET_IMPLIB = libi.dll.a
+  TARGET_PDB = i.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target j
+
+
+#############################################
+# Order-only phony target for j
+
+build cmake_object_order_depends_target_j: phony || CMakeFiles/j.dir
+
+build CMakeFiles/j.dir/tanch25/j.cpp.obj: CXX_COMPILER__j_unscanned_Debug D$:/JetBrainsClints/CLion$ Nova/algorithm/tanch25/j.cpp || cmake_object_order_depends_target_j
+  DEP_FILE = CMakeFiles\j.dir\tanch25\j.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\j.dir
+  OBJECT_FILE_DIR = CMakeFiles\j.dir\tanch25
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target j
+
+
+#############################################
+# Link the executable j.exe
+
+build j.exe: CXX_EXECUTABLE_LINKER__j_Debug CMakeFiles/j.dir/tanch25/j.cpp.obj
+  FLAGS = -g
+  LINK_FLAGS = -Wl,--stack,20971520
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\j.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = j.exe
+  TARGET_IMPLIB = libj.dll.a
+  TARGET_PDB = j.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target light
+
+
+#############################################
+# Order-only phony target for light
+
+build cmake_object_order_depends_target_light: phony || CMakeFiles/light.dir
+
+build CMakeFiles/light.dir/tanch25/light.cpp.obj: CXX_COMPILER__light_unscanned_Debug D$:/JetBrainsClints/CLion$ Nova/algorithm/tanch25/light.cpp || cmake_object_order_depends_target_light
+  DEP_FILE = CMakeFiles\light.dir\tanch25\light.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\light.dir
+  OBJECT_FILE_DIR = CMakeFiles\light.dir\tanch25
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target light
+
+
+#############################################
+# Link the executable light.exe
+
+build light.exe: CXX_EXECUTABLE_LINKER__light_Debug CMakeFiles/light.dir/tanch25/light.cpp.obj
+  FLAGS = -g
+  LINK_FLAGS = -Wl,--stack,20971520
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\light.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = light.exe
+  TARGET_IMPLIB = liblight.dll.a
+  TARGET_PDB = light.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target perfect
+
+
+#############################################
+# Order-only phony target for perfect
+
+build cmake_object_order_depends_target_perfect: phony || CMakeFiles/perfect.dir
+
+build CMakeFiles/perfect.dir/tanch25/perfect.cpp.obj: CXX_COMPILER__perfect_unscanned_Debug D$:/JetBrainsClints/CLion$ Nova/algorithm/tanch25/perfect.cpp || cmake_object_order_depends_target_perfect
+  DEP_FILE = CMakeFiles\perfect.dir\tanch25\perfect.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\perfect.dir
+  OBJECT_FILE_DIR = CMakeFiles\perfect.dir\tanch25
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target perfect
+
+
+#############################################
+# Link the executable perfect.exe
+
+build perfect.exe: CXX_EXECUTABLE_LINKER__perfect_Debug CMakeFiles/perfect.dir/tanch25/perfect.cpp.obj
+  FLAGS = -g
+  LINK_FLAGS = -Wl,--stack,20971520
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\perfect.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = perfect.exe
+  TARGET_IMPLIB = libperfect.dll.a
+  TARGET_PDB = perfect.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 746-min-cost-climbing-stairs
+
+
+#############################################
+# Order-only phony target for 746-min-cost-climbing-stairs
+
+build cmake_object_order_depends_target_746-min-cost-climbing-stairs: phony || CMakeFiles/746-min-cost-climbing-stairs.dir
+
+build CMakeFiles/746-min-cost-climbing-stairs.dir/leetcode/dynamic_programming/746-min-cost-climbing-stairs.cpp.obj: CXX_COMPILER__746-min-cost-climbing-stairs_unscanned_Debug D$:/JetBrainsClints/CLion$ Nova/algorithm/leetcode/dynamic_programming/746-min-cost-climbing-stairs.cpp || cmake_object_order_depends_target_746-min-cost-climbing-stairs
+  DEP_FILE = CMakeFiles\746-min-cost-climbing-stairs.dir\leetcode\dynamic_programming\746-min-cost-climbing-stairs.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\746-min-cost-climbing-stairs.dir
+  OBJECT_FILE_DIR = CMakeFiles\746-min-cost-climbing-stairs.dir\leetcode\dynamic_programming
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 746-min-cost-climbing-stairs
+
+
+#############################################
+# Link the executable 746-min-cost-climbing-stairs.exe
+
+build 746-min-cost-climbing-stairs.exe: CXX_EXECUTABLE_LINKER__746-min-cost-climbing-stairs_Debug CMakeFiles/746-min-cost-climbing-stairs.dir/leetcode/dynamic_programming/746-min-cost-climbing-stairs.cpp.obj
+  FLAGS = -g
+  LINK_FLAGS = -Wl,--stack,20971520
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\746-min-cost-climbing-stairs.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 746-min-cost-climbing-stairs.exe
+  TARGET_IMPLIB = lib746-min-cost-climbing-stairs.dll.a
+  TARGET_PDB = 746-min-cost-climbing-stairs.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 377-combination-sum-iv
+
+
+#############################################
+# Order-only phony target for 377-combination-sum-iv
+
+build cmake_object_order_depends_target_377-combination-sum-iv: phony || CMakeFiles/377-combination-sum-iv.dir
+
+build CMakeFiles/377-combination-sum-iv.dir/leetcode/dynamic_programming/377-combination-sum-iv.cpp.obj: CXX_COMPILER__377-combination-sum-iv_unscanned_Debug D$:/JetBrainsClints/CLion$ Nova/algorithm/leetcode/dynamic_programming/377-combination-sum-iv.cpp || cmake_object_order_depends_target_377-combination-sum-iv
+  DEP_FILE = CMakeFiles\377-combination-sum-iv.dir\leetcode\dynamic_programming\377-combination-sum-iv.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\377-combination-sum-iv.dir
+  OBJECT_FILE_DIR = CMakeFiles\377-combination-sum-iv.dir\leetcode\dynamic_programming
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 377-combination-sum-iv
+
+
+#############################################
+# Link the executable 377-combination-sum-iv.exe
+
+build 377-combination-sum-iv.exe: CXX_EXECUTABLE_LINKER__377-combination-sum-iv_Debug CMakeFiles/377-combination-sum-iv.dir/leetcode/dynamic_programming/377-combination-sum-iv.cpp.obj
+  FLAGS = -g
+  LINK_FLAGS = -Wl,--stack,20971520
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\377-combination-sum-iv.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 377-combination-sum-iv.exe
+  TARGET_IMPLIB = lib377-combination-sum-iv.dll.a
+  TARGET_PDB = 377-combination-sum-iv.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 2466-count-ways-to-build-good-strings
+
+
+#############################################
+# Order-only phony target for 2466-count-ways-to-build-good-strings
+
+build cmake_object_order_depends_target_2466-count-ways-to-build-good-strings: phony || CMakeFiles/2466-count-ways-to-build-good-strings.dir
+
+build CMakeFiles/2466-count-ways-to-build-good-strings.dir/leetcode/dynamic_programming/2466-count-ways-to-build-good-strings.cpp.obj: CXX_COMPILER__2466-count-ways-to-build-good-strings_unscanned_Debug D$:/JetBrainsClints/CLion$ Nova/algorithm/leetcode/dynamic_programming/2466-count-ways-to-build-good-strings.cpp || cmake_object_order_depends_target_2466-count-ways-to-build-good-strings
+  DEP_FILE = CMakeFiles\2466-count-ways-to-build-good-strings.dir\leetcode\dynamic_programming\2466-count-ways-to-build-good-strings.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\2466-count-ways-to-build-good-strings.dir
+  OBJECT_FILE_DIR = CMakeFiles\2466-count-ways-to-build-good-strings.dir\leetcode\dynamic_programming
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 2466-count-ways-to-build-good-strings
+
+
+#############################################
+# Link the executable 2466-count-ways-to-build-good-strings.exe
+
+build 2466-count-ways-to-build-good-strings.exe: CXX_EXECUTABLE_LINKER__2466-count-ways-to-build-good-strings_Debug CMakeFiles/2466-count-ways-to-build-good-strings.dir/leetcode/dynamic_programming/2466-count-ways-to-build-good-strings.cpp.obj
+  FLAGS = -g
+  LINK_FLAGS = -Wl,--stack,20971520
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\2466-count-ways-to-build-good-strings.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 2466-count-ways-to-build-good-strings.exe
+  TARGET_IMPLIB = lib2466-count-ways-to-build-good-strings.dll.a
+  TARGET_PDB = 2466-count-ways-to-build-good-strings.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target clear-digits
+
+
+#############################################
+# Order-only phony target for clear-digits
+
+build cmake_object_order_depends_target_clear-digits: phony || CMakeFiles/clear-digits.dir
+
+build CMakeFiles/clear-digits.dir/leetcode/contest/132_double/clear-digits.cpp.obj: CXX_COMPILER__clear-digits_unscanned_Debug D$:/JetBrainsClints/CLion$ Nova/algorithm/leetcode/contest/132_double/clear-digits.cpp || cmake_object_order_depends_target_clear-digits
+  DEP_FILE = CMakeFiles\clear-digits.dir\leetcode\contest\132_double\clear-digits.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\clear-digits.dir
+  OBJECT_FILE_DIR = CMakeFiles\clear-digits.dir\leetcode\contest\132_double
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target clear-digits
+
+
+#############################################
+# Link the executable clear-digits.exe
+
+build clear-digits.exe: CXX_EXECUTABLE_LINKER__clear-digits_Debug CMakeFiles/clear-digits.dir/leetcode/contest/132_double/clear-digits.cpp.obj
+  FLAGS = -g
+  LINK_FLAGS = -Wl,--stack,20971520
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\clear-digits.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = clear-digits.exe
+  TARGET_IMPLIB = libclear-digits.dll.a
+  TARGET_PDB = clear-digits.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target find-the-first-player-to-win-k-games-in-a-row
+
+
+#############################################
+# Order-only phony target for find-the-first-player-to-win-k-games-in-a-row
+
+build cmake_object_order_depends_target_find-the-first-player-to-win-k-games-in-a-row: phony || CMakeFiles/find-the-first-player-to-win-k-games-in-a-row.dir
+
+build CMakeFiles/find-the-first-player-to-win-k-games-in-a-row.dir/leetcode/contest/132_double/find-the-first-player-to-win-k-games-in-a-row.cpp.obj: CXX_COMPILER__find-the-first-player-to-win-k-games-in-a-row_unscanned_Debug D$:/JetBrainsClints/CLion$ Nova/algorithm/leetcode/contest/132_double/find-the-first-player-to-win-k-games-in-a-row.cpp || cmake_object_order_depends_target_find-the-first-player-to-win-k-games-in-a-row
+  DEP_FILE = CMakeFiles\find-the-first-player-to-win-k-games-in-a-row.dir\leetcode\contest\132_double\find-the-first-player-to-win-k-games-in-a-row.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\find-the-first-player-to-win-k-games-in-a-row.dir
+  OBJECT_FILE_DIR = CMakeFiles\find-the-first-player-to-win-k-games-in-a-row.dir\leetcode\contest\132_double
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target find-the-first-player-to-win-k-games-in-a-row
+
+
+#############################################
+# Link the executable find-the-first-player-to-win-k-games-in-a-row.exe
+
+build find-the-first-player-to-win-k-games-in-a-row.exe: CXX_EXECUTABLE_LINKER__find-the-first-player-to-win-k-games-in-a-row_Debug CMakeFiles/find-the-first-player-to-win-k-games-in-a-row.dir/leetcode/contest/132_double/find-the-first-player-to-win-k-games-in-a-row.cpp.obj
+  FLAGS = -g
+  LINK_FLAGS = -Wl,--stack,20971520
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\find-the-first-player-to-win-k-games-in-a-row.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = find-the-first-player-to-win-k-games-in-a-row.exe
+  TARGET_IMPLIB = libfind-the-first-player-to-win-k-games-in-a-row.dll.a
+  TARGET_PDB = find-the-first-player-to-win-k-games-in-a-row.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 2266-count-number-of-texts
+
+
+#############################################
+# Order-only phony target for 2266-count-number-of-texts
+
+build cmake_object_order_depends_target_2266-count-number-of-texts: phony || CMakeFiles/2266-count-number-of-texts.dir
+
+build CMakeFiles/2266-count-number-of-texts.dir/leetcode/dynamic_programming/2266-count-number-of-texts.cpp.obj: CXX_COMPILER__2266-count-number-of-texts_unscanned_Debug D$:/JetBrainsClints/CLion$ Nova/algorithm/leetcode/dynamic_programming/2266-count-number-of-texts.cpp || cmake_object_order_depends_target_2266-count-number-of-texts
+  DEP_FILE = CMakeFiles\2266-count-number-of-texts.dir\leetcode\dynamic_programming\2266-count-number-of-texts.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\2266-count-number-of-texts.dir
+  OBJECT_FILE_DIR = CMakeFiles\2266-count-number-of-texts.dir\leetcode\dynamic_programming
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 2266-count-number-of-texts
+
+
+#############################################
+# Link the executable 2266-count-number-of-texts.exe
+
+build 2266-count-number-of-texts.exe: CXX_EXECUTABLE_LINKER__2266-count-number-of-texts_Debug CMakeFiles/2266-count-number-of-texts.dir/leetcode/dynamic_programming/2266-count-number-of-texts.cpp.obj
+  FLAGS = -g
+  LINK_FLAGS = -Wl,--stack,20971520
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\2266-count-number-of-texts.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 2266-count-number-of-texts.exe
+  TARGET_IMPLIB = lib2266-count-number-of-texts.dll.a
+  TARGET_PDB = 2266-count-number-of-texts.exe.dbg
 
 
 #############################################
@@ -3582,11 +4160,15 @@ build 2160-minimum-sum-of-four-digit-number-after-splitting-digits: phony 2160-m
 
 build 22-generate-parentheses: phony 22-generate-parentheses.exe
 
+build 2266-count-number-of-texts: phony 2266-count-number-of-texts.exe
+
 build 235-lowest-common-ancestor-of-a-binary-search-tree: phony 235-lowest-common-ancestor-of-a-binary-search-tree.exe
 
 build 236-lowest-common-ancestor-of-a-binary-tree: phony 236-lowest-common-ancestor-of-a-binary-tree.exe
 
 build 237-delete-node-in-a-linked-list: phony 237-delete-node-in-a-linked-list.exe
+
+build 2466-count-ways-to-build-good-strings: phony 2466-count-ways-to-build-good-strings.exe
 
 build 25-reverse-nodes-in-k-group: phony 25-reverse-nodes-in-k-group.exe
 
@@ -3605,6 +4187,8 @@ build 322-coin-change: phony 322-coin-change.exe
 build 33-search-in-rotated-sorted-array: phony 33-search-in-rotated-sorted-array.exe
 
 build 34-find-first-and-last-position-of-element-in-sorted-array: phony 34-find-first-and-last-position-of-element-in-sorted-array.exe
+
+build 377-combination-sum-iv: phony 377-combination-sum-iv.exe
 
 build 380-insert-delete-getrandom-o1: phony 380-insert-delete-getrandom-o1.exe
 
@@ -3650,6 +4234,8 @@ build 72-edit-distance: phony 72-edit-distance.exe
 
 build 739-daily-temperatures: phony 739-daily-temperatures.exe
 
+build 746-min-cost-climbing-stairs: phony 746-min-cost-climbing-stairs.exe
+
 build 77-combinations: phony 77-combinations.exe
 
 build 78-subsets: phony 78-subsets.exe
@@ -3674,9 +4260,27 @@ build 98-validate-binary-search-tree: phony 98-validate-binary-search-tree.exe
 
 build QuickSort: phony QuickSort.exe
 
+build a: phony a.exe
+
 build algorithm: phony algorithm.exe
 
-build binary_search_red_blue: phony binary_search_red_blue.exe
+build b: phony b.exe
+
+build c: phony c.exe
+
+build clear-digits: phony clear-digits.exe
+
+build d: phony d.exe
+
+build e: phony e.exe
+
+build f: phony f.exe
+
+build find-the-first-player-to-win-k-games-in-a-row: phony find-the-first-player-to-win-k-games-in-a-row.exe
+
+build g: phony g.exe
+
+build h: phony h.exe
 
 build huawei_1: phony huawei_1.exe
 
@@ -3685,6 +4289,12 @@ build huawei_1_2: phony huawei_1_2.exe
 build huawei_2: phony huawei_2.exe
 
 build huawei_3: phony huawei_3.exe
+
+build i: phony i.exe
+
+build j: phony j.exe
+
+build light: phony light.exe
 
 build meituan2: phony meituan2.exe
 
@@ -3695,6 +4305,8 @@ build meituan_3: phony meituan_3.exe
 build meituan_4: phony meituan_4.exe
 
 build meituan_5: phony meituan_5.exe
+
+build perfect: phony perfect.exe
 
 build test: phony test.exe
 
@@ -3710,7 +4322,7 @@ build tx: phony tx.exe
 #############################################
 # Folder: D:/JetBrainsClints/CLion Nova/algorithm/cmake-build-debug
 
-build all: phony algorithm.exe test.exe 3-longest-substring-without-repeating-characters.exe 206-reverse-linked-list.exe 146-lru-cache.exe 215-kth-largest-element-in-an-array.exe 25-reverse-nodes-in-k-group.exe QuickSort.exe 15-3sum.exe 53-maximum-subarray.exe 01_Backpack_issue.exe 01_Backpack_issue_dp.exe 70-climbing-stairs.exe 5-longest-palindromic-substring.exe 62-unique-paths.exe 63-unique-paths-ii.exe 64-minimum-path-sum.exe 72-edit-distance.exe 912-sort-an-array.exe 21-merge-two-sorted-lists.exe 102-binary-tree-level-order-traversal.exe 33-search-in-rotated-sorted-array.exe 200-number-of-islands.exe 80-remove-duplicates-from-sorted-array-ii.exe 169-majority-element.exe 189-rotate-array.exe 55-jump-game.exe 45-jump-game-ii.exe 380-insert-delete-getrandom-o1.exe 01.exe 02.exe 236-lowest-common-ancestor-of-a-binary-tree.exe 695-max-area-of-island.exe 827-making-a-large-island.exe 739-daily-temperatures.exe 463-island-perimeter.exe 1997-first-day-where-you-have-been-in-all-the-rooms.exe 54-spiral-matrix.exe 46-permutations.exe 31-next-permutation.exe 300-longest-increasing-subsequence.exe 92-reverse-linked-list-ii.exe 1.exe 2.exe 3.exe 4.exe 001.exe 002.exe 003.exe 005.exe 894-all-possible-full-binary-trees.exe 1702-maximum-binary-string-after-change.exe 42-trapping-rain-water.exe 209-minimum-size-subarray-sum.exe 713-subarray-product-less-than-k.exe meituan_1.exe meituan2.exe meituan_3.exe meituan_4.exe meituan_5.exe 34-find-first-and-last-position-of-element-in-sorted-array.exe 162-find-peak-element.exe 153-find-minimum-in-rotated-sorted-array.exe tx.exe huawei_1.exe huawei_2.exe huawei_3.exe huawei_1_2.exe 460-lfu-cache.exe test1.exe 2126-destroying-asteroids.exe 3080-mark-elements-on-array-by-performing-queries.exe binary_search_red_blue.exe 876-middle-of-the-linked-list.exe 141-linked-list-cycle.exe 142-linked-list-cycle-ii.exe 143-reorder-list.exe 237-delete-node-in-a-linked-list.exe 19-remove-nth-node-from-end-of-list.exe 83-remove-duplicates-from-sorted-list.exe 82-remove-duplicates-from-sorted-list-ii.exe 104-maximum-depth-of-binary-tree.exe 100-same-tree.exe 101-symmetric-tree.exe 110-balanced-binary-tree.exe 199-binary-tree-right-side-view.exe 98-validate-binary-search-tree.exe 235-lowest-common-ancestor-of-a-binary-search-tree.exe 103-binary-tree-zigzag-level-order-traversal.exe 513-find-bottom-left-tree-value.exe 17-letter-combinations-of-a-phone-number.exe 78-subsets.exe 131-palindrome-partitioning.exe 2160-minimum-sum-of-four-digit-number-after-splitting-digits.exe 77-combinations.exe 216-combination-sum-iii.exe 22-generate-parentheses.exe 51-n-queens.exe 198-house-robber.exe 494-target-sum.exe 322-coin-change.exe
+build all: phony algorithm.exe test.exe 3-longest-substring-without-repeating-characters.exe 206-reverse-linked-list.exe 146-lru-cache.exe 215-kth-largest-element-in-an-array.exe 25-reverse-nodes-in-k-group.exe QuickSort.exe 15-3sum.exe 53-maximum-subarray.exe 01_Backpack_issue.exe 01_Backpack_issue_dp.exe 70-climbing-stairs.exe 5-longest-palindromic-substring.exe 62-unique-paths.exe 63-unique-paths-ii.exe 64-minimum-path-sum.exe 72-edit-distance.exe 912-sort-an-array.exe 21-merge-two-sorted-lists.exe 102-binary-tree-level-order-traversal.exe 33-search-in-rotated-sorted-array.exe 200-number-of-islands.exe 80-remove-duplicates-from-sorted-array-ii.exe 169-majority-element.exe 189-rotate-array.exe 55-jump-game.exe 45-jump-game-ii.exe 380-insert-delete-getrandom-o1.exe 01.exe 02.exe 236-lowest-common-ancestor-of-a-binary-tree.exe 695-max-area-of-island.exe 827-making-a-large-island.exe 739-daily-temperatures.exe 463-island-perimeter.exe 1997-first-day-where-you-have-been-in-all-the-rooms.exe 54-spiral-matrix.exe 46-permutations.exe 31-next-permutation.exe 300-longest-increasing-subsequence.exe 92-reverse-linked-list-ii.exe 1.exe 2.exe 3.exe 4.exe 001.exe 002.exe 003.exe 005.exe 894-all-possible-full-binary-trees.exe 1702-maximum-binary-string-after-change.exe 42-trapping-rain-water.exe 209-minimum-size-subarray-sum.exe 713-subarray-product-less-than-k.exe meituan_1.exe meituan2.exe meituan_3.exe meituan_4.exe meituan_5.exe 34-find-first-and-last-position-of-element-in-sorted-array.exe 162-find-peak-element.exe 153-find-minimum-in-rotated-sorted-array.exe tx.exe huawei_1.exe huawei_2.exe huawei_3.exe huawei_1_2.exe 460-lfu-cache.exe test1.exe 2126-destroying-asteroids.exe 3080-mark-elements-on-array-by-performing-queries.exe 876-middle-of-the-linked-list.exe 141-linked-list-cycle.exe 142-linked-list-cycle-ii.exe 143-reorder-list.exe 237-delete-node-in-a-linked-list.exe 19-remove-nth-node-from-end-of-list.exe 83-remove-duplicates-from-sorted-list.exe 82-remove-duplicates-from-sorted-list-ii.exe 104-maximum-depth-of-binary-tree.exe 100-same-tree.exe 101-symmetric-tree.exe 110-balanced-binary-tree.exe 199-binary-tree-right-side-view.exe 98-validate-binary-search-tree.exe 235-lowest-common-ancestor-of-a-binary-search-tree.exe 103-binary-tree-zigzag-level-order-traversal.exe 513-find-bottom-left-tree-value.exe 17-letter-combinations-of-a-phone-number.exe 78-subsets.exe 131-palindrome-partitioning.exe 2160-minimum-sum-of-four-digit-number-after-splitting-digits.exe 77-combinations.exe 216-combination-sum-iii.exe 22-generate-parentheses.exe 51-n-queens.exe 198-house-robber.exe 494-target-sum.exe 322-coin-change.exe a.exe b.exe c.exe d.exe e.exe f.exe g.exe h.exe i.exe j.exe light.exe perfect.exe 746-min-cost-climbing-stairs.exe 377-combination-sum-iv.exe 2466-count-ways-to-build-good-strings.exe clear-digits.exe find-the-first-player-to-win-k-games-in-a-row.exe 2266-count-number-of-texts.exe
 
 # =============================================================================
 # Built-in targets

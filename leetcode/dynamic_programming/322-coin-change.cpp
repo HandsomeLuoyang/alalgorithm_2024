@@ -7,42 +7,33 @@ using namespace std;
 
 class Solution {
 public:
+    int ans = INT32_MAX;
     int coinChange(vector<int>& coins, int amount) {
-        //        int ans = dfs(coins, amount, coins.size()-1);
-        //        return ans==1e5?-1:ans;
-        vector<vector<int>> dp(coins.size()+1, vector<int> (amount+1, 1e5));
-        dp[0][0] = 0;
-        for(int i = 0;i<coins.size();i++){
-            for(int j = 0;j<=amount;j++){
-                if (j<coins[i]){
-                    dp[i+1][j] = dp[i][j];
-                }
-                else{
-                    dp[i+1][j] = min(dp[i][j], dp[i+1][j-coins[i]]+1);
-                }
-            }
-        }
-        int ans = dp[coins.size()][amount];
-        return ans==1e5?-1:ans;
-
-
+        reverse(coins.begin(), coins.end());
+        dfs(coins, amount, 0, 0, 0);
+        return ans == INT32_MAX?-1:ans;
     }
 
-    int dfs(vector<int>& coins, int amount, int i){
-        if(i<0){
-            if(amount == 0) return 0;
-            return 1e5;
+    void dfs(vector<int> coins, int amount, long long cur, int i, int count){
+//        cout<<i<<" "<<cur<<" "<<endl;
+        if(i>coins.size() || cur>amount) return ;
+        if(cur == amount)
+        {
+            ans = min(ans, count);
+            return ;
         }
-        if(amount<coins[i]){
-            return dfs(coins, amount, i-1);
+        for(int j = i;j<coins.size();j++){
+            dfs(coins, amount, cur+coins[j], j, count+1);
         }
-        return min(dfs(coins, amount, i-1), dfs(coins, amount-coins[i], i)+1);
     }
+
 };
 
 
 int main() {
-
+    vector<int> nums = {1, 2, 5};
+    Solution s;
+    s.coinChange(nums, 100);
 
     return 0;
 }
