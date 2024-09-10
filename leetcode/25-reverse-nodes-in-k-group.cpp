@@ -12,40 +12,34 @@ using namespace std;
      ListNode(int x, ListNode *next) : val(x), next(next) {}
  };
 
-
 class Solution {
 public:
     ListNode* reverseKGroup(ListNode* head, int k) {
-        // 先求出链表长度
+        if (!head || !head->next) return head;
         int n = 0;
-        ListNode* cur = head;
-        while(cur){
-            n+=1;
-            cur= cur->next;
+        for(ListNode* cur = head;cur;cur=cur->next) {
+            n++;
         }
-        ListNode* dummy = new ListNode(-1, head);
+
+        ListNode* dummy = new ListNode(0, head);
         ListNode* p0 = dummy;
-
         ListNode* pre = nullptr;
+        ListNode* cur = head;
 
-        ListNode *nxt = nullptr;
-        cur = p0->next;
-        while(n>=k){
-            n-=k;
-            for(int i = 0;i<k;i++) {
-                nxt = cur->next;
+        for(;n>=k;n-=k) {
+            // 反转这k个节点
+            for(int i=0;i<k;i++) {
+                ListNode* nxt = cur->next;
                 cur->next = pre;
                 pre = cur;
                 cur = nxt;
             }
-
-            nxt = p0->next;
+            ListNode* nxt = p0->next;
             p0->next->next = cur;
             p0->next = pre;
             p0 = nxt;
         }
         return dummy->next;
-
     }
 };
 

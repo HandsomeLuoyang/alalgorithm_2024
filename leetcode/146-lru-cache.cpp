@@ -4,82 +4,49 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-struct myListNode {
-    int key;
-    int val;
-    myListNode *next;
-    myListNode *last;
-    myListNode() : key(0), val(0), next(nullptr), last(nullptr) {}
-    myListNode(int x) : val(x), next(nullptr) {}
-    myListNode(int key, int value, myListNode *last, myListNode* next) : key(key), val(value), next(next), last(last) {}
-};
-
 class LRUCache {
 private:
-    int capacity, cur_size;
-    unordered_map<int, myListNode*> map;
-    myListNode* head = new myListNode();
-    myListNode* tail = new myListNode();
+    int capacity;
+    int cur_size;
+    // key -> iter
+    map<int, list<pair<int, int>>::iterator> mp;
+    // <key, value>
+    list<pair<int, int>> lst;
 public:
     LRUCache(int capacity) {
         this->capacity = capacity;
         this->cur_size = 0;
-        this->head->next = this->tail;
-        this->tail->last = this->head;
     }
 
     int get(int key) {
-        if(this->map.contains(key)) {
-            // 将这个节点放到第一个去
-            myListNode* target = this->map[key];
-            // 从当前位置取出
-            target->last->next = target->next;
-            target->next->last = target->last;
-
-            // 插入到head的下一个当中
-            target->next = this->head->next;
-            target->next->last = target;
-            this->head->next = target;
-            target->last = this->head;
-
-            // cout<<target->val<<endl;
-            return target->val;
+        if(mp.count(key)) {
+            int ans = mp[key]->second;
+            // 移动到链表的最前面去
+            lst.splice(lst.begin(), lst, mp[key]);
+            return ans;
         }
         return -1;
     }
 
     void put(int key, int value) {
-        if(this->map.contains(key)) {
-            // 将这个节点放到第一个去
-            myListNode* target = this->map[key];
-            // 从当前位置取出
-            target->last->next = target->next;
-            target->next->last = target->last;
-
-            // 插入到head的下一个当中
-            target->next = this->head->next;
-            target->next->last = target;
-            this->head->next = target;
-            target->last = this->head;
-
-            // 更新值
-            target->val = value;
+        // 存在更新
+        if(mp.count(key)) {
+            mp[key]->second = value;
+            // 使用get来放到最前面去
+            this->get(key);
+            return ;
         }
-        else {
-            myListNode *newNode = new myListNode(key, value, head, head->next);
-            this->map[key] = newNode;
-            this->head->next->last = newNode;
-            this->head->next = newNode;
-            this->cur_size++;
-            // 如果此时发现超大小了，直接删掉最后一个
-            if (this->cur_size>this->capacity) {
-                myListNode* fina = this->tail->last;
-                fina->last->next = tail;
-                tail->last = fina->last;
-                this->map.erase(fina->key);
-                delete fina;
-                this->cur_size--;
-            }
+        // 不存在插入
+        // 1. 插入
+        lst.emplace_front(key, value);
+        mp[key] = lst.begin();
+        this->cur_size ++ ;
+        // 2. 容量判断
+        if (this->cur_size>this->capacity) {
+            // 删除
+            mp.erase(lst.rbegin()->first);
+            lst.pop_back();
+            this->cur_size--;
         }
     }
 };
