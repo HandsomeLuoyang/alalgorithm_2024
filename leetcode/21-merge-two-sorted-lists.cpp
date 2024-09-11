@@ -15,38 +15,32 @@ struct ListNode {
 class Solution {
 public:
     ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
-        ListNode* newNode = new ListNode();
-        ListNode* cur = newNode;
-        while (list1!=nullptr && list2 !=nullptr) {
-            if (list1->val <= list2->val) {
+        ListNode* dummy = new ListNode(0, nullptr);
+        ListNode* cur = dummy;
+        while (list1 && list2) {
+            if(list1->val<list2->val) {
                 cur->next = list1;
                 list1 = list1->next;
-                cur =cur->next;
             }
             else {
                 cur->next = list2;
                 list2 = list2->next;
-                cur = cur->next;
             }
+            cur = cur->next;
         }
-        if(list1!=nullptr) {
-            while (list1) {
-                cur->next = list1;
-                list1 = list1->next;
-                cur = cur->next;
-            }
+        while (list1) {
+            cur->next = list1;
+            list1=list1->next;
+            cur = cur->next;
         }
-        if(list2!=nullptr) {
-            while (list2) {
-                cur->next = list2;
-                list2 = list2->next;
-                cur = cur->next;
-            }
+        while(list2){
+            cur->next = list2;
+            list2 = list2->next;
+            cur = cur->next;
         }
-        return newNode->next;
+        return dummy->next;
     }
 };
-
 
 int main(){
     
