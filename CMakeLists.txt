@@ -124,3 +124,4 @@ add_executable(2466-count-ways-to-build-good-strings leetcode/dynamic_programmin
 add_executable(clear-digits leetcode/contest/132_double/clear-digits.cpp)
 add_executable(find-the-first-player-to-win-k-games-in-a-row leetcode/contest/132_double/find-the-first-player-to-win-k-games-in-a-row.cpp)
 add_executable(2266-count-number-of-texts leetcode/dynamic_programming/2266-count-number-of-texts.cpp)
+add_executable(quick_sort sort/quick_sort.cpp)

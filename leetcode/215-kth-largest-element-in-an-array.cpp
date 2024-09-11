@@ -8,7 +8,17 @@ class Solution {
 public:
     int findKthLargest(vector<int>& nums, int k) {
         // ¿ìÅÅË¼Ïë
+        return helper(nums, 0, nums.size()-1, k);
+    }
 
+    int helper(vector<int>& nums, int l , int r, int k) {
+        int c_val = nums[(l+r)>>1];
+        int i = l, j = r;
+        while(i<j) {
+            while(nums[i]<c_val) i++;
+            while(nums[j]>=c_val) j--;
+            swap(nums[i], nums[j]);
+        }
     }
 };
 

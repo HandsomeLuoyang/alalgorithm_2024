@@ -116,5 +116,6 @@ C:/Users/yannicklei/CLionProjects/alalgorithm_2024/cmake-build-debug/CMakeFiles/
 C:/Users/yannicklei/CLionProjects/alalgorithm_2024/cmake-build-debug/CMakeFiles/clear-digits.dir
 C:/Users/yannicklei/CLionProjects/alalgorithm_2024/cmake-build-debug/CMakeFiles/find-the-first-player-to-win-k-games-in-a-row.dir
 C:/Users/yannicklei/CLionProjects/alalgorithm_2024/cmake-build-debug/CMakeFiles/2266-count-number-of-texts.dir
+C:/Users/yannicklei/CLionProjects/alalgorithm_2024/cmake-build-debug/CMakeFiles/quick_sort.dir
 C:/Users/yannicklei/CLionProjects/alalgorithm_2024/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/yannicklei/CLionProjects/alalgorithm_2024/cmake-build-debug/CMakeFiles/rebuild_cache.dir
