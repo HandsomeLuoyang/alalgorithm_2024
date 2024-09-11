@@ -3,6 +3,7 @@
  */
 #include <bits/stdc++.h>
 using namespace std;
+
 class Solution {
 public:
     vector<int> sortArray(vector<int>& nums) {
@@ -10,19 +11,21 @@ public:
         return nums;
     }
 
-    void helper(vector<int> &q, int l , int r) {
+    void helper(vector<int>& nums, int l, int r) {
         if(l>=r) return ;
-        int x = q[(l+r)>>1];
-        int i = l-1, j = r+1;
-        while(i<j) {
-            do i++;while(q[i]<x);
-            do j--;while(q[j]>x);
-            if (i<j) swap(q[i], q[j]);
+        int pivot = nums[(l+r)>>1];
+        int i=l, j = r;
+        while(i<=j) {
+            while (nums[i]<pivot) i++;
+            while(nums[j]>pivot) j--;
+            if(i<=j) {
+                swap(nums[i], nums[j]);
+                i++;j--;
+            }
         }
-        helper(q, l, j);
-        helper(q, j+1, r);
+        helper(nums, l, j);
+        helper(nums, i, r);
     }
-
 };
 
 

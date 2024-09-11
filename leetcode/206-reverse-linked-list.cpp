@@ -15,10 +15,13 @@ struct ListNode {
 class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
+        if (!head || !head->next) return head;
         ListNode* pre = nullptr;
         ListNode* cur = head;
-        while (cur){
-            ListNode* nxt = cur->next;
+        ListNode* nxt;
+        while(cur) {
+            cout<<cur->val<<" ";
+            nxt = cur->next;
             cur->next = pre;
             pre = cur;
             cur = nxt;
@@ -26,6 +29,7 @@ public:
         return pre;
     }
 };
+
 int main(){
     
     
