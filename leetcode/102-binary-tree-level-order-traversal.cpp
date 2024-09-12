@@ -16,25 +16,26 @@ struct TreeNode {
 class Solution {
 public:
     vector<vector<int>> levelOrder(TreeNode* root) {
+        vector<vector<int>> ans;
+        if(!root) return ans;
         queue<TreeNode*> q;
         q.push(root);
-        vector<vector<int>> ans;
-        if (!root) return ans;
-        while (!q.empty()) {
+        while(!q.empty()) {
+            int size = q.size();
             vector<int> temp_ans;
-            int n = q.size();
-            for (int i = 0; i < n; ++i) {
-                TreeNode* node = q.front();
+            for (int i = 0; i < size; ++i) {
+                TreeNode* temp = q.front();
                 q.pop();
-                temp_ans.push_back(node->val);
-                if (node->left) q.push(node->left);
-                if (node->right) q.push(node->right);
+                if(temp->left) q.push(temp->left);
+                if(temp->right) q.push(temp->right);
+                temp_ans.push_back(temp->val);
             }
             ans.push_back(temp_ans);
         }
         return ans;
     }
 };
+
 
 int main(){
     
