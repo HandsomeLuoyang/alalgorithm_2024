@@ -15,16 +15,15 @@ struct ListNode {
 class Solution {
 public:
     bool hasCycle(ListNode *head) {
-        ListNode *slow = head;
-        ListNode *fast = head;
-        while (fast&&fast->next){
+        if (!head || !head->next) return false;
+        ListNode* slow = head;
+        ListNode* fast = head->next;
+        while(true) {
+            if(fast == slow) return true;
+            if(!fast || !fast->next) return false;
             fast = fast->next->next;
             slow = slow->next;
-            if(fast==slow){
-                return true;
-            }
         }
-        return false;
     }
 };
 
