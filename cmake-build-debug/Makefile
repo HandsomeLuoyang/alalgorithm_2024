@@ -1662,6 +1662,110 @@ quick_sort/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\quick_sort.dir\build.make CMakeFiles/quick_sort.dir/build
 .PHONY : quick_sort/fast
 
+#=============================================================================
+# Target rules for targets named q1
+
+# Build rule for target.
+q1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 q1
+.PHONY : q1
+
+# fast build rule for target.
+q1/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\q1.dir\build.make CMakeFiles/q1.dir/build
+.PHONY : q1/fast
+
+#=============================================================================
+# Target rules for targets named s_01
+
+# Build rule for target.
+s_01: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 s_01
+.PHONY : s_01
+
+# fast build rule for target.
+s_01/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\s_01.dir\build.make CMakeFiles/s_01.dir/build
+.PHONY : s_01/fast
+
+#=============================================================================
+# Target rules for targets named tx_001
+
+# Build rule for target.
+tx_001: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 tx_001
+.PHONY : tx_001
+
+# fast build rule for target.
+tx_001/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\tx_001.dir\build.make CMakeFiles/tx_001.dir/build
+.PHONY : tx_001/fast
+
+#=============================================================================
+# Target rules for targets named ouye_1
+
+# Build rule for target.
+ouye_1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ouye_1
+.PHONY : ouye_1
+
+# fast build rule for target.
+ouye_1/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ouye_1.dir\build.make CMakeFiles/ouye_1.dir/build
+.PHONY : ouye_1/fast
+
+#=============================================================================
+# Target rules for targets named pdd_4
+
+# Build rule for target.
+pdd_4: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 pdd_4
+.PHONY : pdd_4
+
+# fast build rule for target.
+pdd_4/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pdd_4.dir\build.make CMakeFiles/pdd_4.dir/build
+.PHONY : pdd_4/fast
+
+#=============================================================================
+# Target rules for targets named pdd_1
+
+# Build rule for target.
+pdd_1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 pdd_1
+.PHONY : pdd_1
+
+# fast build rule for target.
+pdd_1/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pdd_1.dir\build.make CMakeFiles/pdd_1.dir/build
+.PHONY : pdd_1/fast
+
+#=============================================================================
+# Target rules for targets named pdd_2
+
+# Build rule for target.
+pdd_2: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 pdd_2
+.PHONY : pdd_2
+
+# fast build rule for target.
+pdd_2/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pdd_2.dir\build.make CMakeFiles/pdd_2.dir/build
+.PHONY : pdd_2/fast
+
+#=============================================================================
+# Target rules for targets named pdd_3
+
+# Build rule for target.
+pdd_3: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 pdd_3
+.PHONY : pdd_3
+
+# fast build rule for target.
+pdd_3/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pdd_3.dir\build.make CMakeFiles/pdd_3.dir/build
+.PHONY : pdd_3/fast
+
 acwing/dp_study/01_Backpack_issue.obj: acwing/dp_study/01_Backpack_issue.cpp.obj
 .PHONY : acwing/dp_study/01_Backpack_issue.obj
 
@@ -3918,6 +4022,54 @@ meituan/meituan_5.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\meituan_5.dir\build.make CMakeFiles/meituan_5.dir/meituan/meituan_5.cpp.s
 .PHONY : meituan/meituan_5.cpp.s
 
+meituan2/q1.obj: meituan2/q1.cpp.obj
+.PHONY : meituan2/q1.obj
+
+# target to build an object file
+meituan2/q1.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\q1.dir\build.make CMakeFiles/q1.dir/meituan2/q1.cpp.obj
+.PHONY : meituan2/q1.cpp.obj
+
+meituan2/q1.i: meituan2/q1.cpp.i
+.PHONY : meituan2/q1.i
+
+# target to preprocess a source file
+meituan2/q1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\q1.dir\build.make CMakeFiles/q1.dir/meituan2/q1.cpp.i
+.PHONY : meituan2/q1.cpp.i
+
+meituan2/q1.s: meituan2/q1.cpp.s
+.PHONY : meituan2/q1.s
+
+# target to generate assembly for a file
+meituan2/q1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\q1.dir\build.make CMakeFiles/q1.dir/meituan2/q1.cpp.s
+.PHONY : meituan2/q1.cpp.s
+
+ouye/ouye_1.obj: ouye/ouye_1.cpp.obj
+.PHONY : ouye/ouye_1.obj
+
+# target to build an object file
+ouye/ouye_1.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ouye_1.dir\build.make CMakeFiles/ouye_1.dir/ouye/ouye_1.cpp.obj
+.PHONY : ouye/ouye_1.cpp.obj
+
+ouye/ouye_1.i: ouye/ouye_1.cpp.i
+.PHONY : ouye/ouye_1.i
+
+# target to preprocess a source file
+ouye/ouye_1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ouye_1.dir\build.make CMakeFiles/ouye_1.dir/ouye/ouye_1.cpp.i
+.PHONY : ouye/ouye_1.cpp.i
+
+ouye/ouye_1.s: ouye/ouye_1.cpp.s
+.PHONY : ouye/ouye_1.s
+
+# target to generate assembly for a file
+ouye/ouye_1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ouye_1.dir\build.make CMakeFiles/ouye_1.dir/ouye/ouye_1.cpp.s
+.PHONY : ouye/ouye_1.cpp.s
+
 pdd/01.obj: pdd/01.cpp.obj
 .PHONY : pdd/01.obj
 
@@ -3965,6 +4117,126 @@ pdd/02.s: pdd/02.cpp.s
 pdd/02.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\02.dir\build.make CMakeFiles/02.dir/pdd/02.cpp.s
 .PHONY : pdd/02.cpp.s
+
+pdd_qiuzhao/pdd_1.obj: pdd_qiuzhao/pdd_1.cpp.obj
+.PHONY : pdd_qiuzhao/pdd_1.obj
+
+# target to build an object file
+pdd_qiuzhao/pdd_1.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pdd_1.dir\build.make CMakeFiles/pdd_1.dir/pdd_qiuzhao/pdd_1.cpp.obj
+.PHONY : pdd_qiuzhao/pdd_1.cpp.obj
+
+pdd_qiuzhao/pdd_1.i: pdd_qiuzhao/pdd_1.cpp.i
+.PHONY : pdd_qiuzhao/pdd_1.i
+
+# target to preprocess a source file
+pdd_qiuzhao/pdd_1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pdd_1.dir\build.make CMakeFiles/pdd_1.dir/pdd_qiuzhao/pdd_1.cpp.i
+.PHONY : pdd_qiuzhao/pdd_1.cpp.i
+
+pdd_qiuzhao/pdd_1.s: pdd_qiuzhao/pdd_1.cpp.s
+.PHONY : pdd_qiuzhao/pdd_1.s
+
+# target to generate assembly for a file
+pdd_qiuzhao/pdd_1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pdd_1.dir\build.make CMakeFiles/pdd_1.dir/pdd_qiuzhao/pdd_1.cpp.s
+.PHONY : pdd_qiuzhao/pdd_1.cpp.s
+
+pdd_qiuzhao/pdd_2.obj: pdd_qiuzhao/pdd_2.cpp.obj
+.PHONY : pdd_qiuzhao/pdd_2.obj
+
+# target to build an object file
+pdd_qiuzhao/pdd_2.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pdd_2.dir\build.make CMakeFiles/pdd_2.dir/pdd_qiuzhao/pdd_2.cpp.obj
+.PHONY : pdd_qiuzhao/pdd_2.cpp.obj
+
+pdd_qiuzhao/pdd_2.i: pdd_qiuzhao/pdd_2.cpp.i
+.PHONY : pdd_qiuzhao/pdd_2.i
+
+# target to preprocess a source file
+pdd_qiuzhao/pdd_2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pdd_2.dir\build.make CMakeFiles/pdd_2.dir/pdd_qiuzhao/pdd_2.cpp.i
+.PHONY : pdd_qiuzhao/pdd_2.cpp.i
+
+pdd_qiuzhao/pdd_2.s: pdd_qiuzhao/pdd_2.cpp.s
+.PHONY : pdd_qiuzhao/pdd_2.s
+
+# target to generate assembly for a file
+pdd_qiuzhao/pdd_2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pdd_2.dir\build.make CMakeFiles/pdd_2.dir/pdd_qiuzhao/pdd_2.cpp.s
+.PHONY : pdd_qiuzhao/pdd_2.cpp.s
+
+pdd_qiuzhao/pdd_3.obj: pdd_qiuzhao/pdd_3.cpp.obj
+.PHONY : pdd_qiuzhao/pdd_3.obj
+
+# target to build an object file
+pdd_qiuzhao/pdd_3.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pdd_3.dir\build.make CMakeFiles/pdd_3.dir/pdd_qiuzhao/pdd_3.cpp.obj
+.PHONY : pdd_qiuzhao/pdd_3.cpp.obj
+
+pdd_qiuzhao/pdd_3.i: pdd_qiuzhao/pdd_3.cpp.i
+.PHONY : pdd_qiuzhao/pdd_3.i
+
+# target to preprocess a source file
+pdd_qiuzhao/pdd_3.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pdd_3.dir\build.make CMakeFiles/pdd_3.dir/pdd_qiuzhao/pdd_3.cpp.i
+.PHONY : pdd_qiuzhao/pdd_3.cpp.i
+
+pdd_qiuzhao/pdd_3.s: pdd_qiuzhao/pdd_3.cpp.s
+.PHONY : pdd_qiuzhao/pdd_3.s
+
+# target to generate assembly for a file
+pdd_qiuzhao/pdd_3.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pdd_3.dir\build.make CMakeFiles/pdd_3.dir/pdd_qiuzhao/pdd_3.cpp.s
+.PHONY : pdd_qiuzhao/pdd_3.cpp.s
+
+pdd_qiuzhao/pdd_4.obj: pdd_qiuzhao/pdd_4.cpp.obj
+.PHONY : pdd_qiuzhao/pdd_4.obj
+
+# target to build an object file
+pdd_qiuzhao/pdd_4.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pdd_4.dir\build.make CMakeFiles/pdd_4.dir/pdd_qiuzhao/pdd_4.cpp.obj
+.PHONY : pdd_qiuzhao/pdd_4.cpp.obj
+
+pdd_qiuzhao/pdd_4.i: pdd_qiuzhao/pdd_4.cpp.i
+.PHONY : pdd_qiuzhao/pdd_4.i
+
+# target to preprocess a source file
+pdd_qiuzhao/pdd_4.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pdd_4.dir\build.make CMakeFiles/pdd_4.dir/pdd_qiuzhao/pdd_4.cpp.i
+.PHONY : pdd_qiuzhao/pdd_4.cpp.i
+
+pdd_qiuzhao/pdd_4.s: pdd_qiuzhao/pdd_4.cpp.s
+.PHONY : pdd_qiuzhao/pdd_4.s
+
+# target to generate assembly for a file
+pdd_qiuzhao/pdd_4.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pdd_4.dir\build.make CMakeFiles/pdd_4.dir/pdd_qiuzhao/pdd_4.cpp.s
+.PHONY : pdd_qiuzhao/pdd_4.cpp.s
+
+shenxinfu/s_01.obj: shenxinfu/s_01.cpp.obj
+.PHONY : shenxinfu/s_01.obj
+
+# target to build an object file
+shenxinfu/s_01.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\s_01.dir\build.make CMakeFiles/s_01.dir/shenxinfu/s_01.cpp.obj
+.PHONY : shenxinfu/s_01.cpp.obj
+
+shenxinfu/s_01.i: shenxinfu/s_01.cpp.i
+.PHONY : shenxinfu/s_01.i
+
+# target to preprocess a source file
+shenxinfu/s_01.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\s_01.dir\build.make CMakeFiles/s_01.dir/shenxinfu/s_01.cpp.i
+.PHONY : shenxinfu/s_01.cpp.i
+
+shenxinfu/s_01.s: shenxinfu/s_01.cpp.s
+.PHONY : shenxinfu/s_01.s
+
+# target to generate assembly for a file
+shenxinfu/s_01.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\s_01.dir\build.make CMakeFiles/s_01.dir/shenxinfu/s_01.cpp.s
+.PHONY : shenxinfu/s_01.cpp.s
 
 sort/quick_sort.obj: sort/quick_sort.cpp.obj
 .PHONY : sort/quick_sort.obj
@@ -4422,6 +4694,30 @@ tx/tx.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\tx.dir\build.make CMakeFiles/tx.dir/tx/tx.cpp.s
 .PHONY : tx/tx.cpp.s
 
+tx/tx_001.obj: tx/tx_001.cpp.obj
+.PHONY : tx/tx_001.obj
+
+# target to build an object file
+tx/tx_001.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\tx_001.dir\build.make CMakeFiles/tx_001.dir/tx/tx_001.cpp.obj
+.PHONY : tx/tx_001.cpp.obj
+
+tx/tx_001.i: tx/tx_001.cpp.i
+.PHONY : tx/tx_001.i
+
+# target to preprocess a source file
+tx/tx_001.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\tx_001.dir\build.make CMakeFiles/tx_001.dir/tx/tx_001.cpp.i
+.PHONY : tx/tx_001.cpp.i
+
+tx/tx_001.s: tx/tx_001.cpp.s
+.PHONY : tx/tx_001.s
+
+# target to generate assembly for a file
+tx/tx_001.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\tx_001.dir\build.make CMakeFiles/tx_001.dir/tx/tx_001.cpp.s
+.PHONY : tx/tx_001.cpp.s
+
 wy/1.obj: wy/1.cpp.obj
 .PHONY : wy/1.obj
 
@@ -4640,11 +4936,19 @@ help:
 	@echo ... meituan_3
 	@echo ... meituan_4
 	@echo ... meituan_5
+	@echo ... ouye_1
+	@echo ... pdd_1
+	@echo ... pdd_2
+	@echo ... pdd_3
+	@echo ... pdd_4
 	@echo ... perfect
+	@echo ... q1
 	@echo ... quick_sort
+	@echo ... s_01
 	@echo ... test
 	@echo ... test1
 	@echo ... tx
+	@echo ... tx_001
 	@echo ... acwing/dp_study/01_Backpack_issue.obj
 	@echo ... acwing/dp_study/01_Backpack_issue.i
 	@echo ... acwing/dp_study/01_Backpack_issue.s
@@ -4927,12 +5231,33 @@ help:
 	@echo ... meituan/meituan_5.obj
 	@echo ... meituan/meituan_5.i
 	@echo ... meituan/meituan_5.s
+	@echo ... meituan2/q1.obj
+	@echo ... meituan2/q1.i
+	@echo ... meituan2/q1.s
+	@echo ... ouye/ouye_1.obj
+	@echo ... ouye/ouye_1.i
+	@echo ... ouye/ouye_1.s
 	@echo ... pdd/01.obj
 	@echo ... pdd/01.i
 	@echo ... pdd/01.s
 	@echo ... pdd/02.obj
 	@echo ... pdd/02.i
 	@echo ... pdd/02.s
+	@echo ... pdd_qiuzhao/pdd_1.obj
+	@echo ... pdd_qiuzhao/pdd_1.i
+	@echo ... pdd_qiuzhao/pdd_1.s
+	@echo ... pdd_qiuzhao/pdd_2.obj
+	@echo ... pdd_qiuzhao/pdd_2.i
+	@echo ... pdd_qiuzhao/pdd_2.s
+	@echo ... pdd_qiuzhao/pdd_3.obj
+	@echo ... pdd_qiuzhao/pdd_3.i
+	@echo ... pdd_qiuzhao/pdd_3.s
+	@echo ... pdd_qiuzhao/pdd_4.obj
+	@echo ... pdd_qiuzhao/pdd_4.i
+	@echo ... pdd_qiuzhao/pdd_4.s
+	@echo ... shenxinfu/s_01.obj
+	@echo ... shenxinfu/s_01.i
+	@echo ... shenxinfu/s_01.s
 	@echo ... sort/quick_sort.obj
 	@echo ... sort/quick_sort.i
 	@echo ... sort/quick_sort.s
@@ -4990,6 +5315,9 @@ help:
 	@echo ... tx/tx.obj
 	@echo ... tx/tx.i
 	@echo ... tx/tx.s
+	@echo ... tx/tx_001.obj
+	@echo ... tx/tx_001.i
+	@echo ... tx/tx_001.s
 	@echo ... wy/1.obj
 	@echo ... wy/1.i
 	@echo ... wy/1.s

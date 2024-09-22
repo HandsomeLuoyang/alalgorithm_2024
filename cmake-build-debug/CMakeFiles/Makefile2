@@ -181,6 +181,14 @@ all: CMakeFiles/clear-digits.dir/all
 all: CMakeFiles/find-the-first-player-to-win-k-games-in-a-row.dir/all
 all: CMakeFiles/2266-count-number-of-texts.dir/all
 all: CMakeFiles/quick_sort.dir/all
+all: CMakeFiles/q1.dir/all
+all: CMakeFiles/s_01.dir/all
+all: CMakeFiles/tx_001.dir/all
+all: CMakeFiles/ouye_1.dir/all
+all: CMakeFiles/pdd_4.dir/all
+all: CMakeFiles/pdd_1.dir/all
+all: CMakeFiles/pdd_2.dir/all
+all: CMakeFiles/pdd_3.dir/all
 .PHONY : all
 
 # The main recursive "preinstall" target.
@@ -307,6 +315,14 @@ clean: CMakeFiles/clear-digits.dir/clean
 clean: CMakeFiles/find-the-first-player-to-win-k-games-in-a-row.dir/clean
 clean: CMakeFiles/2266-count-number-of-texts.dir/clean
 clean: CMakeFiles/quick_sort.dir/clean
+clean: CMakeFiles/q1.dir/clean
+clean: CMakeFiles/s_01.dir/clean
+clean: CMakeFiles/tx_001.dir/clean
+clean: CMakeFiles/ouye_1.dir/clean
+clean: CMakeFiles/pdd_4.dir/clean
+clean: CMakeFiles/pdd_1.dir/clean
+clean: CMakeFiles/pdd_2.dir/clean
+clean: CMakeFiles/pdd_3.dir/clean
 .PHONY : clean
 
 #=============================================================================
@@ -316,7 +332,7 @@ clean: CMakeFiles/quick_sort.dir/clean
 CMakeFiles/algorithm.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm.dir\build.make CMakeFiles/algorithm.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm.dir\build.make CMakeFiles/algorithm.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=78 "Built target algorithm"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=73 "Built target algorithm"
 .PHONY : CMakeFiles/algorithm.dir/all
 
 # Build rule for subdir invocation for target.
@@ -342,7 +358,7 @@ CMakeFiles/algorithm.dir/clean:
 CMakeFiles/test.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\test.dir\build.make CMakeFiles/test.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\test.dir\build.make CMakeFiles/test.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=98 "Built target test"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=97 "Built target test"
 .PHONY : CMakeFiles/test.dir/all
 
 # Build rule for subdir invocation for target.
@@ -368,7 +384,7 @@ CMakeFiles/test.dir/clean:
 CMakeFiles/3-longest-substring-without-repeating-characters.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\3-longest-substring-without-repeating-characters.dir\build.make CMakeFiles/3-longest-substring-without-repeating-characters.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\3-longest-substring-without-repeating-characters.dir\build.make CMakeFiles/3-longest-substring-without-repeating-characters.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=41 "Built target 3-longest-substring-without-repeating-characters"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=38 "Built target 3-longest-substring-without-repeating-characters"
 .PHONY : CMakeFiles/3-longest-substring-without-repeating-characters.dir/all
 
 # Build rule for subdir invocation for target.
@@ -394,7 +410,7 @@ CMakeFiles/3-longest-substring-without-repeating-characters.dir/clean:
 CMakeFiles/206-reverse-linked-list.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\206-reverse-linked-list.dir\build.make CMakeFiles/206-reverse-linked-list.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\206-reverse-linked-list.dir\build.make CMakeFiles/206-reverse-linked-list.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=28 "Built target 206-reverse-linked-list"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=26 "Built target 206-reverse-linked-list"
 .PHONY : CMakeFiles/206-reverse-linked-list.dir/all
 
 # Build rule for subdir invocation for target.
@@ -420,7 +436,7 @@ CMakeFiles/206-reverse-linked-list.dir/clean:
 CMakeFiles/146-lru-cache.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\146-lru-cache.dir\build.make CMakeFiles/146-lru-cache.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\146-lru-cache.dir\build.make CMakeFiles/146-lru-cache.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=16 "Built target 146-lru-cache"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=15 "Built target 146-lru-cache"
 .PHONY : CMakeFiles/146-lru-cache.dir/all
 
 # Build rule for subdir invocation for target.
@@ -472,7 +488,7 @@ CMakeFiles/215-kth-largest-element-in-an-array.dir/clean:
 CMakeFiles/25-reverse-nodes-in-k-group.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\25-reverse-nodes-in-k-group.dir\build.make CMakeFiles/25-reverse-nodes-in-k-group.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\25-reverse-nodes-in-k-group.dir\build.make CMakeFiles/25-reverse-nodes-in-k-group.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=39 "Built target 25-reverse-nodes-in-k-group"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=37 "Built target 25-reverse-nodes-in-k-group"
 .PHONY : CMakeFiles/25-reverse-nodes-in-k-group.dir/all
 
 # Build rule for subdir invocation for target.
@@ -498,7 +514,7 @@ CMakeFiles/25-reverse-nodes-in-k-group.dir/clean:
 CMakeFiles/QuickSort.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\QuickSort.dir\build.make CMakeFiles/QuickSort.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\QuickSort.dir\build.make CMakeFiles/QuickSort.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=76 "Built target QuickSort"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=71 "Built target QuickSort"
 .PHONY : CMakeFiles/QuickSort.dir/all
 
 # Build rule for subdir invocation for target.
@@ -524,7 +540,7 @@ CMakeFiles/QuickSort.dir/clean:
 CMakeFiles/15-3sum.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\15-3sum.dir\build.make CMakeFiles/15-3sum.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\15-3sum.dir\build.make CMakeFiles/15-3sum.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=17 "Built target 15-3sum"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=16 "Built target 15-3sum"
 .PHONY : CMakeFiles/15-3sum.dir/all
 
 # Build rule for subdir invocation for target.
@@ -550,7 +566,7 @@ CMakeFiles/15-3sum.dir/clean:
 CMakeFiles/53-maximum-subarray.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\53-maximum-subarray.dir\build.make CMakeFiles/53-maximum-subarray.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\53-maximum-subarray.dir\build.make CMakeFiles/53-maximum-subarray.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=57 "Built target 53-maximum-subarray"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=53 "Built target 53-maximum-subarray"
 .PHONY : CMakeFiles/53-maximum-subarray.dir/all
 
 # Build rule for subdir invocation for target.
@@ -576,7 +592,7 @@ CMakeFiles/53-maximum-subarray.dir/clean:
 CMakeFiles/01_Backpack_issue.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\01_Backpack_issue.dir\build.make CMakeFiles/01_Backpack_issue.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\01_Backpack_issue.dir\build.make CMakeFiles/01_Backpack_issue.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=5 "Built target 01_Backpack_issue"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=4 "Built target 01_Backpack_issue"
 .PHONY : CMakeFiles/01_Backpack_issue.dir/all
 
 # Build rule for subdir invocation for target.
@@ -602,12 +618,12 @@ CMakeFiles/01_Backpack_issue.dir/clean:
 CMakeFiles/01_Backpack_issue_dp.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\01_Backpack_issue_dp.dir\build.make CMakeFiles/01_Backpack_issue_dp.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\01_Backpack_issue_dp.dir\build.make CMakeFiles/01_Backpack_issue_dp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num= "Built target 01_Backpack_issue_dp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=5 "Built target 01_Backpack_issue_dp"
 .PHONY : CMakeFiles/01_Backpack_issue_dp.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/01_Backpack_issue_dp.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/01_Backpack_issue_dp.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/01_Backpack_issue_dp.dir/rule
@@ -628,7 +644,7 @@ CMakeFiles/01_Backpack_issue_dp.dir/clean:
 CMakeFiles/70-climbing-stairs.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\70-climbing-stairs.dir\build.make CMakeFiles/70-climbing-stairs.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\70-climbing-stairs.dir\build.make CMakeFiles/70-climbing-stairs.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=63 "Built target 70-climbing-stairs"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=59 "Built target 70-climbing-stairs"
 .PHONY : CMakeFiles/70-climbing-stairs.dir/all
 
 # Build rule for subdir invocation for target.
@@ -654,7 +670,7 @@ CMakeFiles/70-climbing-stairs.dir/clean:
 CMakeFiles/5-longest-palindromic-substring.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\5-longest-palindromic-substring.dir\build.make CMakeFiles/5-longest-palindromic-substring.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\5-longest-palindromic-substring.dir\build.make CMakeFiles/5-longest-palindromic-substring.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=54 "Built target 5-longest-palindromic-substring"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=51 "Built target 5-longest-palindromic-substring"
 .PHONY : CMakeFiles/5-longest-palindromic-substring.dir/all
 
 # Build rule for subdir invocation for target.
@@ -680,12 +696,12 @@ CMakeFiles/5-longest-palindromic-substring.dir/clean:
 CMakeFiles/62-unique-paths.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\62-unique-paths.dir\build.make CMakeFiles/62-unique-paths.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\62-unique-paths.dir\build.make CMakeFiles/62-unique-paths.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=59 "Built target 62-unique-paths"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num= "Built target 62-unique-paths"
 .PHONY : CMakeFiles/62-unique-paths.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/62-unique-paths.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/62-unique-paths.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/62-unique-paths.dir/rule
@@ -706,7 +722,7 @@ CMakeFiles/62-unique-paths.dir/clean:
 CMakeFiles/63-unique-paths-ii.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\63-unique-paths-ii.dir\build.make CMakeFiles/63-unique-paths-ii.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\63-unique-paths-ii.dir\build.make CMakeFiles/63-unique-paths-ii.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=60 "Built target 63-unique-paths-ii"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=56 "Built target 63-unique-paths-ii"
 .PHONY : CMakeFiles/63-unique-paths-ii.dir/all
 
 # Build rule for subdir invocation for target.
@@ -732,7 +748,7 @@ CMakeFiles/63-unique-paths-ii.dir/clean:
 CMakeFiles/64-minimum-path-sum.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\64-minimum-path-sum.dir\build.make CMakeFiles/64-minimum-path-sum.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\64-minimum-path-sum.dir\build.make CMakeFiles/64-minimum-path-sum.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=61 "Built target 64-minimum-path-sum"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=57 "Built target 64-minimum-path-sum"
 .PHONY : CMakeFiles/64-minimum-path-sum.dir/all
 
 # Build rule for subdir invocation for target.
@@ -758,7 +774,7 @@ CMakeFiles/64-minimum-path-sum.dir/clean:
 CMakeFiles/72-edit-distance.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\72-edit-distance.dir\build.make CMakeFiles/72-edit-distance.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\72-edit-distance.dir\build.make CMakeFiles/72-edit-distance.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=64 "Built target 72-edit-distance"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=60 "Built target 72-edit-distance"
 .PHONY : CMakeFiles/72-edit-distance.dir/all
 
 # Build rule for subdir invocation for target.
@@ -784,12 +800,12 @@ CMakeFiles/72-edit-distance.dir/clean:
 CMakeFiles/912-sort-an-array.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\912-sort-an-array.dir\build.make CMakeFiles/912-sort-an-array.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\912-sort-an-array.dir\build.make CMakeFiles/912-sort-an-array.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num= "Built target 912-sort-an-array"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=69 "Built target 912-sort-an-array"
 .PHONY : CMakeFiles/912-sort-an-array.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/912-sort-an-array.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/912-sort-an-array.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/912-sort-an-array.dir/rule
@@ -810,7 +826,7 @@ CMakeFiles/912-sort-an-array.dir/clean:
 CMakeFiles/21-merge-two-sorted-lists.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\21-merge-two-sorted-lists.dir\build.make CMakeFiles/21-merge-two-sorted-lists.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\21-merge-two-sorted-lists.dir\build.make CMakeFiles/21-merge-two-sorted-lists.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=30 "Built target 21-merge-two-sorted-lists"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=28 "Built target 21-merge-two-sorted-lists"
 .PHONY : CMakeFiles/21-merge-two-sorted-lists.dir/all
 
 # Build rule for subdir invocation for target.
@@ -836,7 +852,7 @@ CMakeFiles/21-merge-two-sorted-lists.dir/clean:
 CMakeFiles/102-binary-tree-level-order-traversal.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\102-binary-tree-level-order-traversal.dir\build.make CMakeFiles/102-binary-tree-level-order-traversal.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\102-binary-tree-level-order-traversal.dir\build.make CMakeFiles/102-binary-tree-level-order-traversal.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=10 "Built target 102-binary-tree-level-order-traversal"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=9 "Built target 102-binary-tree-level-order-traversal"
 .PHONY : CMakeFiles/102-binary-tree-level-order-traversal.dir/all
 
 # Build rule for subdir invocation for target.
@@ -862,7 +878,7 @@ CMakeFiles/102-binary-tree-level-order-traversal.dir/clean:
 CMakeFiles/33-search-in-rotated-sorted-array.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\33-search-in-rotated-sorted-array.dir\build.make CMakeFiles/33-search-in-rotated-sorted-array.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\33-search-in-rotated-sorted-array.dir\build.make CMakeFiles/33-search-in-rotated-sorted-array.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=45 "Built target 33-search-in-rotated-sorted-array"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=42 "Built target 33-search-in-rotated-sorted-array"
 .PHONY : CMakeFiles/33-search-in-rotated-sorted-array.dir/all
 
 # Build rule for subdir invocation for target.
@@ -888,12 +904,12 @@ CMakeFiles/33-search-in-rotated-sorted-array.dir/clean:
 CMakeFiles/200-number-of-islands.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\200-number-of-islands.dir\build.make CMakeFiles/200-number-of-islands.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\200-number-of-islands.dir\build.make CMakeFiles/200-number-of-islands.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=27 "Built target 200-number-of-islands"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num= "Built target 200-number-of-islands"
 .PHONY : CMakeFiles/200-number-of-islands.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/200-number-of-islands.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/200-number-of-islands.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/200-number-of-islands.dir/rule
@@ -914,12 +930,12 @@ CMakeFiles/200-number-of-islands.dir/clean:
 CMakeFiles/80-remove-duplicates-from-sorted-array-ii.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\80-remove-duplicates-from-sorted-array-ii.dir\build.make CMakeFiles/80-remove-duplicates-from-sorted-array-ii.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\80-remove-duplicates-from-sorted-array-ii.dir\build.make CMakeFiles/80-remove-duplicates-from-sorted-array-ii.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num= "Built target 80-remove-duplicates-from-sorted-array-ii"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=64 "Built target 80-remove-duplicates-from-sorted-array-ii"
 .PHONY : CMakeFiles/80-remove-duplicates-from-sorted-array-ii.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/80-remove-duplicates-from-sorted-array-ii.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/80-remove-duplicates-from-sorted-array-ii.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/80-remove-duplicates-from-sorted-array-ii.dir/rule
@@ -940,12 +956,12 @@ CMakeFiles/80-remove-duplicates-from-sorted-array-ii.dir/clean:
 CMakeFiles/169-majority-element.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\169-majority-element.dir\build.make CMakeFiles/169-majority-element.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\169-majority-element.dir\build.make CMakeFiles/169-majority-element.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=20 "Built target 169-majority-element"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num= "Built target 169-majority-element"
 .PHONY : CMakeFiles/169-majority-element.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/169-majority-element.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/169-majority-element.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/169-majority-element.dir/rule
@@ -966,7 +982,7 @@ CMakeFiles/169-majority-element.dir/clean:
 CMakeFiles/189-rotate-array.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\189-rotate-array.dir\build.make CMakeFiles/189-rotate-array.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\189-rotate-array.dir\build.make CMakeFiles/189-rotate-array.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=22 "Built target 189-rotate-array"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=21 "Built target 189-rotate-array"
 .PHONY : CMakeFiles/189-rotate-array.dir/all
 
 # Build rule for subdir invocation for target.
@@ -992,7 +1008,7 @@ CMakeFiles/189-rotate-array.dir/clean:
 CMakeFiles/55-jump-game.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\55-jump-game.dir\build.make CMakeFiles/55-jump-game.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\55-jump-game.dir\build.make CMakeFiles/55-jump-game.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=58 "Built target 55-jump-game"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=55 "Built target 55-jump-game"
 .PHONY : CMakeFiles/55-jump-game.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1018,7 +1034,7 @@ CMakeFiles/55-jump-game.dir/clean:
 CMakeFiles/45-jump-game-ii.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\45-jump-game-ii.dir\build.make CMakeFiles/45-jump-game-ii.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\45-jump-game-ii.dir\build.make CMakeFiles/45-jump-game-ii.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=50 "Built target 45-jump-game-ii"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=47 "Built target 45-jump-game-ii"
 .PHONY : CMakeFiles/45-jump-game-ii.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1070,12 +1086,12 @@ CMakeFiles/380-insert-delete-getrandom-o1.dir/clean:
 CMakeFiles/01.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\01.dir\build.make CMakeFiles/01.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\01.dir\build.make CMakeFiles/01.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=4 "Built target 01"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num= "Built target 01"
 .PHONY : CMakeFiles/01.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/01.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/01.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/01.dir/rule
@@ -1122,12 +1138,12 @@ CMakeFiles/02.dir/clean:
 CMakeFiles/236-lowest-common-ancestor-of-a-binary-tree.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\236-lowest-common-ancestor-of-a-binary-tree.dir\build.make CMakeFiles/236-lowest-common-ancestor-of-a-binary-tree.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\236-lowest-common-ancestor-of-a-binary-tree.dir\build.make CMakeFiles/236-lowest-common-ancestor-of-a-binary-tree.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num= "Built target 236-lowest-common-ancestor-of-a-binary-tree"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=34 "Built target 236-lowest-common-ancestor-of-a-binary-tree"
 .PHONY : CMakeFiles/236-lowest-common-ancestor-of-a-binary-tree.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/236-lowest-common-ancestor-of-a-binary-tree.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/236-lowest-common-ancestor-of-a-binary-tree.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/236-lowest-common-ancestor-of-a-binary-tree.dir/rule
@@ -1148,7 +1164,7 @@ CMakeFiles/236-lowest-common-ancestor-of-a-binary-tree.dir/clean:
 CMakeFiles/695-max-area-of-island.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\695-max-area-of-island.dir\build.make CMakeFiles/695-max-area-of-island.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\695-max-area-of-island.dir\build.make CMakeFiles/695-max-area-of-island.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=62 "Built target 695-max-area-of-island"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=58 "Built target 695-max-area-of-island"
 .PHONY : CMakeFiles/695-max-area-of-island.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1174,7 +1190,7 @@ CMakeFiles/695-max-area-of-island.dir/clean:
 CMakeFiles/827-making-a-large-island.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\827-making-a-large-island.dir\build.make CMakeFiles/827-making-a-large-island.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\827-making-a-large-island.dir\build.make CMakeFiles/827-making-a-large-island.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=70 "Built target 827-making-a-large-island"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=66 "Built target 827-making-a-large-island"
 .PHONY : CMakeFiles/827-making-a-large-island.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1200,7 +1216,7 @@ CMakeFiles/827-making-a-large-island.dir/clean:
 CMakeFiles/739-daily-temperatures.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\739-daily-temperatures.dir\build.make CMakeFiles/739-daily-temperatures.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\739-daily-temperatures.dir\build.make CMakeFiles/739-daily-temperatures.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=65 "Built target 739-daily-temperatures"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=61 "Built target 739-daily-temperatures"
 .PHONY : CMakeFiles/739-daily-temperatures.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1226,12 +1242,12 @@ CMakeFiles/739-daily-temperatures.dir/clean:
 CMakeFiles/463-island-perimeter.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\463-island-perimeter.dir\build.make CMakeFiles/463-island-perimeter.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\463-island-perimeter.dir\build.make CMakeFiles/463-island-perimeter.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num= "Built target 463-island-perimeter"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=49 "Built target 463-island-perimeter"
 .PHONY : CMakeFiles/463-island-perimeter.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/463-island-perimeter.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/463-island-perimeter.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/463-island-perimeter.dir/rule
@@ -1252,7 +1268,7 @@ CMakeFiles/463-island-perimeter.dir/clean:
 CMakeFiles/1997-first-day-where-you-have-been-in-all-the-rooms.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\1997-first-day-where-you-have-been-in-all-the-rooms.dir\build.make CMakeFiles/1997-first-day-where-you-have-been-in-all-the-rooms.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\1997-first-day-where-you-have-been-in-all-the-rooms.dir\build.make CMakeFiles/1997-first-day-where-you-have-been-in-all-the-rooms.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=26 "Built target 1997-first-day-where-you-have-been-in-all-the-rooms"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=24 "Built target 1997-first-day-where-you-have-been-in-all-the-rooms"
 .PHONY : CMakeFiles/1997-first-day-where-you-have-been-in-all-the-rooms.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1278,12 +1294,12 @@ CMakeFiles/1997-first-day-where-you-have-been-in-all-the-rooms.dir/clean:
 CMakeFiles/54-spiral-matrix.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\54-spiral-matrix.dir\build.make CMakeFiles/54-spiral-matrix.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\54-spiral-matrix.dir\build.make CMakeFiles/54-spiral-matrix.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num= "Built target 54-spiral-matrix"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=54 "Built target 54-spiral-matrix"
 .PHONY : CMakeFiles/54-spiral-matrix.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/54-spiral-matrix.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/54-spiral-matrix.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/54-spiral-matrix.dir/rule
@@ -1304,7 +1320,7 @@ CMakeFiles/54-spiral-matrix.dir/clean:
 CMakeFiles/46-permutations.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\46-permutations.dir\build.make CMakeFiles/46-permutations.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\46-permutations.dir\build.make CMakeFiles/46-permutations.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=51 "Built target 46-permutations"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=48 "Built target 46-permutations"
 .PHONY : CMakeFiles/46-permutations.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1330,12 +1346,12 @@ CMakeFiles/46-permutations.dir/clean:
 CMakeFiles/31-next-permutation.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\31-next-permutation.dir\build.make CMakeFiles/31-next-permutation.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\31-next-permutation.dir\build.make CMakeFiles/31-next-permutation.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=43 "Built target 31-next-permutation"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num= "Built target 31-next-permutation"
 .PHONY : CMakeFiles/31-next-permutation.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/31-next-permutation.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/31-next-permutation.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/31-next-permutation.dir/rule
@@ -1356,7 +1372,7 @@ CMakeFiles/31-next-permutation.dir/clean:
 CMakeFiles/300-longest-increasing-subsequence.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\300-longest-increasing-subsequence.dir\build.make CMakeFiles/300-longest-increasing-subsequence.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\300-longest-increasing-subsequence.dir\build.make CMakeFiles/300-longest-increasing-subsequence.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=42 "Built target 300-longest-increasing-subsequence"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=39 "Built target 300-longest-increasing-subsequence"
 .PHONY : CMakeFiles/300-longest-increasing-subsequence.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1382,7 +1398,7 @@ CMakeFiles/300-longest-increasing-subsequence.dir/clean:
 CMakeFiles/92-reverse-linked-list-ii.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\92-reverse-linked-list-ii.dir\build.make CMakeFiles/92-reverse-linked-list-ii.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\92-reverse-linked-list-ii.dir\build.make CMakeFiles/92-reverse-linked-list-ii.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=74 "Built target 92-reverse-linked-list-ii"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=70 "Built target 92-reverse-linked-list-ii"
 .PHONY : CMakeFiles/92-reverse-linked-list-ii.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1434,12 +1450,12 @@ CMakeFiles/1.dir/clean:
 CMakeFiles/2.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\2.dir\build.make CMakeFiles/2.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\2.dir\build.make CMakeFiles/2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num= "Built target 2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=25 "Built target 2"
 .PHONY : CMakeFiles/2.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/2.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/2.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/2.dir/rule
@@ -1460,12 +1476,12 @@ CMakeFiles/2.dir/clean:
 CMakeFiles/3.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\3.dir\build.make CMakeFiles/3.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\3.dir\build.make CMakeFiles/3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=40 "Built target 3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num= "Built target 3"
 .PHONY : CMakeFiles/3.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/3.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/3.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/3.dir/rule
@@ -1486,7 +1502,7 @@ CMakeFiles/3.dir/clean:
 CMakeFiles/4.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\4.dir\build.make CMakeFiles/4.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\4.dir\build.make CMakeFiles/4.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=48 "Built target 4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=45 "Built target 4"
 .PHONY : CMakeFiles/4.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1616,7 +1632,7 @@ CMakeFiles/005.dir/clean:
 CMakeFiles/894-all-possible-full-binary-trees.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\894-all-possible-full-binary-trees.dir\build.make CMakeFiles/894-all-possible-full-binary-trees.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\894-all-possible-full-binary-trees.dir\build.make CMakeFiles/894-all-possible-full-binary-trees.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=73 "Built target 894-all-possible-full-binary-trees"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=68 "Built target 894-all-possible-full-binary-trees"
 .PHONY : CMakeFiles/894-all-possible-full-binary-trees.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1642,12 +1658,12 @@ CMakeFiles/894-all-possible-full-binary-trees.dir/clean:
 CMakeFiles/1702-maximum-binary-string-after-change.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\1702-maximum-binary-string-after-change.dir\build.make CMakeFiles/1702-maximum-binary-string-after-change.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\1702-maximum-binary-string-after-change.dir\build.make CMakeFiles/1702-maximum-binary-string-after-change.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num= "Built target 1702-maximum-binary-string-after-change"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=20 "Built target 1702-maximum-binary-string-after-change"
 .PHONY : CMakeFiles/1702-maximum-binary-string-after-change.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/1702-maximum-binary-string-after-change.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/1702-maximum-binary-string-after-change.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/1702-maximum-binary-string-after-change.dir/rule
@@ -1668,7 +1684,7 @@ CMakeFiles/1702-maximum-binary-string-after-change.dir/clean:
 CMakeFiles/42-trapping-rain-water.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\42-trapping-rain-water.dir\build.make CMakeFiles/42-trapping-rain-water.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\42-trapping-rain-water.dir\build.make CMakeFiles/42-trapping-rain-water.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=49 "Built target 42-trapping-rain-water"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=46 "Built target 42-trapping-rain-water"
 .PHONY : CMakeFiles/42-trapping-rain-water.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1694,7 +1710,7 @@ CMakeFiles/42-trapping-rain-water.dir/clean:
 CMakeFiles/209-minimum-size-subarray-sum.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\209-minimum-size-subarray-sum.dir\build.make CMakeFiles/209-minimum-size-subarray-sum.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\209-minimum-size-subarray-sum.dir\build.make CMakeFiles/209-minimum-size-subarray-sum.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=29 "Built target 209-minimum-size-subarray-sum"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=27 "Built target 209-minimum-size-subarray-sum"
 .PHONY : CMakeFiles/209-minimum-size-subarray-sum.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1746,7 +1762,7 @@ CMakeFiles/713-subarray-product-less-than-k.dir/clean:
 CMakeFiles/meituan_1.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\meituan_1.dir\build.make CMakeFiles/meituan_1.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\meituan_1.dir\build.make CMakeFiles/meituan_1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=93 "Built target meituan_1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=87 "Built target meituan_1"
 .PHONY : CMakeFiles/meituan_1.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1772,7 +1788,7 @@ CMakeFiles/meituan_1.dir/clean:
 CMakeFiles/meituan2.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\meituan2.dir\build.make CMakeFiles/meituan2.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\meituan2.dir\build.make CMakeFiles/meituan2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=92 "Built target meituan2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=86 "Built target meituan2"
 .PHONY : CMakeFiles/meituan2.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1798,7 +1814,7 @@ CMakeFiles/meituan2.dir/clean:
 CMakeFiles/meituan_3.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\meituan_3.dir\build.make CMakeFiles/meituan_3.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\meituan_3.dir\build.make CMakeFiles/meituan_3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=94 "Built target meituan_3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=88 "Built target meituan_3"
 .PHONY : CMakeFiles/meituan_3.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1850,7 +1866,7 @@ CMakeFiles/meituan_4.dir/clean:
 CMakeFiles/meituan_5.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\meituan_5.dir\build.make CMakeFiles/meituan_5.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\meituan_5.dir\build.make CMakeFiles/meituan_5.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=95 "Built target meituan_5"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=89 "Built target meituan_5"
 .PHONY : CMakeFiles/meituan_5.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1876,7 +1892,7 @@ CMakeFiles/meituan_5.dir/clean:
 CMakeFiles/34-find-first-and-last-position-of-element-in-sorted-array.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\34-find-first-and-last-position-of-element-in-sorted-array.dir\build.make CMakeFiles/34-find-first-and-last-position-of-element-in-sorted-array.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\34-find-first-and-last-position-of-element-in-sorted-array.dir\build.make CMakeFiles/34-find-first-and-last-position-of-element-in-sorted-array.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=46 "Built target 34-find-first-and-last-position-of-element-in-sorted-array"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=43 "Built target 34-find-first-and-last-position-of-element-in-sorted-array"
 .PHONY : CMakeFiles/34-find-first-and-last-position-of-element-in-sorted-array.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1902,7 +1918,7 @@ CMakeFiles/34-find-first-and-last-position-of-element-in-sorted-array.dir/clean:
 CMakeFiles/162-find-peak-element.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\162-find-peak-element.dir\build.make CMakeFiles/162-find-peak-element.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\162-find-peak-element.dir\build.make CMakeFiles/162-find-peak-element.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=19 "Built target 162-find-peak-element"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=18 "Built target 162-find-peak-element"
 .PHONY : CMakeFiles/162-find-peak-element.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1928,7 +1944,7 @@ CMakeFiles/162-find-peak-element.dir/clean:
 CMakeFiles/153-find-minimum-in-rotated-sorted-array.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\153-find-minimum-in-rotated-sorted-array.dir\build.make CMakeFiles/153-find-minimum-in-rotated-sorted-array.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\153-find-minimum-in-rotated-sorted-array.dir\build.make CMakeFiles/153-find-minimum-in-rotated-sorted-array.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=18 "Built target 153-find-minimum-in-rotated-sorted-array"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=17 "Built target 153-find-minimum-in-rotated-sorted-array"
 .PHONY : CMakeFiles/153-find-minimum-in-rotated-sorted-array.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1954,7 +1970,7 @@ CMakeFiles/153-find-minimum-in-rotated-sorted-array.dir/clean:
 CMakeFiles/tx.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\tx.dir\build.make CMakeFiles/tx.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\tx.dir\build.make CMakeFiles/tx.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=100 "Built target tx"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=99 "Built target tx"
 .PHONY : CMakeFiles/tx.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1980,7 +1996,7 @@ CMakeFiles/tx.dir/clean:
 CMakeFiles/huawei_1.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\huawei_1.dir\build.make CMakeFiles/huawei_1.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\huawei_1.dir\build.make CMakeFiles/huawei_1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=86 "Built target huawei_1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=81 "Built target huawei_1"
 .PHONY : CMakeFiles/huawei_1.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2006,7 +2022,7 @@ CMakeFiles/huawei_1.dir/clean:
 CMakeFiles/huawei_2.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\huawei_2.dir\build.make CMakeFiles/huawei_2.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\huawei_2.dir\build.make CMakeFiles/huawei_2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=88 "Built target huawei_2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=82 "Built target huawei_2"
 .PHONY : CMakeFiles/huawei_2.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2032,7 +2048,7 @@ CMakeFiles/huawei_2.dir/clean:
 CMakeFiles/huawei_3.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\huawei_3.dir\build.make CMakeFiles/huawei_3.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\huawei_3.dir\build.make CMakeFiles/huawei_3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=89 "Built target huawei_3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=83 "Built target huawei_3"
 .PHONY : CMakeFiles/huawei_3.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2058,12 +2074,12 @@ CMakeFiles/huawei_3.dir/clean:
 CMakeFiles/huawei_1_2.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\huawei_1_2.dir\build.make CMakeFiles/huawei_1_2.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\huawei_1_2.dir\build.make CMakeFiles/huawei_1_2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=87 "Built target huawei_1_2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num= "Built target huawei_1_2"
 .PHONY : CMakeFiles/huawei_1_2.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/huawei_1_2.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/huawei_1_2.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/huawei_1_2.dir/rule
@@ -2084,12 +2100,12 @@ CMakeFiles/huawei_1_2.dir/clean:
 CMakeFiles/460-lfu-cache.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\460-lfu-cache.dir\build.make CMakeFiles/460-lfu-cache.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\460-lfu-cache.dir\build.make CMakeFiles/460-lfu-cache.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=52 "Built target 460-lfu-cache"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num= "Built target 460-lfu-cache"
 .PHONY : CMakeFiles/460-lfu-cache.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/460-lfu-cache.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/460-lfu-cache.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/460-lfu-cache.dir/rule
@@ -2110,7 +2126,7 @@ CMakeFiles/460-lfu-cache.dir/clean:
 CMakeFiles/test1.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\test1.dir\build.make CMakeFiles/test1.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\test1.dir\build.make CMakeFiles/test1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=99 "Built target test1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=98 "Built target test1"
 .PHONY : CMakeFiles/test1.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2136,7 +2152,7 @@ CMakeFiles/test1.dir/clean:
 CMakeFiles/2126-destroying-asteroids.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\2126-destroying-asteroids.dir\build.make CMakeFiles/2126-destroying-asteroids.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\2126-destroying-asteroids.dir\build.make CMakeFiles/2126-destroying-asteroids.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=31 "Built target 2126-destroying-asteroids"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=29 "Built target 2126-destroying-asteroids"
 .PHONY : CMakeFiles/2126-destroying-asteroids.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2162,12 +2178,12 @@ CMakeFiles/2126-destroying-asteroids.dir/clean:
 CMakeFiles/3080-mark-elements-on-array-by-performing-queries.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\3080-mark-elements-on-array-by-performing-queries.dir\build.make CMakeFiles/3080-mark-elements-on-array-by-performing-queries.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\3080-mark-elements-on-array-by-performing-queries.dir\build.make CMakeFiles/3080-mark-elements-on-array-by-performing-queries.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num= "Built target 3080-mark-elements-on-array-by-performing-queries"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=40 "Built target 3080-mark-elements-on-array-by-performing-queries"
 .PHONY : CMakeFiles/3080-mark-elements-on-array-by-performing-queries.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/3080-mark-elements-on-array-by-performing-queries.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/3080-mark-elements-on-array-by-performing-queries.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/3080-mark-elements-on-array-by-performing-queries.dir/rule
@@ -2188,7 +2204,7 @@ CMakeFiles/3080-mark-elements-on-array-by-performing-queries.dir/clean:
 CMakeFiles/876-middle-of-the-linked-list.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\876-middle-of-the-linked-list.dir\build.make CMakeFiles/876-middle-of-the-linked-list.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\876-middle-of-the-linked-list.dir\build.make CMakeFiles/876-middle-of-the-linked-list.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=72 "Built target 876-middle-of-the-linked-list"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=67 "Built target 876-middle-of-the-linked-list"
 .PHONY : CMakeFiles/876-middle-of-the-linked-list.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2214,7 +2230,7 @@ CMakeFiles/876-middle-of-the-linked-list.dir/clean:
 CMakeFiles/141-linked-list-cycle.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\141-linked-list-cycle.dir\build.make CMakeFiles/141-linked-list-cycle.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\141-linked-list-cycle.dir\build.make CMakeFiles/141-linked-list-cycle.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=14 "Built target 141-linked-list-cycle"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=13 "Built target 141-linked-list-cycle"
 .PHONY : CMakeFiles/141-linked-list-cycle.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2240,7 +2256,7 @@ CMakeFiles/141-linked-list-cycle.dir/clean:
 CMakeFiles/142-linked-list-cycle-ii.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\142-linked-list-cycle-ii.dir\build.make CMakeFiles/142-linked-list-cycle-ii.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\142-linked-list-cycle-ii.dir\build.make CMakeFiles/142-linked-list-cycle-ii.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=15 "Built target 142-linked-list-cycle-ii"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=14 "Built target 142-linked-list-cycle-ii"
 .PHONY : CMakeFiles/142-linked-list-cycle-ii.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2292,7 +2308,7 @@ CMakeFiles/143-reorder-list.dir/clean:
 CMakeFiles/237-delete-node-in-a-linked-list.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\237-delete-node-in-a-linked-list.dir\build.make CMakeFiles/237-delete-node-in-a-linked-list.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\237-delete-node-in-a-linked-list.dir\build.make CMakeFiles/237-delete-node-in-a-linked-list.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=37 "Built target 237-delete-node-in-a-linked-list"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=35 "Built target 237-delete-node-in-a-linked-list"
 .PHONY : CMakeFiles/237-delete-node-in-a-linked-list.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2318,7 +2334,7 @@ CMakeFiles/237-delete-node-in-a-linked-list.dir/clean:
 CMakeFiles/19-remove-nth-node-from-end-of-list.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\19-remove-nth-node-from-end-of-list.dir\build.make CMakeFiles/19-remove-nth-node-from-end-of-list.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\19-remove-nth-node-from-end-of-list.dir\build.make CMakeFiles/19-remove-nth-node-from-end-of-list.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=23 "Built target 19-remove-nth-node-from-end-of-list"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=22 "Built target 19-remove-nth-node-from-end-of-list"
 .PHONY : CMakeFiles/19-remove-nth-node-from-end-of-list.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2344,12 +2360,12 @@ CMakeFiles/19-remove-nth-node-from-end-of-list.dir/clean:
 CMakeFiles/83-remove-duplicates-from-sorted-list.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\83-remove-duplicates-from-sorted-list.dir\build.make CMakeFiles/83-remove-duplicates-from-sorted-list.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\83-remove-duplicates-from-sorted-list.dir\build.make CMakeFiles/83-remove-duplicates-from-sorted-list.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=71 "Built target 83-remove-duplicates-from-sorted-list"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num= "Built target 83-remove-duplicates-from-sorted-list"
 .PHONY : CMakeFiles/83-remove-duplicates-from-sorted-list.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/83-remove-duplicates-from-sorted-list.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/83-remove-duplicates-from-sorted-list.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/83-remove-duplicates-from-sorted-list.dir/rule
@@ -2370,7 +2386,7 @@ CMakeFiles/83-remove-duplicates-from-sorted-list.dir/clean:
 CMakeFiles/82-remove-duplicates-from-sorted-list-ii.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\82-remove-duplicates-from-sorted-list-ii.dir\build.make CMakeFiles/82-remove-duplicates-from-sorted-list-ii.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\82-remove-duplicates-from-sorted-list-ii.dir\build.make CMakeFiles/82-remove-duplicates-from-sorted-list-ii.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=69 "Built target 82-remove-duplicates-from-sorted-list-ii"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=65 "Built target 82-remove-duplicates-from-sorted-list-ii"
 .PHONY : CMakeFiles/82-remove-duplicates-from-sorted-list-ii.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2422,12 +2438,12 @@ CMakeFiles/104-maximum-depth-of-binary-tree.dir/clean:
 CMakeFiles/100-same-tree.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\100-same-tree.dir\build.make CMakeFiles/100-same-tree.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\100-same-tree.dir\build.make CMakeFiles/100-same-tree.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=8 "Built target 100-same-tree"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num= "Built target 100-same-tree"
 .PHONY : CMakeFiles/100-same-tree.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/100-same-tree.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/100-same-tree.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/100-same-tree.dir/rule
@@ -2448,7 +2464,7 @@ CMakeFiles/100-same-tree.dir/clean:
 CMakeFiles/101-symmetric-tree.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\101-symmetric-tree.dir\build.make CMakeFiles/101-symmetric-tree.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\101-symmetric-tree.dir\build.make CMakeFiles/101-symmetric-tree.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=9 "Built target 101-symmetric-tree"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=8 "Built target 101-symmetric-tree"
 .PHONY : CMakeFiles/101-symmetric-tree.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2474,12 +2490,12 @@ CMakeFiles/101-symmetric-tree.dir/clean:
 CMakeFiles/110-balanced-binary-tree.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\110-balanced-binary-tree.dir\build.make CMakeFiles/110-balanced-binary-tree.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\110-balanced-binary-tree.dir\build.make CMakeFiles/110-balanced-binary-tree.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=12 "Built target 110-balanced-binary-tree"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num= "Built target 110-balanced-binary-tree"
 .PHONY : CMakeFiles/110-balanced-binary-tree.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/110-balanced-binary-tree.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/110-balanced-binary-tree.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/110-balanced-binary-tree.dir/rule
@@ -2500,7 +2516,7 @@ CMakeFiles/110-balanced-binary-tree.dir/clean:
 CMakeFiles/199-binary-tree-right-side-view.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\199-binary-tree-right-side-view.dir\build.make CMakeFiles/199-binary-tree-right-side-view.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\199-binary-tree-right-side-view.dir\build.make CMakeFiles/199-binary-tree-right-side-view.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=25 "Built target 199-binary-tree-right-side-view"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=23 "Built target 199-binary-tree-right-side-view"
 .PHONY : CMakeFiles/199-binary-tree-right-side-view.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2526,12 +2542,12 @@ CMakeFiles/199-binary-tree-right-side-view.dir/clean:
 CMakeFiles/98-validate-binary-search-tree.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\98-validate-binary-search-tree.dir\build.make CMakeFiles/98-validate-binary-search-tree.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\98-validate-binary-search-tree.dir\build.make CMakeFiles/98-validate-binary-search-tree.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=75 "Built target 98-validate-binary-search-tree"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num= "Built target 98-validate-binary-search-tree"
 .PHONY : CMakeFiles/98-validate-binary-search-tree.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/98-validate-binary-search-tree.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/98-validate-binary-search-tree.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/98-validate-binary-search-tree.dir/rule
@@ -2552,12 +2568,12 @@ CMakeFiles/98-validate-binary-search-tree.dir/clean:
 CMakeFiles/235-lowest-common-ancestor-of-a-binary-search-tree.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\235-lowest-common-ancestor-of-a-binary-search-tree.dir\build.make CMakeFiles/235-lowest-common-ancestor-of-a-binary-search-tree.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\235-lowest-common-ancestor-of-a-binary-search-tree.dir\build.make CMakeFiles/235-lowest-common-ancestor-of-a-binary-search-tree.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=36 "Built target 235-lowest-common-ancestor-of-a-binary-search-tree"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num= "Built target 235-lowest-common-ancestor-of-a-binary-search-tree"
 .PHONY : CMakeFiles/235-lowest-common-ancestor-of-a-binary-search-tree.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/235-lowest-common-ancestor-of-a-binary-search-tree.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/235-lowest-common-ancestor-of-a-binary-search-tree.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/235-lowest-common-ancestor-of-a-binary-search-tree.dir/rule
@@ -2578,12 +2594,12 @@ CMakeFiles/235-lowest-common-ancestor-of-a-binary-search-tree.dir/clean:
 CMakeFiles/103-binary-tree-zigzag-level-order-traversal.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\103-binary-tree-zigzag-level-order-traversal.dir\build.make CMakeFiles/103-binary-tree-zigzag-level-order-traversal.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\103-binary-tree-zigzag-level-order-traversal.dir\build.make CMakeFiles/103-binary-tree-zigzag-level-order-traversal.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num= "Built target 103-binary-tree-zigzag-level-order-traversal"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=10 "Built target 103-binary-tree-zigzag-level-order-traversal"
 .PHONY : CMakeFiles/103-binary-tree-zigzag-level-order-traversal.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/103-binary-tree-zigzag-level-order-traversal.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/103-binary-tree-zigzag-level-order-traversal.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/103-binary-tree-zigzag-level-order-traversal.dir/rule
@@ -2604,7 +2620,7 @@ CMakeFiles/103-binary-tree-zigzag-level-order-traversal.dir/clean:
 CMakeFiles/513-find-bottom-left-tree-value.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\513-find-bottom-left-tree-value.dir\build.make CMakeFiles/513-find-bottom-left-tree-value.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\513-find-bottom-left-tree-value.dir\build.make CMakeFiles/513-find-bottom-left-tree-value.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=56 "Built target 513-find-bottom-left-tree-value"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=52 "Built target 513-find-bottom-left-tree-value"
 .PHONY : CMakeFiles/513-find-bottom-left-tree-value.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2630,7 +2646,7 @@ CMakeFiles/513-find-bottom-left-tree-value.dir/clean:
 CMakeFiles/17-letter-combinations-of-a-phone-number.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\17-letter-combinations-of-a-phone-number.dir\build.make CMakeFiles/17-letter-combinations-of-a-phone-number.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\17-letter-combinations-of-a-phone-number.dir\build.make CMakeFiles/17-letter-combinations-of-a-phone-number.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=21 "Built target 17-letter-combinations-of-a-phone-number"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=19 "Built target 17-letter-combinations-of-a-phone-number"
 .PHONY : CMakeFiles/17-letter-combinations-of-a-phone-number.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2656,7 +2672,7 @@ CMakeFiles/17-letter-combinations-of-a-phone-number.dir/clean:
 CMakeFiles/78-subsets.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\78-subsets.dir\build.make CMakeFiles/78-subsets.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\78-subsets.dir\build.make CMakeFiles/78-subsets.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=68 "Built target 78-subsets"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=63 "Built target 78-subsets"
 .PHONY : CMakeFiles/78-subsets.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2682,7 +2698,7 @@ CMakeFiles/78-subsets.dir/clean:
 CMakeFiles/131-palindrome-partitioning.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\131-palindrome-partitioning.dir\build.make CMakeFiles/131-palindrome-partitioning.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\131-palindrome-partitioning.dir\build.make CMakeFiles/131-palindrome-partitioning.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=13 "Built target 131-palindrome-partitioning"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=12 "Built target 131-palindrome-partitioning"
 .PHONY : CMakeFiles/131-palindrome-partitioning.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2708,7 +2724,7 @@ CMakeFiles/131-palindrome-partitioning.dir/clean:
 CMakeFiles/2160-minimum-sum-of-four-digit-number-after-splitting-digits.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\2160-minimum-sum-of-four-digit-number-after-splitting-digits.dir\build.make CMakeFiles/2160-minimum-sum-of-four-digit-number-after-splitting-digits.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\2160-minimum-sum-of-four-digit-number-after-splitting-digits.dir\build.make CMakeFiles/2160-minimum-sum-of-four-digit-number-after-splitting-digits.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=33 "Built target 2160-minimum-sum-of-four-digit-number-after-splitting-digits"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=31 "Built target 2160-minimum-sum-of-four-digit-number-after-splitting-digits"
 .PHONY : CMakeFiles/2160-minimum-sum-of-four-digit-number-after-splitting-digits.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2734,12 +2750,12 @@ CMakeFiles/2160-minimum-sum-of-four-digit-number-after-splitting-digits.dir/clea
 CMakeFiles/77-combinations.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\77-combinations.dir\build.make CMakeFiles/77-combinations.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\77-combinations.dir\build.make CMakeFiles/77-combinations.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=67 "Built target 77-combinations"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num= "Built target 77-combinations"
 .PHONY : CMakeFiles/77-combinations.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/77-combinations.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/77-combinations.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/77-combinations.dir/rule
@@ -2760,7 +2776,7 @@ CMakeFiles/77-combinations.dir/clean:
 CMakeFiles/216-combination-sum-iii.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\216-combination-sum-iii.dir\build.make CMakeFiles/216-combination-sum-iii.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\216-combination-sum-iii.dir\build.make CMakeFiles/216-combination-sum-iii.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=32 "Built target 216-combination-sum-iii"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=30 "Built target 216-combination-sum-iii"
 .PHONY : CMakeFiles/216-combination-sum-iii.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2786,7 +2802,7 @@ CMakeFiles/216-combination-sum-iii.dir/clean:
 CMakeFiles/22-generate-parentheses.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\22-generate-parentheses.dir\build.make CMakeFiles/22-generate-parentheses.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\22-generate-parentheses.dir\build.make CMakeFiles/22-generate-parentheses.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=34 "Built target 22-generate-parentheses"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=32 "Built target 22-generate-parentheses"
 .PHONY : CMakeFiles/22-generate-parentheses.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2812,12 +2828,12 @@ CMakeFiles/22-generate-parentheses.dir/clean:
 CMakeFiles/51-n-queens.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\51-n-queens.dir\build.make CMakeFiles/51-n-queens.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\51-n-queens.dir\build.make CMakeFiles/51-n-queens.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=55 "Built target 51-n-queens"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num= "Built target 51-n-queens"
 .PHONY : CMakeFiles/51-n-queens.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/51-n-queens.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/51-n-queens.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/51-n-queens.dir/rule
@@ -2838,12 +2854,12 @@ CMakeFiles/51-n-queens.dir/clean:
 CMakeFiles/198-house-robber.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\198-house-robber.dir\build.make CMakeFiles/198-house-robber.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\198-house-robber.dir\build.make CMakeFiles/198-house-robber.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=24 "Built target 198-house-robber"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num= "Built target 198-house-robber"
 .PHONY : CMakeFiles/198-house-robber.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/198-house-robber.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/198-house-robber.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/198-house-robber.dir/rule
@@ -2864,7 +2880,7 @@ CMakeFiles/198-house-robber.dir/clean:
 CMakeFiles/494-target-sum.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\494-target-sum.dir\build.make CMakeFiles/494-target-sum.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\494-target-sum.dir\build.make CMakeFiles/494-target-sum.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=53 "Built target 494-target-sum"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=50 "Built target 494-target-sum"
 .PHONY : CMakeFiles/494-target-sum.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2890,7 +2906,7 @@ CMakeFiles/494-target-sum.dir/clean:
 CMakeFiles/322-coin-change.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\322-coin-change.dir\build.make CMakeFiles/322-coin-change.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\322-coin-change.dir\build.make CMakeFiles/322-coin-change.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=44 "Built target 322-coin-change"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=41 "Built target 322-coin-change"
 .PHONY : CMakeFiles/322-coin-change.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2916,7 +2932,7 @@ CMakeFiles/322-coin-change.dir/clean:
 CMakeFiles/a.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\a.dir\build.make CMakeFiles/a.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\a.dir\build.make CMakeFiles/a.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=77 "Built target a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=72 "Built target a"
 .PHONY : CMakeFiles/a.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2942,12 +2958,12 @@ CMakeFiles/a.dir/clean:
 CMakeFiles/b.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\b.dir\build.make CMakeFiles/b.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\b.dir\build.make CMakeFiles/b.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num= "Built target b"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=74 "Built target b"
 .PHONY : CMakeFiles/b.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/b.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/b.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/b.dir/rule
@@ -2968,12 +2984,12 @@ CMakeFiles/b.dir/clean:
 CMakeFiles/c.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\c.dir\build.make CMakeFiles/c.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\c.dir\build.make CMakeFiles/c.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=79 "Built target c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num= "Built target c"
 .PHONY : CMakeFiles/c.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/c.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/c.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/c.dir/rule
@@ -2994,7 +3010,7 @@ CMakeFiles/c.dir/clean:
 CMakeFiles/d.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\d.dir\build.make CMakeFiles/d.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\d.dir\build.make CMakeFiles/d.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=81 "Built target d"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=76 "Built target d"
 .PHONY : CMakeFiles/d.dir/all
 
 # Build rule for subdir invocation for target.
@@ -3020,7 +3036,7 @@ CMakeFiles/d.dir/clean:
 CMakeFiles/e.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\e.dir\build.make CMakeFiles/e.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\e.dir\build.make CMakeFiles/e.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=82 "Built target e"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=77 "Built target e"
 .PHONY : CMakeFiles/e.dir/all
 
 # Build rule for subdir invocation for target.
@@ -3046,12 +3062,12 @@ CMakeFiles/e.dir/clean:
 CMakeFiles/f.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\f.dir\build.make CMakeFiles/f.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\f.dir\build.make CMakeFiles/f.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=83 "Built target f"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num= "Built target f"
 .PHONY : CMakeFiles/f.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/f.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/f.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/f.dir/rule
@@ -3072,12 +3088,12 @@ CMakeFiles/f.dir/clean:
 CMakeFiles/g.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\g.dir\build.make CMakeFiles/g.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\g.dir\build.make CMakeFiles/g.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num= "Built target g"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=79 "Built target g"
 .PHONY : CMakeFiles/g.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/g.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/g.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/g.dir/rule
@@ -3098,7 +3114,7 @@ CMakeFiles/g.dir/clean:
 CMakeFiles/h.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\h.dir\build.make CMakeFiles/h.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\h.dir\build.make CMakeFiles/h.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=85 "Built target h"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=80 "Built target h"
 .PHONY : CMakeFiles/h.dir/all
 
 # Build rule for subdir invocation for target.
@@ -3124,12 +3140,12 @@ CMakeFiles/h.dir/clean:
 CMakeFiles/i.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\i.dir\build.make CMakeFiles/i.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\i.dir\build.make CMakeFiles/i.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num= "Built target i"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=84 "Built target i"
 .PHONY : CMakeFiles/i.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/i.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/i.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/i.dir/rule
@@ -3150,7 +3166,7 @@ CMakeFiles/i.dir/clean:
 CMakeFiles/j.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\j.dir\build.make CMakeFiles/j.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\j.dir\build.make CMakeFiles/j.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=90 "Built target j"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=85 "Built target j"
 .PHONY : CMakeFiles/j.dir/all
 
 # Build rule for subdir invocation for target.
@@ -3176,12 +3192,12 @@ CMakeFiles/j.dir/clean:
 CMakeFiles/light.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\light.dir\build.make CMakeFiles/light.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\light.dir\build.make CMakeFiles/light.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=91 "Built target light"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num= "Built target light"
 .PHONY : CMakeFiles/light.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/light.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/light.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/light.dir/rule
@@ -3202,7 +3218,7 @@ CMakeFiles/light.dir/clean:
 CMakeFiles/perfect.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\perfect.dir\build.make CMakeFiles/perfect.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\perfect.dir\build.make CMakeFiles/perfect.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=96 "Built target perfect"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=94 "Built target perfect"
 .PHONY : CMakeFiles/perfect.dir/all
 
 # Build rule for subdir invocation for target.
@@ -3228,7 +3244,7 @@ CMakeFiles/perfect.dir/clean:
 CMakeFiles/746-min-cost-climbing-stairs.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\746-min-cost-climbing-stairs.dir\build.make CMakeFiles/746-min-cost-climbing-stairs.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\746-min-cost-climbing-stairs.dir\build.make CMakeFiles/746-min-cost-climbing-stairs.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=66 "Built target 746-min-cost-climbing-stairs"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=62 "Built target 746-min-cost-climbing-stairs"
 .PHONY : CMakeFiles/746-min-cost-climbing-stairs.dir/all
 
 # Build rule for subdir invocation for target.
@@ -3254,7 +3270,7 @@ CMakeFiles/746-min-cost-climbing-stairs.dir/clean:
 CMakeFiles/377-combination-sum-iv.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\377-combination-sum-iv.dir\build.make CMakeFiles/377-combination-sum-iv.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\377-combination-sum-iv.dir\build.make CMakeFiles/377-combination-sum-iv.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=47 "Built target 377-combination-sum-iv"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=44 "Built target 377-combination-sum-iv"
 .PHONY : CMakeFiles/377-combination-sum-iv.dir/all
 
 # Build rule for subdir invocation for target.
@@ -3280,7 +3296,7 @@ CMakeFiles/377-combination-sum-iv.dir/clean:
 CMakeFiles/2466-count-ways-to-build-good-strings.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\2466-count-ways-to-build-good-strings.dir\build.make CMakeFiles/2466-count-ways-to-build-good-strings.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\2466-count-ways-to-build-good-strings.dir\build.make CMakeFiles/2466-count-ways-to-build-good-strings.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=38 "Built target 2466-count-ways-to-build-good-strings"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=36 "Built target 2466-count-ways-to-build-good-strings"
 .PHONY : CMakeFiles/2466-count-ways-to-build-good-strings.dir/all
 
 # Build rule for subdir invocation for target.
@@ -3306,7 +3322,7 @@ CMakeFiles/2466-count-ways-to-build-good-strings.dir/clean:
 CMakeFiles/clear-digits.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\clear-digits.dir\build.make CMakeFiles/clear-digits.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\clear-digits.dir\build.make CMakeFiles/clear-digits.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=80 "Built target clear-digits"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=75 "Built target clear-digits"
 .PHONY : CMakeFiles/clear-digits.dir/all
 
 # Build rule for subdir invocation for target.
@@ -3332,7 +3348,7 @@ CMakeFiles/clear-digits.dir/clean:
 CMakeFiles/find-the-first-player-to-win-k-games-in-a-row.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\find-the-first-player-to-win-k-games-in-a-row.dir\build.make CMakeFiles/find-the-first-player-to-win-k-games-in-a-row.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\find-the-first-player-to-win-k-games-in-a-row.dir\build.make CMakeFiles/find-the-first-player-to-win-k-games-in-a-row.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=84 "Built target find-the-first-player-to-win-k-games-in-a-row"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=78 "Built target find-the-first-player-to-win-k-games-in-a-row"
 .PHONY : CMakeFiles/find-the-first-player-to-win-k-games-in-a-row.dir/all
 
 # Build rule for subdir invocation for target.
@@ -3358,7 +3374,7 @@ CMakeFiles/find-the-first-player-to-win-k-games-in-a-row.dir/clean:
 CMakeFiles/2266-count-number-of-texts.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\2266-count-number-of-texts.dir\build.make CMakeFiles/2266-count-number-of-texts.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\2266-count-number-of-texts.dir\build.make CMakeFiles/2266-count-number-of-texts.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=35 "Built target 2266-count-number-of-texts"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=33 "Built target 2266-count-number-of-texts"
 .PHONY : CMakeFiles/2266-count-number-of-texts.dir/all
 
 # Build rule for subdir invocation for target.
@@ -3384,7 +3400,7 @@ CMakeFiles/2266-count-number-of-texts.dir/clean:
 CMakeFiles/quick_sort.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\quick_sort.dir\build.make CMakeFiles/quick_sort.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\quick_sort.dir\build.make CMakeFiles/quick_sort.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=97 "Built target quick_sort"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=96 "Built target quick_sort"
 .PHONY : CMakeFiles/quick_sort.dir/all
 
 # Build rule for subdir invocation for target.
@@ -3402,6 +3418,214 @@ quick_sort: CMakeFiles/quick_sort.dir/rule
 CMakeFiles/quick_sort.dir/clean:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\quick_sort.dir\build.make CMakeFiles/quick_sort.dir/clean
 .PHONY : CMakeFiles/quick_sort.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/q1.dir
+
+# All Build rule for target.
+CMakeFiles/q1.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\q1.dir\build.make CMakeFiles/q1.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\q1.dir\build.make CMakeFiles/q1.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=95 "Built target q1"
+.PHONY : CMakeFiles/q1.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/q1.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/q1.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
+.PHONY : CMakeFiles/q1.dir/rule
+
+# Convenience name for target.
+q1: CMakeFiles/q1.dir/rule
+.PHONY : q1
+
+# clean rule for target.
+CMakeFiles/q1.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\q1.dir\build.make CMakeFiles/q1.dir/clean
+.PHONY : CMakeFiles/q1.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/s_01.dir
+
+# All Build rule for target.
+CMakeFiles/s_01.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\s_01.dir\build.make CMakeFiles/s_01.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\s_01.dir\build.make CMakeFiles/s_01.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num= "Built target s_01"
+.PHONY : CMakeFiles/s_01.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/s_01.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/s_01.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
+.PHONY : CMakeFiles/s_01.dir/rule
+
+# Convenience name for target.
+s_01: CMakeFiles/s_01.dir/rule
+.PHONY : s_01
+
+# clean rule for target.
+CMakeFiles/s_01.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\s_01.dir\build.make CMakeFiles/s_01.dir/clean
+.PHONY : CMakeFiles/s_01.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/tx_001.dir
+
+# All Build rule for target.
+CMakeFiles/tx_001.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\tx_001.dir\build.make CMakeFiles/tx_001.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\tx_001.dir\build.make CMakeFiles/tx_001.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=100 "Built target tx_001"
+.PHONY : CMakeFiles/tx_001.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/tx_001.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/tx_001.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
+.PHONY : CMakeFiles/tx_001.dir/rule
+
+# Convenience name for target.
+tx_001: CMakeFiles/tx_001.dir/rule
+.PHONY : tx_001
+
+# clean rule for target.
+CMakeFiles/tx_001.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\tx_001.dir\build.make CMakeFiles/tx_001.dir/clean
+.PHONY : CMakeFiles/tx_001.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/ouye_1.dir
+
+# All Build rule for target.
+CMakeFiles/ouye_1.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ouye_1.dir\build.make CMakeFiles/ouye_1.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ouye_1.dir\build.make CMakeFiles/ouye_1.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=90 "Built target ouye_1"
+.PHONY : CMakeFiles/ouye_1.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/ouye_1.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/ouye_1.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
+.PHONY : CMakeFiles/ouye_1.dir/rule
+
+# Convenience name for target.
+ouye_1: CMakeFiles/ouye_1.dir/rule
+.PHONY : ouye_1
+
+# clean rule for target.
+CMakeFiles/ouye_1.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ouye_1.dir\build.make CMakeFiles/ouye_1.dir/clean
+.PHONY : CMakeFiles/ouye_1.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/pdd_4.dir
+
+# All Build rule for target.
+CMakeFiles/pdd_4.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pdd_4.dir\build.make CMakeFiles/pdd_4.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pdd_4.dir\build.make CMakeFiles/pdd_4.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=93 "Built target pdd_4"
+.PHONY : CMakeFiles/pdd_4.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/pdd_4.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/pdd_4.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
+.PHONY : CMakeFiles/pdd_4.dir/rule
+
+# Convenience name for target.
+pdd_4: CMakeFiles/pdd_4.dir/rule
+.PHONY : pdd_4
+
+# clean rule for target.
+CMakeFiles/pdd_4.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pdd_4.dir\build.make CMakeFiles/pdd_4.dir/clean
+.PHONY : CMakeFiles/pdd_4.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/pdd_1.dir
+
+# All Build rule for target.
+CMakeFiles/pdd_1.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pdd_1.dir\build.make CMakeFiles/pdd_1.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pdd_1.dir\build.make CMakeFiles/pdd_1.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=91 "Built target pdd_1"
+.PHONY : CMakeFiles/pdd_1.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/pdd_1.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/pdd_1.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
+.PHONY : CMakeFiles/pdd_1.dir/rule
+
+# Convenience name for target.
+pdd_1: CMakeFiles/pdd_1.dir/rule
+.PHONY : pdd_1
+
+# clean rule for target.
+CMakeFiles/pdd_1.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pdd_1.dir\build.make CMakeFiles/pdd_1.dir/clean
+.PHONY : CMakeFiles/pdd_1.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/pdd_2.dir
+
+# All Build rule for target.
+CMakeFiles/pdd_2.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pdd_2.dir\build.make CMakeFiles/pdd_2.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pdd_2.dir\build.make CMakeFiles/pdd_2.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num=92 "Built target pdd_2"
+.PHONY : CMakeFiles/pdd_2.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/pdd_2.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/pdd_2.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
+.PHONY : CMakeFiles/pdd_2.dir/rule
+
+# Convenience name for target.
+pdd_2: CMakeFiles/pdd_2.dir/rule
+.PHONY : pdd_2
+
+# clean rule for target.
+CMakeFiles/pdd_2.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pdd_2.dir\build.make CMakeFiles/pdd_2.dir/clean
+.PHONY : CMakeFiles/pdd_2.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/pdd_3.dir
+
+# All Build rule for target.
+CMakeFiles/pdd_3.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pdd_3.dir\build.make CMakeFiles/pdd_3.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pdd_3.dir\build.make CMakeFiles/pdd_3.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" --progress-num= "Built target pdd_3"
+.PHONY : CMakeFiles/pdd_3.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/pdd_3.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/pdd_3.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug\CMakeFiles" 0
+.PHONY : CMakeFiles/pdd_3.dir/rule
+
+# Convenience name for target.
+pdd_3: CMakeFiles/pdd_3.dir/rule
+.PHONY : pdd_3
+
+# clean rule for target.
+CMakeFiles/pdd_3.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pdd_3.dir\build.make CMakeFiles/pdd_3.dir/clean
+.PHONY : CMakeFiles/pdd_3.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.
