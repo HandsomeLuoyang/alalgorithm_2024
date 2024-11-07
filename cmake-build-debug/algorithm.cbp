@@ -5605,6 +5605,974 @@
 					<DistClean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="pdd_test">
+				<Option output="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/pdd_test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 pdd_test"/>
+					<CompileFile command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pdd_test/fast">
+				<Option output="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/pdd_test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 pdd_test/fast"/>
+					<CompileFile command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zhongxing_1">
+				<Option output="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/zhongxing_1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 zhongxing_1"/>
+					<CompileFile command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zhongxing_1/fast">
+				<Option output="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/zhongxing_1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 zhongxing_1/fast"/>
+					<CompileFile command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zhongxing_2">
+				<Option output="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/zhongxing_2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 zhongxing_2"/>
+					<CompileFile command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zhongxing_2/fast">
+				<Option output="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/zhongxing_2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 zhongxing_2/fast"/>
+					<CompileFile command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zhongxing_3">
+				<Option output="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/zhongxing_3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 zhongxing_3"/>
+					<CompileFile command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zhongxing_3/fast">
+				<Option output="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/zhongxing_3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 zhongxing_3/fast"/>
+					<CompileFile command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="x_1">
+				<Option output="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/x_1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 x_1"/>
+					<CompileFile command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="x_1/fast">
+				<Option output="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/x_1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 x_1/fast"/>
+					<CompileFile command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="x_3">
+				<Option output="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/x_3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 x_3"/>
+					<CompileFile command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="x_3/fast">
+				<Option output="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/x_3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 x_3/fast"/>
+					<CompileFile command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="x_4">
+				<Option output="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/x_4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 x_4"/>
+					<CompileFile command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="x_4/fast">
+				<Option output="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/x_4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 x_4/fast"/>
+					<CompileFile command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tx_wxpay">
+				<Option output="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/tx_wxpay.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 tx_wxpay"/>
+					<CompileFile command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tx_wxpay/fast">
+				<Option output="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/tx_wxpay.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 tx_wxpay/fast"/>
+					<CompileFile command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="jd_1">
+				<Option output="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/jd_1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 jd_1"/>
+					<CompileFile command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="jd_1/fast">
+				<Option output="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/jd_1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 jd_1/fast"/>
+					<CompileFile command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="jd_2">
+				<Option output="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/jd_2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 jd_2"/>
+					<CompileFile command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="jd_2/fast">
+				<Option output="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/jd_2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 jd_2/fast"/>
+					<CompileFile command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="jd_3">
+				<Option output="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/jd_3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 jd_3"/>
+					<CompileFile command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="jd_3/fast">
+				<Option output="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/jd_3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 jd_3/fast"/>
+					<CompileFile command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="jd_1_again">
+				<Option output="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/jd_1_again.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 jd_1_again"/>
+					<CompileFile command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="jd_1_again/fast">
+				<Option output="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/jd_1_again.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 jd_1_again/fast"/>
+					<CompileFile command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="xiaomi_1">
+				<Option output="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/xiaomi_1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 xiaomi_1"/>
+					<CompileFile command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="xiaomi_1/fast">
+				<Option output="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/xiaomi_1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 xiaomi_1/fast"/>
+					<CompileFile command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="xiaomi_2">
+				<Option output="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/xiaomi_2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 xiaomi_2"/>
+					<CompileFile command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="xiaomi_2/fast">
+				<Option output="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/xiaomi_2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 xiaomi_2/fast"/>
+					<CompileFile command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mq_1">
+				<Option output="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/mq_1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 mq_1"/>
+					<CompileFile command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mq_1/fast">
+				<Option output="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/mq_1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 mq_1/fast"/>
+					<CompileFile command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mq_2">
+				<Option output="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/mq_2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 mq_2"/>
+					<CompileFile command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mq_2/fast">
+				<Option output="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/mq_2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 mq_2/fast"/>
+					<CompileFile command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mq_3">
+				<Option output="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/mq_3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 mq_3"/>
+					<CompileFile command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mq_3/fast">
+				<Option output="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/mq_3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 mq_3/fast"/>
+					<CompileFile command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="h1m_1">
+				<Option output="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/h1m_1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 h1m_1"/>
+					<CompileFile command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="h1m_1/fast">
+				<Option output="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/h1m_1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 h1m_1/fast"/>
+					<CompileFile command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="baidu_q_1">
+				<Option output="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/baidu_q_1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 baidu_q_1"/>
+					<CompileFile command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="baidu_q_1/fast">
+				<Option output="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/baidu_q_1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 baidu_q_1/fast"/>
+					<CompileFile command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="baidu_q_2">
+				<Option output="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/baidu_q_2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 baidu_q_2"/>
+					<CompileFile command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="baidu_q_2/fast">
+				<Option output="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/baidu_q_2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 baidu_q_2/fast"/>
+					<CompileFile command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="baidu_q_3">
+				<Option output="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/baidu_q_3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 baidu_q_3"/>
+					<CompileFile command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="baidu_q_3/fast">
+				<Option output="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/baidu_q_3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 baidu_q_3/fast"/>
+					<CompileFile command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="xm">
+				<Option output="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/xm.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 xm"/>
+					<CompileFile command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="xm/fast">
+				<Option output="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/xm.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="D:/JetBrainsClints/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 xm/fast"/>
+					<CompileFile command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrainsClints/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="edit_cache">
 				<Option working_dir="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug"/>
 				<Option type="4"/>
@@ -5632,6 +6600,18 @@
 		<Unit filename="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/acwing/dp_study/01_Backpack_issue_dp.cpp">
 			<Option target="01_Backpack_issue_dp"/>
 		</Unit>
+		<Unit filename="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/baidu_q/baidu_q_1.cpp">
+			<Option target="baidu_q_1"/>
+		</Unit>
+		<Unit filename="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/baidu_q/baidu_q_2.cpp">
+			<Option target="baidu_q_2"/>
+		</Unit>
+		<Unit filename="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/baidu_q/baidu_q_3.cpp">
+			<Option target="baidu_q_3"/>
+		</Unit>
+		<Unit filename="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/baidu_q/xm.cpp">
+			<Option target="xm"/>
+		</Unit>
 		<Unit filename="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/huawei/huawei_1.cpp">
 			<Option target="huawei_1"/>
 		</Unit>
@@ -5643,6 +6623,21 @@
 		</Unit>
 		<Unit filename="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/huawei/huawei_3.cpp">
 			<Option target="huawei_3"/>
+		</Unit>
+		<Unit filename="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/huawei_1m/h1m_1.cpp">
+			<Option target="h1m_1"/>
+		</Unit>
+		<Unit filename="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/jd/jd_1.cpp">
+			<Option target="jd_1"/>
+		</Unit>
+		<Unit filename="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/jd/jd_1_again.cpp">
+			<Option target="jd_1_again"/>
+		</Unit>
+		<Unit filename="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/jd/jd_2.cpp">
+			<Option target="jd_2"/>
+		</Unit>
+		<Unit filename="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/jd/jd_3.cpp">
+			<Option target="jd_3"/>
 		</Unit>
 		<Unit filename="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/leetcode/100-same-tree.cpp">
 			<Option target="100-same-tree"/>
@@ -5911,6 +6906,15 @@
 		<Unit filename="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/meituan2/q1.cpp">
 			<Option target="q1"/>
 		</Unit>
+		<Unit filename="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/meituan_qiuzhao/mq_1.cpp">
+			<Option target="mq_1"/>
+		</Unit>
+		<Unit filename="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/meituan_qiuzhao/mq_2.cpp">
+			<Option target="mq_2"/>
+		</Unit>
+		<Unit filename="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/meituan_qiuzhao/mq_3.cpp">
+			<Option target="mq_3"/>
+		</Unit>
 		<Unit filename="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/ouye/ouye_1.cpp">
 			<Option target="ouye_1"/>
 		</Unit>
@@ -5931,6 +6935,9 @@
 		</Unit>
 		<Unit filename="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/pdd_qiuzhao/pdd_4.cpp">
 			<Option target="pdd_4"/>
+		</Unit>
+		<Unit filename="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/pdd_qiuzhao/pdd_test.cpp">
+			<Option target="pdd_test"/>
 		</Unit>
 		<Unit filename="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/shenxinfu/s_01.cpp">
 			<Option target="s_01"/>
@@ -5995,6 +7002,9 @@
 		<Unit filename="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/tx/tx_001.cpp">
 			<Option target="tx_001"/>
 		</Unit>
+		<Unit filename="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/tx_wxpay/tx_wxpay.cpp">
+			<Option target="tx_wxpay"/>
+		</Unit>
 		<Unit filename="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/wy/1.cpp">
 			<Option target="1"/>
 		</Unit>
@@ -6006,6 +7016,30 @@
 		</Unit>
 		<Unit filename="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/wy/4.cpp">
 			<Option target="4"/>
+		</Unit>
+		<Unit filename="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/xiaomi/xiaomi_1.cpp">
+			<Option target="xiaomi_1"/>
+		</Unit>
+		<Unit filename="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/xiaomi/xiaomi_2.cpp">
+			<Option target="xiaomi_2"/>
+		</Unit>
+		<Unit filename="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/xiecheng/x_2.cpp">
+			<Option target="x_1"/>
+		</Unit>
+		<Unit filename="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/xiecheng/x_3.cpp">
+			<Option target="x_3"/>
+		</Unit>
+		<Unit filename="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/xiecheng/x_4.cpp">
+			<Option target="x_4"/>
+		</Unit>
+		<Unit filename="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/zhongxing/zhongxing_1.cpp">
+			<Option target="zhongxing_1"/>
+		</Unit>
+		<Unit filename="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/zhongxing/zhongxing_2.cpp">
+			<Option target="zhongxing_2"/>
+		</Unit>
+		<Unit filename="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/zhongxing/zhongxing_3.cpp">
+			<Option target="zhongxing_3"/>
 		</Unit>
 		<Unit filename="D:/JetBrainsClints/CLion Nova/alalgorithm_2024/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>

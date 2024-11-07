@@ -4,32 +4,33 @@
 #include <bits/stdc++.h>
 
 using namespace std;
-using namespace std;
+
 class Solution {
 public:
-    int trap(vector<int>& height) {
-        stack<pair<int, int> > myStack;
+    int trap(vector<int> &height) {
         int ans = 0;
-        for(int i =0;i<height.size();i++){
-            while(!myStack.empty() && myStack.top().second<height[i]){
-                pair<int, int> temp = myStack.top();
-                cout<<temp.second<<" ";
-                myStack.pop();
-                if(!myStack.empty()){
-                    int area = (i-myStack.top().first-1) * (min(myStack.top().second, height[i]) - temp.second);
-                    cout<<area<<endl;
-                    ans += area;
+        stack<int> stk;
+        for(int i = 0;i < height.size();i++){
+            while(!stk.empty() && height[i] > height[stk.top()]){
+                int top = stk.top();
+                stk.pop();
+                if(stk.empty()){
+                    break;
                 }
+                int left = stk.top();
+                int curWidth = i - left - 1;
+                int curHeight = min(height[i], height[left]) - height[top];
+                ans += curWidth * curHeight;
             }
-            myStack.emplace(i, height[i]);
-
+            stk.push(i);
         }
         return ans;
     }
 };
+
 int main() {
-    vector<int> height = {4,2,0,3,2,5};
+    vector<int> height = {4, 2, 0, 3, 2, 5};
     Solution s;
-    s.trap(height);
+    cout<<s.trap(height);
     return 0;
 }

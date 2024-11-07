@@ -26,7 +26,8 @@ int check(){
         }
         for(int j = 1;j<=cnt;j++){
             for(int k = j+1;k<=cnt;k++){
-                if(b[j]+b[k] == a[i] || b[j]+b[k]==-a[i]) return 1;
+                if(b[j]+b[k] == a[i] || b[j]+b[k]==-a[i]
+                || -b[j]+b[k]==a[i] || b[j]- b[k] == a[i]) return 1;
             }
         }
     }
