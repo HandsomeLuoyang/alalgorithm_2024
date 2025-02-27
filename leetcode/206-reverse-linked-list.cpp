@@ -16,22 +16,25 @@ class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
         if (!head || !head->next) return head;
-        ListNode* pre = nullptr;
+        // 前置节点，统一操作
+        ListNode *preHead = new ListNode(0, head);
         ListNode* cur = head;
-        ListNode* nxt;
-        while(cur) {
-            cout<<cur->val<<" ";
-            nxt = cur->next;
+        ListNode* pre = nullptr;
+        ListNode* nxt = head->next;
+        while (cur) {
             cur->next = pre;
             pre = cur;
             cur = nxt;
+            if (!nxt) return pre;
+            nxt = nxt->next;
         }
         return pre;
+        // return pre;
     }
 };
 
 int main(){
-    
-    
+
+
     return 0;
 }
