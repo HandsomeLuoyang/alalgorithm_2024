@@ -2078,6 +2078,71 @@ xm/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\114-longest-common-subsequence.dir\build.make CMakeFiles/114-longest-common-subsequence.dir/build
 .PHONY : 114-longest-common-subsequence/fast
 
+#=============================================================================
+# Target rules for targets named tx03-1
+
+# Build rule for target.
+tx03-1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 tx03-1
+.PHONY : tx03-1
+
+# fast build rule for target.
+tx03-1/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\tx03-1.dir\build.make CMakeFiles/tx03-1.dir/build
+.PHONY : tx03-1/fast
+
+#=============================================================================
+# Target rules for targets named tx03-2
+
+# Build rule for target.
+tx03-2: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 tx03-2
+.PHONY : tx03-2
+
+# fast build rule for target.
+tx03-2/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\tx03-2.dir\build.make CMakeFiles/tx03-2.dir/build
+.PHONY : tx03-2/fast
+
+#=============================================================================
+# Target rules for targets named pdd1
+
+# Build rule for target.
+pdd1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 pdd1
+.PHONY : pdd1
+
+# fast build rule for target.
+pdd1/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pdd1.dir\build.make CMakeFiles/pdd1.dir/build
+.PHONY : pdd1/fast
+
+#=============================================================================
+# Target rules for targets named pdd2
+
+# Build rule for target.
+pdd2: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 pdd2
+.PHONY : pdd2
+
+# fast build rule for target.
+pdd2/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pdd2.dir\build.make CMakeFiles/pdd2.dir/build
+.PHONY : pdd2/fast
+
+#=============================================================================
+# Target rules for targets named pdd3
+
+# Build rule for target.
+pdd3: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 pdd3
+.PHONY : pdd3
+
+# fast build rule for target.
+pdd3/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pdd3.dir\build.make CMakeFiles/pdd3.dir/build
+.PHONY : pdd3/fast
+
 acwing/dp_study/01_Backpack_issue.obj: acwing/dp_study/01_Backpack_issue.cpp.obj
 .PHONY : acwing/dp_study/01_Backpack_issue.obj
 
@@ -4718,6 +4783,78 @@ ouye/ouye_1.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ouye_1.dir\build.make CMakeFiles/ouye_1.dir/ouye/ouye_1.cpp.s
 .PHONY : ouye/ouye_1.cpp.s
 
+pdd-spring/pdd1.obj: pdd-spring/pdd1.cpp.obj
+.PHONY : pdd-spring/pdd1.obj
+
+# target to build an object file
+pdd-spring/pdd1.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pdd1.dir\build.make CMakeFiles/pdd1.dir/pdd-spring/pdd1.cpp.obj
+.PHONY : pdd-spring/pdd1.cpp.obj
+
+pdd-spring/pdd1.i: pdd-spring/pdd1.cpp.i
+.PHONY : pdd-spring/pdd1.i
+
+# target to preprocess a source file
+pdd-spring/pdd1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pdd1.dir\build.make CMakeFiles/pdd1.dir/pdd-spring/pdd1.cpp.i
+.PHONY : pdd-spring/pdd1.cpp.i
+
+pdd-spring/pdd1.s: pdd-spring/pdd1.cpp.s
+.PHONY : pdd-spring/pdd1.s
+
+# target to generate assembly for a file
+pdd-spring/pdd1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pdd1.dir\build.make CMakeFiles/pdd1.dir/pdd-spring/pdd1.cpp.s
+.PHONY : pdd-spring/pdd1.cpp.s
+
+pdd-spring/pdd2.obj: pdd-spring/pdd2.cpp.obj
+.PHONY : pdd-spring/pdd2.obj
+
+# target to build an object file
+pdd-spring/pdd2.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pdd2.dir\build.make CMakeFiles/pdd2.dir/pdd-spring/pdd2.cpp.obj
+.PHONY : pdd-spring/pdd2.cpp.obj
+
+pdd-spring/pdd2.i: pdd-spring/pdd2.cpp.i
+.PHONY : pdd-spring/pdd2.i
+
+# target to preprocess a source file
+pdd-spring/pdd2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pdd2.dir\build.make CMakeFiles/pdd2.dir/pdd-spring/pdd2.cpp.i
+.PHONY : pdd-spring/pdd2.cpp.i
+
+pdd-spring/pdd2.s: pdd-spring/pdd2.cpp.s
+.PHONY : pdd-spring/pdd2.s
+
+# target to generate assembly for a file
+pdd-spring/pdd2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pdd2.dir\build.make CMakeFiles/pdd2.dir/pdd-spring/pdd2.cpp.s
+.PHONY : pdd-spring/pdd2.cpp.s
+
+pdd-spring/pdd3.obj: pdd-spring/pdd3.cpp.obj
+.PHONY : pdd-spring/pdd3.obj
+
+# target to build an object file
+pdd-spring/pdd3.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pdd3.dir\build.make CMakeFiles/pdd3.dir/pdd-spring/pdd3.cpp.obj
+.PHONY : pdd-spring/pdd3.cpp.obj
+
+pdd-spring/pdd3.i: pdd-spring/pdd3.cpp.i
+.PHONY : pdd-spring/pdd3.i
+
+# target to preprocess a source file
+pdd-spring/pdd3.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pdd3.dir\build.make CMakeFiles/pdd3.dir/pdd-spring/pdd3.cpp.i
+.PHONY : pdd-spring/pdd3.cpp.i
+
+pdd-spring/pdd3.s: pdd-spring/pdd3.cpp.s
+.PHONY : pdd-spring/pdd3.s
+
+# target to generate assembly for a file
+pdd-spring/pdd3.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pdd3.dir\build.make CMakeFiles/pdd3.dir/pdd-spring/pdd3.cpp.s
+.PHONY : pdd-spring/pdd3.cpp.s
+
 pdd/01.obj: pdd/01.cpp.obj
 .PHONY : pdd/01.obj
 
@@ -5390,6 +5527,54 @@ tx/tx_001.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\tx_001.dir\build.make CMakeFiles/tx_001.dir/tx/tx_001.cpp.s
 .PHONY : tx/tx_001.cpp.s
 
+tx03/tx03-1.obj: tx03/tx03-1.cpp.obj
+.PHONY : tx03/tx03-1.obj
+
+# target to build an object file
+tx03/tx03-1.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\tx03-1.dir\build.make CMakeFiles/tx03-1.dir/tx03/tx03-1.cpp.obj
+.PHONY : tx03/tx03-1.cpp.obj
+
+tx03/tx03-1.i: tx03/tx03-1.cpp.i
+.PHONY : tx03/tx03-1.i
+
+# target to preprocess a source file
+tx03/tx03-1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\tx03-1.dir\build.make CMakeFiles/tx03-1.dir/tx03/tx03-1.cpp.i
+.PHONY : tx03/tx03-1.cpp.i
+
+tx03/tx03-1.s: tx03/tx03-1.cpp.s
+.PHONY : tx03/tx03-1.s
+
+# target to generate assembly for a file
+tx03/tx03-1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\tx03-1.dir\build.make CMakeFiles/tx03-1.dir/tx03/tx03-1.cpp.s
+.PHONY : tx03/tx03-1.cpp.s
+
+tx03/tx03-2.obj: tx03/tx03-2.cpp.obj
+.PHONY : tx03/tx03-2.obj
+
+# target to build an object file
+tx03/tx03-2.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\tx03-2.dir\build.make CMakeFiles/tx03-2.dir/tx03/tx03-2.cpp.obj
+.PHONY : tx03/tx03-2.cpp.obj
+
+tx03/tx03-2.i: tx03/tx03-2.cpp.i
+.PHONY : tx03/tx03-2.i
+
+# target to preprocess a source file
+tx03/tx03-2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\tx03-2.dir\build.make CMakeFiles/tx03-2.dir/tx03/tx03-2.cpp.i
+.PHONY : tx03/tx03-2.cpp.i
+
+tx03/tx03-2.s: tx03/tx03-2.cpp.s
+.PHONY : tx03/tx03-2.s
+
+# target to generate assembly for a file
+tx03/tx03-2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\tx03-2.dir\build.make CMakeFiles/tx03-2.dir/tx03/tx03-2.cpp.s
+.PHONY : tx03/tx03-2.cpp.s
+
 tx_wxpay/tx_wxpay.obj: tx_wxpay/tx_wxpay.cpp.obj
 .PHONY : tx_wxpay/tx_wxpay.obj
 
@@ -5838,6 +6023,9 @@ help:
 	@echo ... mq_2
 	@echo ... mq_3
 	@echo ... ouye_1
+	@echo ... pdd1
+	@echo ... pdd2
+	@echo ... pdd3
 	@echo ... pdd_1
 	@echo ... pdd_2
 	@echo ... pdd_3
@@ -5850,6 +6038,8 @@ help:
 	@echo ... test
 	@echo ... test1
 	@echo ... tx
+	@echo ... tx03-1
+	@echo ... tx03-2
 	@echo ... tx_001
 	@echo ... tx_wxpay
 	@echo ... x_1
@@ -6191,6 +6381,15 @@ help:
 	@echo ... ouye/ouye_1.obj
 	@echo ... ouye/ouye_1.i
 	@echo ... ouye/ouye_1.s
+	@echo ... pdd-spring/pdd1.obj
+	@echo ... pdd-spring/pdd1.i
+	@echo ... pdd-spring/pdd1.s
+	@echo ... pdd-spring/pdd2.obj
+	@echo ... pdd-spring/pdd2.i
+	@echo ... pdd-spring/pdd2.s
+	@echo ... pdd-spring/pdd3.obj
+	@echo ... pdd-spring/pdd3.i
+	@echo ... pdd-spring/pdd3.s
 	@echo ... pdd/01.obj
 	@echo ... pdd/01.i
 	@echo ... pdd/01.s
@@ -6275,6 +6474,12 @@ help:
 	@echo ... tx/tx_001.obj
 	@echo ... tx/tx_001.i
 	@echo ... tx/tx_001.s
+	@echo ... tx03/tx03-1.obj
+	@echo ... tx03/tx03-1.i
+	@echo ... tx03/tx03-1.s
+	@echo ... tx03/tx03-2.obj
+	@echo ... tx03/tx03-2.i
+	@echo ... tx03/tx03-2.s
 	@echo ... tx_wxpay/tx_wxpay.obj
 	@echo ... tx_wxpay/tx_wxpay.i
 	@echo ... tx_wxpay/tx_wxpay.s
