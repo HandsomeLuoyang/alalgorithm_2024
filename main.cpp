@@ -1,15 +1,17 @@
 #include <bits/stdc++.h>
 using namespace std;
-
-
-struct MyStruct
-{
-    double dda1;
-    char dda;
-    int type;
-};
+const int maxn = 10000;
 
 int main() {
-    unique_ptr<int*> *p = new int;
+    int n, a[maxn];
+    while (scanf("%d", &n) == 1) {
+        for (int i = 0; i < n; i++) {
+            scanf("%d", &a[i]);
+        }
+    }
+    sort(a, a + n);
+    for (int i = 0; i < n; i++) {
+        printf("%d ", a[i]);
+    }
     return 0;
 }

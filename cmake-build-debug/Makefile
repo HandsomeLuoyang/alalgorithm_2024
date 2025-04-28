@@ -2143,6 +2143,84 @@ pdd3/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pdd3.dir\build.make CMakeFiles/pdd3.dir/build
 .PHONY : pdd3/fast
 
+#=============================================================================
+# Target rules for targets named maintest
+
+# Build rule for target.
+maintest: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 maintest
+.PHONY : maintest
+
+# fast build rule for target.
+maintest/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\maintest.dir\build.make CMakeFiles/maintest.dir/build
+.PHONY : maintest/fast
+
+#=============================================================================
+# Target rules for targets named B2025
+
+# Build rule for target.
+B2025: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 B2025
+.PHONY : B2025
+
+# fast build rule for target.
+B2025/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\B2025.dir\build.make CMakeFiles/B2025.dir/build
+.PHONY : B2025/fast
+
+#=============================================================================
+# Target rules for targets named B2005
+
+# Build rule for target.
+B2005: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 B2005
+.PHONY : B2005
+
+# fast build rule for target.
+B2005/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\B2005.dir\build.make CMakeFiles/B2005.dir/build
+.PHONY : B2005/fast
+
+#=============================================================================
+# Target rules for targets named P5704
+
+# Build rule for target.
+P5704: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 P5704
+.PHONY : P5704
+
+# fast build rule for target.
+P5704/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\P5704.dir\build.make CMakeFiles/P5704.dir/build
+.PHONY : P5704/fast
+
+#=============================================================================
+# Target rules for targets named P5705
+
+# Build rule for target.
+P5705: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 P5705
+.PHONY : P5705
+
+# fast build rule for target.
+P5705/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\P5705.dir\build.make CMakeFiles/P5705.dir/build
+.PHONY : P5705/fast
+
+#=============================================================================
+# Target rules for targets named P5707
+
+# Build rule for target.
+P5707: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 P5707
+.PHONY : P5707
+
+# fast build rule for target.
+P5707/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\P5707.dir\build.make CMakeFiles/P5707.dir/build
+.PHONY : P5707/fast
+
 acwing/dp_study/01_Backpack_issue.obj: acwing/dp_study/01_Backpack_issue.cpp.obj
 .PHONY : acwing/dp_study/01_Backpack_issue.obj
 
@@ -4519,6 +4597,126 @@ leetcode/test.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\test.dir\build.make CMakeFiles/test.dir/leetcode/test.cpp.s
 .PHONY : leetcode/test.cpp.s
 
+luogu/B2005.obj: luogu/B2005.cpp.obj
+.PHONY : luogu/B2005.obj
+
+# target to build an object file
+luogu/B2005.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\B2005.dir\build.make CMakeFiles/B2005.dir/luogu/B2005.cpp.obj
+.PHONY : luogu/B2005.cpp.obj
+
+luogu/B2005.i: luogu/B2005.cpp.i
+.PHONY : luogu/B2005.i
+
+# target to preprocess a source file
+luogu/B2005.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\B2005.dir\build.make CMakeFiles/B2005.dir/luogu/B2005.cpp.i
+.PHONY : luogu/B2005.cpp.i
+
+luogu/B2005.s: luogu/B2005.cpp.s
+.PHONY : luogu/B2005.s
+
+# target to generate assembly for a file
+luogu/B2005.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\B2005.dir\build.make CMakeFiles/B2005.dir/luogu/B2005.cpp.s
+.PHONY : luogu/B2005.cpp.s
+
+luogu/B2025.obj: luogu/B2025.cpp.obj
+.PHONY : luogu/B2025.obj
+
+# target to build an object file
+luogu/B2025.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\B2025.dir\build.make CMakeFiles/B2025.dir/luogu/B2025.cpp.obj
+.PHONY : luogu/B2025.cpp.obj
+
+luogu/B2025.i: luogu/B2025.cpp.i
+.PHONY : luogu/B2025.i
+
+# target to preprocess a source file
+luogu/B2025.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\B2025.dir\build.make CMakeFiles/B2025.dir/luogu/B2025.cpp.i
+.PHONY : luogu/B2025.cpp.i
+
+luogu/B2025.s: luogu/B2025.cpp.s
+.PHONY : luogu/B2025.s
+
+# target to generate assembly for a file
+luogu/B2025.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\B2025.dir\build.make CMakeFiles/B2025.dir/luogu/B2025.cpp.s
+.PHONY : luogu/B2025.cpp.s
+
+luogu/P5704.obj: luogu/P5704.cpp.obj
+.PHONY : luogu/P5704.obj
+
+# target to build an object file
+luogu/P5704.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\P5704.dir\build.make CMakeFiles/P5704.dir/luogu/P5704.cpp.obj
+.PHONY : luogu/P5704.cpp.obj
+
+luogu/P5704.i: luogu/P5704.cpp.i
+.PHONY : luogu/P5704.i
+
+# target to preprocess a source file
+luogu/P5704.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\P5704.dir\build.make CMakeFiles/P5704.dir/luogu/P5704.cpp.i
+.PHONY : luogu/P5704.cpp.i
+
+luogu/P5704.s: luogu/P5704.cpp.s
+.PHONY : luogu/P5704.s
+
+# target to generate assembly for a file
+luogu/P5704.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\P5704.dir\build.make CMakeFiles/P5704.dir/luogu/P5704.cpp.s
+.PHONY : luogu/P5704.cpp.s
+
+luogu/P5705.obj: luogu/P5705.cpp.obj
+.PHONY : luogu/P5705.obj
+
+# target to build an object file
+luogu/P5705.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\P5705.dir\build.make CMakeFiles/P5705.dir/luogu/P5705.cpp.obj
+.PHONY : luogu/P5705.cpp.obj
+
+luogu/P5705.i: luogu/P5705.cpp.i
+.PHONY : luogu/P5705.i
+
+# target to preprocess a source file
+luogu/P5705.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\P5705.dir\build.make CMakeFiles/P5705.dir/luogu/P5705.cpp.i
+.PHONY : luogu/P5705.cpp.i
+
+luogu/P5705.s: luogu/P5705.cpp.s
+.PHONY : luogu/P5705.s
+
+# target to generate assembly for a file
+luogu/P5705.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\P5705.dir\build.make CMakeFiles/P5705.dir/luogu/P5705.cpp.s
+.PHONY : luogu/P5705.cpp.s
+
+luogu/P5707.obj: luogu/P5707.cpp.obj
+.PHONY : luogu/P5707.obj
+
+# target to build an object file
+luogu/P5707.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\P5707.dir\build.make CMakeFiles/P5707.dir/luogu/P5707.cpp.obj
+.PHONY : luogu/P5707.cpp.obj
+
+luogu/P5707.i: luogu/P5707.cpp.i
+.PHONY : luogu/P5707.i
+
+# target to preprocess a source file
+luogu/P5707.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\P5707.dir\build.make CMakeFiles/P5707.dir/luogu/P5707.cpp.i
+.PHONY : luogu/P5707.cpp.i
+
+luogu/P5707.s: luogu/P5707.cpp.s
+.PHONY : luogu/P5707.s
+
+# target to generate assembly for a file
+luogu/P5707.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\P5707.dir\build.make CMakeFiles/P5707.dir/luogu/P5707.cpp.s
+.PHONY : luogu/P5707.cpp.s
+
 main.obj: main.cpp.obj
 .PHONY : main.obj
 
@@ -4542,6 +4740,30 @@ main.s: main.cpp.s
 main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\algorithm.dir\build.make CMakeFiles/algorithm.dir/main.cpp.s
 .PHONY : main.cpp.s
+
+maintest.obj: maintest.cpp.obj
+.PHONY : maintest.obj
+
+# target to build an object file
+maintest.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\maintest.dir\build.make CMakeFiles/maintest.dir/maintest.cpp.obj
+.PHONY : maintest.cpp.obj
+
+maintest.i: maintest.cpp.i
+.PHONY : maintest.i
+
+# target to preprocess a source file
+maintest.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\maintest.dir\build.make CMakeFiles/maintest.dir/maintest.cpp.i
+.PHONY : maintest.cpp.i
+
+maintest.s: maintest.cpp.s
+.PHONY : maintest.s
+
+# target to generate assembly for a file
+maintest.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\maintest.dir\build.make CMakeFiles/maintest.dir/maintest.cpp.s
+.PHONY : maintest.cpp.s
 
 meituan/meituan_1.obj: meituan/meituan_1.cpp.obj
 .PHONY : meituan/meituan_1.obj
@@ -5987,6 +6209,11 @@ help:
 	@echo ... 912-sort-an-array
 	@echo ... 92-reverse-linked-list-ii
 	@echo ... 98-validate-binary-search-tree
+	@echo ... B2005
+	@echo ... B2025
+	@echo ... P5704
+	@echo ... P5705
+	@echo ... P5707
 	@echo ... QuickSort
 	@echo ... a
 	@echo ... algorithm
@@ -6014,6 +6241,7 @@ help:
 	@echo ... jd_2
 	@echo ... jd_3
 	@echo ... light
+	@echo ... maintest
 	@echo ... meituan2
 	@echo ... meituan_1
 	@echo ... meituan_3
@@ -6348,9 +6576,27 @@ help:
 	@echo ... leetcode/test.obj
 	@echo ... leetcode/test.i
 	@echo ... leetcode/test.s
+	@echo ... luogu/B2005.obj
+	@echo ... luogu/B2005.i
+	@echo ... luogu/B2005.s
+	@echo ... luogu/B2025.obj
+	@echo ... luogu/B2025.i
+	@echo ... luogu/B2025.s
+	@echo ... luogu/P5704.obj
+	@echo ... luogu/P5704.i
+	@echo ... luogu/P5704.s
+	@echo ... luogu/P5705.obj
+	@echo ... luogu/P5705.i
+	@echo ... luogu/P5705.s
+	@echo ... luogu/P5707.obj
+	@echo ... luogu/P5707.i
+	@echo ... luogu/P5707.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
+	@echo ... maintest.obj
+	@echo ... maintest.i
+	@echo ... maintest.s
 	@echo ... meituan/meituan_1.obj
 	@echo ... meituan/meituan_1.i
 	@echo ... meituan/meituan_1.s

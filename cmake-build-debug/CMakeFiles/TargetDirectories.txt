@@ -154,5 +154,11 @@ D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/CMakeFiles/tx03
 D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/CMakeFiles/pdd1.dir
 D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/CMakeFiles/pdd2.dir
 D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/CMakeFiles/pdd3.dir
+D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/CMakeFiles/maintest.dir
+D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/CMakeFiles/B2025.dir
+D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/CMakeFiles/B2005.dir
+D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/CMakeFiles/P5704.dir
+D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/CMakeFiles/P5705.dir
+D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/CMakeFiles/P5707.dir
 D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/CMakeFiles/edit_cache.dir
 D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/CMakeFiles/rebuild_cache.dir
