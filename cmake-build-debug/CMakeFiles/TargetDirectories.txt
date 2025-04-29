@@ -160,5 +160,9 @@ D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/CMakeFiles/B200
 D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/CMakeFiles/P5704.dir
 D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/CMakeFiles/P5705.dir
 D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/CMakeFiles/P5707.dir
+D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/CMakeFiles/P1085.dir
+D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/CMakeFiles/P5717.dir
+D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/CMakeFiles/1137-n-th-tribonacci-number.dir
+D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/CMakeFiles/740-delete-and-earn.dir
 D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/CMakeFiles/edit_cache.dir
 D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug/CMakeFiles/rebuild_cache.dir

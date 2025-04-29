@@ -211,4 +211,8 @@ set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/P5704.dir/DependInfo.cmake"
   "CMakeFiles/P5705.dir/DependInfo.cmake"
   "CMakeFiles/P5707.dir/DependInfo.cmake"
+  "CMakeFiles/P1085.dir/DependInfo.cmake"
+  "CMakeFiles/P5717.dir/DependInfo.cmake"
+  "CMakeFiles/1137-n-th-tribonacci-number.dir/DependInfo.cmake"
+  "CMakeFiles/740-delete-and-earn.dir/DependInfo.cmake"
   )

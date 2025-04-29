@@ -10,7 +10,6 @@ int main(){
     int cost = 10;
     cost += s/x + (s%x!=0); // int 除法永远向下取整
     int cost_hour = cost/60;
-    int cost_minutes = cost%60;
     int all_time;
     int ans_hour;
     int ans_minutes;

@@ -1,4 +1,4 @@
 D:\JetBrainsClints\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "MinGW Makefiles" -DPython_EXECUTABLE=D:/MiniConda3/python.exe -DPython3_EXECUTABLE=D:/MiniConda3/python.exe -S "D:\JetBrainsClints\CLion Nova\alalgorithm_2024" -B "D:\JetBrainsClints\CLion Nova\alalgorithm_2024\cmake-build-debug"
 -- Configuring done (0.1s)
--- Generating done (2.6s)
+-- Generating done (3.0s)
 -- Build files have been written to: D:/JetBrainsClints/CLion Nova/alalgorithm_2024/cmake-build-debug

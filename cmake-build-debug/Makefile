@@ -2221,6 +2221,58 @@ P5707/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\P5707.dir\build.make CMakeFiles/P5707.dir/build
 .PHONY : P5707/fast
 
+#=============================================================================
+# Target rules for targets named P1085
+
+# Build rule for target.
+P1085: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 P1085
+.PHONY : P1085
+
+# fast build rule for target.
+P1085/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\P1085.dir\build.make CMakeFiles/P1085.dir/build
+.PHONY : P1085/fast
+
+#=============================================================================
+# Target rules for targets named P5717
+
+# Build rule for target.
+P5717: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 P5717
+.PHONY : P5717
+
+# fast build rule for target.
+P5717/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\P5717.dir\build.make CMakeFiles/P5717.dir/build
+.PHONY : P5717/fast
+
+#=============================================================================
+# Target rules for targets named 1137-n-th-tribonacci-number
+
+# Build rule for target.
+1137-n-th-tribonacci-number: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 1137-n-th-tribonacci-number
+.PHONY : 1137-n-th-tribonacci-number
+
+# fast build rule for target.
+1137-n-th-tribonacci-number/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1137-n-th-tribonacci-number.dir\build.make CMakeFiles/1137-n-th-tribonacci-number.dir/build
+.PHONY : 1137-n-th-tribonacci-number/fast
+
+#=============================================================================
+# Target rules for targets named 740-delete-and-earn
+
+# Build rule for target.
+740-delete-and-earn: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 740-delete-and-earn
+.PHONY : 740-delete-and-earn
+
+# fast build rule for target.
+740-delete-and-earn/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\740-delete-and-earn.dir\build.make CMakeFiles/740-delete-and-earn.dir/build
+.PHONY : 740-delete-and-earn/fast
+
 acwing/dp_study/01_Backpack_issue.obj: acwing/dp_study/01_Backpack_issue.cpp.obj
 .PHONY : acwing/dp_study/01_Backpack_issue.obj
 
@@ -2724,6 +2776,30 @@ leetcode/110-balanced-binary-tree.s: leetcode/110-balanced-binary-tree.cpp.s
 leetcode/110-balanced-binary-tree.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\110-balanced-binary-tree.dir\build.make CMakeFiles/110-balanced-binary-tree.dir/leetcode/110-balanced-binary-tree.cpp.s
 .PHONY : leetcode/110-balanced-binary-tree.cpp.s
+
+leetcode/1137-n-th-tribonacci-number.obj: leetcode/1137-n-th-tribonacci-number.cpp.obj
+.PHONY : leetcode/1137-n-th-tribonacci-number.obj
+
+# target to build an object file
+leetcode/1137-n-th-tribonacci-number.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1137-n-th-tribonacci-number.dir\build.make CMakeFiles/1137-n-th-tribonacci-number.dir/leetcode/1137-n-th-tribonacci-number.cpp.obj
+.PHONY : leetcode/1137-n-th-tribonacci-number.cpp.obj
+
+leetcode/1137-n-th-tribonacci-number.i: leetcode/1137-n-th-tribonacci-number.cpp.i
+.PHONY : leetcode/1137-n-th-tribonacci-number.i
+
+# target to preprocess a source file
+leetcode/1137-n-th-tribonacci-number.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1137-n-th-tribonacci-number.dir\build.make CMakeFiles/1137-n-th-tribonacci-number.dir/leetcode/1137-n-th-tribonacci-number.cpp.i
+.PHONY : leetcode/1137-n-th-tribonacci-number.cpp.i
+
+leetcode/1137-n-th-tribonacci-number.s: leetcode/1137-n-th-tribonacci-number.cpp.s
+.PHONY : leetcode/1137-n-th-tribonacci-number.s
+
+# target to generate assembly for a file
+leetcode/1137-n-th-tribonacci-number.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1137-n-th-tribonacci-number.dir\build.make CMakeFiles/1137-n-th-tribonacci-number.dir/leetcode/1137-n-th-tribonacci-number.cpp.s
+.PHONY : leetcode/1137-n-th-tribonacci-number.cpp.s
 
 leetcode/114-longest-common-subsequence.obj: leetcode/114-longest-common-subsequence.cpp.obj
 .PHONY : leetcode/114-longest-common-subsequence.obj
@@ -3925,6 +4001,30 @@ leetcode/739-daily-temperatures.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\739-daily-temperatures.dir\build.make CMakeFiles/739-daily-temperatures.dir/leetcode/739-daily-temperatures.cpp.s
 .PHONY : leetcode/739-daily-temperatures.cpp.s
 
+leetcode/740-delete-and-earn.obj: leetcode/740-delete-and-earn.cpp.obj
+.PHONY : leetcode/740-delete-and-earn.obj
+
+# target to build an object file
+leetcode/740-delete-and-earn.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\740-delete-and-earn.dir\build.make CMakeFiles/740-delete-and-earn.dir/leetcode/740-delete-and-earn.cpp.obj
+.PHONY : leetcode/740-delete-and-earn.cpp.obj
+
+leetcode/740-delete-and-earn.i: leetcode/740-delete-and-earn.cpp.i
+.PHONY : leetcode/740-delete-and-earn.i
+
+# target to preprocess a source file
+leetcode/740-delete-and-earn.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\740-delete-and-earn.dir\build.make CMakeFiles/740-delete-and-earn.dir/leetcode/740-delete-and-earn.cpp.i
+.PHONY : leetcode/740-delete-and-earn.cpp.i
+
+leetcode/740-delete-and-earn.s: leetcode/740-delete-and-earn.cpp.s
+.PHONY : leetcode/740-delete-and-earn.s
+
+# target to generate assembly for a file
+leetcode/740-delete-and-earn.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\740-delete-and-earn.dir\build.make CMakeFiles/740-delete-and-earn.dir/leetcode/740-delete-and-earn.cpp.s
+.PHONY : leetcode/740-delete-and-earn.cpp.s
+
 leetcode/77-combinations.obj: leetcode/77-combinations.cpp.obj
 .PHONY : leetcode/77-combinations.obj
 
@@ -4645,6 +4745,30 @@ luogu/B2025.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\B2025.dir\build.make CMakeFiles/B2025.dir/luogu/B2025.cpp.s
 .PHONY : luogu/B2025.cpp.s
 
+luogu/P1085.obj: luogu/P1085.cpp.obj
+.PHONY : luogu/P1085.obj
+
+# target to build an object file
+luogu/P1085.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\P1085.dir\build.make CMakeFiles/P1085.dir/luogu/P1085.cpp.obj
+.PHONY : luogu/P1085.cpp.obj
+
+luogu/P1085.i: luogu/P1085.cpp.i
+.PHONY : luogu/P1085.i
+
+# target to preprocess a source file
+luogu/P1085.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\P1085.dir\build.make CMakeFiles/P1085.dir/luogu/P1085.cpp.i
+.PHONY : luogu/P1085.cpp.i
+
+luogu/P1085.s: luogu/P1085.cpp.s
+.PHONY : luogu/P1085.s
+
+# target to generate assembly for a file
+luogu/P1085.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\P1085.dir\build.make CMakeFiles/P1085.dir/luogu/P1085.cpp.s
+.PHONY : luogu/P1085.cpp.s
+
 luogu/P5704.obj: luogu/P5704.cpp.obj
 .PHONY : luogu/P5704.obj
 
@@ -4716,6 +4840,30 @@ luogu/P5707.s: luogu/P5707.cpp.s
 luogu/P5707.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\P5707.dir\build.make CMakeFiles/P5707.dir/luogu/P5707.cpp.s
 .PHONY : luogu/P5707.cpp.s
+
+luogu/P5717.obj: luogu/P5717.cpp.obj
+.PHONY : luogu/P5717.obj
+
+# target to build an object file
+luogu/P5717.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\P5717.dir\build.make CMakeFiles/P5717.dir/luogu/P5717.cpp.obj
+.PHONY : luogu/P5717.cpp.obj
+
+luogu/P5717.i: luogu/P5717.cpp.i
+.PHONY : luogu/P5717.i
+
+# target to preprocess a source file
+luogu/P5717.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\P5717.dir\build.make CMakeFiles/P5717.dir/luogu/P5717.cpp.i
+.PHONY : luogu/P5717.cpp.i
+
+luogu/P5717.s: luogu/P5717.cpp.s
+.PHONY : luogu/P5717.s
+
+# target to generate assembly for a file
+luogu/P5717.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\P5717.dir\build.make CMakeFiles/P5717.dir/luogu/P5717.cpp.s
+.PHONY : luogu/P5717.cpp.s
 
 main.obj: main.cpp.obj
 .PHONY : main.obj
@@ -6132,6 +6280,7 @@ help:
 	@echo ... 103-binary-tree-zigzag-level-order-traversal
 	@echo ... 104-maximum-depth-of-binary-tree
 	@echo ... 110-balanced-binary-tree
+	@echo ... 1137-n-th-tribonacci-number
 	@echo ... 114-longest-common-subsequence
 	@echo ... 131-palindrome-partitioning
 	@echo ... 141-linked-list-cycle
@@ -6197,6 +6346,7 @@ help:
 	@echo ... 713-subarray-product-less-than-k
 	@echo ... 72-edit-distance
 	@echo ... 739-daily-temperatures
+	@echo ... 740-delete-and-earn
 	@echo ... 746-min-cost-climbing-stairs
 	@echo ... 77-combinations
 	@echo ... 78-subsets
@@ -6211,9 +6361,11 @@ help:
 	@echo ... 98-validate-binary-search-tree
 	@echo ... B2005
 	@echo ... B2025
+	@echo ... P1085
 	@echo ... P5704
 	@echo ... P5705
 	@echo ... P5707
+	@echo ... P5717
 	@echo ... QuickSort
 	@echo ... a
 	@echo ... algorithm
@@ -6342,6 +6494,9 @@ help:
 	@echo ... leetcode/110-balanced-binary-tree.obj
 	@echo ... leetcode/110-balanced-binary-tree.i
 	@echo ... leetcode/110-balanced-binary-tree.s
+	@echo ... leetcode/1137-n-th-tribonacci-number.obj
+	@echo ... leetcode/1137-n-th-tribonacci-number.i
+	@echo ... leetcode/1137-n-th-tribonacci-number.s
 	@echo ... leetcode/114-longest-common-subsequence.obj
 	@echo ... leetcode/114-longest-common-subsequence.i
 	@echo ... leetcode/114-longest-common-subsequence.s
@@ -6492,6 +6647,9 @@ help:
 	@echo ... leetcode/739-daily-temperatures.obj
 	@echo ... leetcode/739-daily-temperatures.i
 	@echo ... leetcode/739-daily-temperatures.s
+	@echo ... leetcode/740-delete-and-earn.obj
+	@echo ... leetcode/740-delete-and-earn.i
+	@echo ... leetcode/740-delete-and-earn.s
 	@echo ... leetcode/77-combinations.obj
 	@echo ... leetcode/77-combinations.i
 	@echo ... leetcode/77-combinations.s
@@ -6582,6 +6740,9 @@ help:
 	@echo ... luogu/B2025.obj
 	@echo ... luogu/B2025.i
 	@echo ... luogu/B2025.s
+	@echo ... luogu/P1085.obj
+	@echo ... luogu/P1085.i
+	@echo ... luogu/P1085.s
 	@echo ... luogu/P5704.obj
 	@echo ... luogu/P5704.i
 	@echo ... luogu/P5704.s
@@ -6591,6 +6752,9 @@ help:
 	@echo ... luogu/P5707.obj
 	@echo ... luogu/P5707.i
 	@echo ... luogu/P5707.s
+	@echo ... luogu/P5717.obj
+	@echo ... luogu/P5717.i
+	@echo ... luogu/P5717.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
